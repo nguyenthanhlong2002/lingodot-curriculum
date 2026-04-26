@@ -1,10 +1,10 @@
 [
     {
         "id": 1,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Biến (Variables)",
-        "description": "Cái hộp thần kỳ chứa đồ chơi.",
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 1: Nền tảng GDScript",
+        "description": "Hành trình chinh phục Chương 1: Nền tảng GDScript. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -54,16 +54,7 @@
                 "content": "Tạo biến 'is_alive' và gán giá trị ĐÚNG (true).",
                 "code_template": "var is_alive = [INPUT]",
                 "correct_answer": "true"
-            }
-        ]
-    },
-    {
-        "id": 2,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Toán tử & Print",
-        "description": "Phép thuật cộng trừ và tiếng nói của máy tính.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Máy tính nói 'Alo'",
@@ -105,16 +96,7 @@
                     "Lỗi"
                 ],
                 "correct_index": 0
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Điều kiện (If/Else)",
-        "description": "Ngã ba đường: Chọn lối đi đúng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Nếu... Thì...",
@@ -156,16 +138,7 @@
                     "not"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Mảng (Array)",
-        "description": "Cái khay đựng nhiều món đồ chơi.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Danh sách",
@@ -207,16 +180,7 @@
                     "length()"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 5,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Từ điển (Dictionary)",
-        "description": "Cuốn danh bạ tìm tên ra số.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Khóa và Giá trị",
@@ -240,16 +204,7 @@
                     "{}"
                 ],
                 "correct_index": 2
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Vòng Lặp (For Loops)",
-        "description": "Con vẹt lặp lại hành động.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Lặp lại",
@@ -273,16 +228,7 @@
                     "exit"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Hàm Số (Functions)",
-        "description": "Nút bấm thực hiện hành động.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Đóng gói hành động",
@@ -328,11 +274,11 @@
         ]
     },
     {
-        "id": 8,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Node cơ bản",
-        "description": "Các mảnh ghép Lego của Game.",
+        "id": 2,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 2: Node & Tọa độ 2D",
+        "description": "Hành trình chinh phục Chương 2: Node & Tọa độ 2D. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -375,16 +321,7 @@
                     "mask"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tọa độ 2D (Position)",
-        "description": "Bản đồ kho báu X và Y.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Trục tọa độ",
@@ -401,16 +338,7 @@
                     "Góc dưới bên phải"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 10,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Lắng nghe Nút bấm (Input)",
-        "description": "Điều khiển theo ý muốn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Hành động Input",
@@ -427,16 +355,7 @@
                     "is_action_just_released"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 11,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Mở Khóa Pixel Art",
-        "description": "Làm cho game nét căng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Khử nhòe",
@@ -452,16 +371,7 @@
                     "Nearest"
                 ],
                 "correct_index": 0
-            }
-        ]
-    },
-    {
-        "id": 12,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Giao Diện (UI Anchors)",
-        "description": "Giữ nút bấm không bị chạy lung tung.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Neo đậu (Anchor)",
@@ -482,11 +392,11 @@
         ]
     },
     {
-        "id": 13,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "CanvasLayer (UI Chuyên nghiệp)",
-        "description": "Lớp vẽ UI không bị trôi.",
+        "id": 3,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 3: UI & Giao diện Chuyên nghiệp",
+        "description": "Hành trình chinh phục Chương 3: UI & Giao diện Chuyên nghiệp. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -522,16 +432,7 @@
                     "Button"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 14,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Themes & Styles (Giao diện đồng bộ)",
-        "description": "Thiết kế bộ nhận diện thương hiệu cho UI game của bạn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Tổng quản Giao diện",
@@ -580,16 +481,7 @@
                 "content": "Sửa lỗi cú pháp khi đổi màu chữ bằng code.",
                 "code_template": "label.add_theme_[INPUT]_override(\"font_color\", Color.RED)",
                 "correct_answer": "color"
-            }
-        ]
-    },
-    {
-        "id": 15,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Y-Sort (Mới)",
-        "description": "Lớp vẽ thông minh.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Ai đứng trước ai?",
@@ -631,16 +523,7 @@
                 "title": "Thử thách 2.3: Điều khiển hướng",
                 "content": "Tạo biến 'direction'. Nếu nhấn 'ui_left' gán direction = -1, nhấn 'ui_right' gán direction = 1. Cập nhật position.x cộng thêm (direction * 10).",
                 "correct_answer": "var direction = 0\nfunc _process(delta):\n    if Input.is_action_pressed(\"ui_left\"):\n        direction = -1\n    elif Input.is_action_pressed(\"ui_right\"):\n        direction = 1\n    position.x += direction * 10"
-            }
-        ]
-    },
-    {
-        "id": 16,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Kỳ thi giữa kỳ 1",
-        "description": "Ôn tập kiến thức cơ bản.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Di chuyển",
@@ -651,11 +534,11 @@
         ]
     },
     {
-        "id": 17,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Node Va Chạm (Area2D)",
-        "description": "Cảm nhận khi chạm vào nhau.",
+        "id": 4,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 4: Thế giới Vật lý 2D",
+        "description": "Hành trình chinh phục Chương 4: Thế giới Vật lý 2D. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -669,16 +552,7 @@
                 "content": "Tín hiệu khi vật thể đi VÀO.",
                 "code_template": "signal body_[INPUT]",
                 "correct_answer": "entered"
-            }
-        ]
-    },
-    {
-        "id": 18,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Collision Layers & Masks",
-        "description": "Ai chạm vào ai?",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Phân loại va chạm",
@@ -695,16 +569,7 @@
                     "Layer 3"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 19,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Bộ đếm giờ (Timer)",
-        "description": "Chờ đợi là hạnh phúc.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Chạy đồng hồ",
@@ -722,16 +587,7 @@
                     "Wait Time"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 20,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Vật Lý Nhân Vật (CharacterBody2D)",
-        "description": "Di chuyển như dân chuyên nghiệp.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Velocity",
@@ -744,16 +600,7 @@
                 "content": "Hàm đặc trưng của Godot 4.",
                 "code_template": "[INPUT]()",
                 "correct_answer": "move_and_slide"
-            }
-        ]
-    },
-    {
-        "id": 21,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Move and Collide (Vật lý nảy bật)",
-        "description": "Xử lý va chạm chính xác cho đạn và các vật thể nảy.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Trượt hay Va?",
@@ -802,16 +649,7 @@
                 "content": "Sửa lỗi lấy tên của Node vừa bị đạn bắn trúng.",
                 "code_template": "var name = collision.[INPUT]().name",
                 "correct_answer": "get_collider"
-            }
-        ]
-    },
-    {
-        "id": 22,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "RigidBody2D (Vật lý mô phỏng)",
-        "description": "Hòn đá lăn và thùng gỗ.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Thả tự do",
@@ -832,11 +670,11 @@
         ]
     },
     {
-        "id": 23,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Phép Phân Thân (Instantiate)",
-        "description": "Sinh ra vạn vật.",
+        "id": 5,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 5: Vòng đời & Tín hiệu (Signals)",
+        "description": "Hành trình chinh phục Chương 5: Vòng đời & Tín hiệu (Signals). Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -850,16 +688,7 @@
                 "content": "Điền từ khóa.",
                 "code_template": "var q = Monster.[INPUT]()",
                 "correct_answer": "instantiate"
-            }
-        ]
-    },
-    {
-        "id": 24,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Preload vs Load",
-        "description": "Bí kíp nạp tài nguyên thông minh để game không bị giật lag.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Mua sắm thông minh",
@@ -908,16 +737,7 @@
                 "content": "Sửa đường dẫn tài nguyên (thiếu tiền tố hệ thống).",
                 "code_template": "var scene = preload(\"[INPUT]enemy.tscn\")",
                 "correct_answer": "res://"
-            }
-        ]
-    },
-    {
-        "id": 25,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Xóa rác (Queue Free)",
-        "description": "Dọn dẹp bộ nhớ.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Hủy Node",
@@ -934,16 +754,7 @@
                     "Vô hạn đạn"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 26,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Signal (Tín hiệu)",
-        "description": "Báo động đỏ.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Phát sóng",
@@ -972,23 +783,14 @@
                 "type": "code_challenge",
                 "title": "Thử thách 3.2: Va chạm trừ máu",
                 "content": "Kết nối tín hiệu body_entered của Area2D. Nếu 'body' có tên là 'Player', hãy trừ biến 'hp' đi 10 và in ra máu còn lại.",
-                "correct_answer": "func _on_body_entered(body):\n    if body.name == \"Player\":\n        hp -= 10\n        print(hp)"
+                "correct_answer": "var hp = 100\nfunc _on_body_entered(body):\n    if body.name == \"Player\":\n        hp -= 10\n        print(hp)"
             },
             {
                 "type": "code_challenge",
                 "title": "Thử thách 3.3: Hồi chiêu (Timer)",
                 "content": "Tạo biến 'can_shoot = true'. Khi bắn, gán 'can_shoot = false' và bắt đầu $Timer. Khi $Timer hết giờ (timeout), gán 'can_shoot = true'.",
                 "correct_answer": "var can_shoot = true\nfunc shoot():\n    if can_shoot:\n        can_shoot = false\n        $Timer.start()\nfunc _on_timer_timeout():\n    can_shoot = true"
-            }
-        ]
-    },
-    {
-        "id": 27,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Advanced Signals (Tín hiệu kèm dữ liệu)",
-        "description": "Gửi thông tin đi xa hơn: Không chỉ là báo động, mà còn báo ai làm!",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Bức thư kèm quà",
@@ -1037,16 +839,7 @@
                 "content": "Sửa lỗi khai báo Signal.",
                 "code_template": "signal player_dead[INPUT]",
                 "correct_answer": "()"
-            }
-        ]
-    },
-    {
-        "id": 28,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Kết nối Signal bằng Code",
-        "description": "Nối dây điện tự động.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Connect",
@@ -1063,58 +856,31 @@
         ]
     },
     {
-        "id": 29,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Hệ Liệt Kê (Enum)",
-        "description": "Đặt tên cho con số.",
+        "id": 6,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 6: Lập trình Hướng đối tượng (OOP)",
+        "description": "Hành trình chinh phục Chương 6: Lập trình Hướng đối tượng (OOP). Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
                 "title": "Trạng thái",
                 "content": "Thay vì dùng số 0, 1, 2, ta dùng Enum cho dễ đọc.",
                 "code_snippet": "enum State {IDLE, RUN, JUMP}"
-            }
-        ]
-    },
-    {
-        "id": 30,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Máy Trạng Thái (FSM)",
-        "description": "Bộ não nhân vật.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Match",
                 "content": "Dùng 'match' để chuyển đổi hành động.",
                 "code_snippet": "match current_state:\n    State.RUN: animation.play(\"run\")"
-            }
-        ]
-    },
-    {
-        "id": 31,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Kế Thừa (Extends)",
-        "description": "Cha truyền con nối.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Kế thừa",
                 "content": "Từ khóa khai báo.",
                 "code_template": "[INPUT] CharacterBody2D",
                 "correct_answer": "extends"
-            }
-        ]
-    },
-    {
-        "id": 32,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Composition Pattern",
-        "description": "Lắp ghép sức mạnh: Đừng viết Code khổng lồ, hãy chia nhỏ thành các Node chức năng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Lego trong lập trình",
@@ -1163,47 +929,20 @@
                 "content": "Sửa lỗi khai báo linh kiện.",
                 "code_template": "@onready [INPUT] inv = $Inventory",
                 "correct_answer": "var"
-            }
-        ]
-    },
-    {
-        "id": 33,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Biến Toàn Cầu (Autoload)",
-        "description": "Túi thần kỳ xuyên màn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Singleton",
                 "content": "File code tồn tại suốt game, dùng để lưu điểm số giữa các Level.",
                 "code_snippet": "Global.score += 1"
-            }
-        ]
-    },
-    {
-        "id": 34,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tài Nguyên (Resources)",
-        "description": "Phiếu lý lịch đồ vật.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Nạp dữ liệu",
                 "content": "Dùng hàm gì để lấy file .tres?",
                 "code_template": "var d = [INPUT](\"res://item.tres\")",
                 "correct_answer": "load"
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tùy biến Inspector (@export)",
-        "description": "Bảng điều khiển nhanh.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Xuất biến",
@@ -1227,32 +966,14 @@
                 "type": "code_challenge",
                 "title": "Thử thách 4.3: Tín hiệu báo chết",
                 "content": "Khai báo signal 'player_died'. Viết hàm 'check_death', nếu 'hp' <= 0 thì phát tín hiệu 'player_died' kèm theo vị trí 'position' hiện tại.",
-                "correct_answer": "signal player_died(pos)\nfunc check_death():\n    if hp <= 0:\n        player_died.emit(position)"
-            }
-        ]
-    },
-    {
-        "id": 36,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Quản lý Nhóm (Groups)",
-        "description": "Đồng phục cho Node.",
-        "stages": [
+                "correct_answer": "var hp = 100\nsignal player_died(pos)\nfunc check_death():\n    if hp <= 0:\n        player_died.emit(position)"
+            },
             {
                 "type": "teach",
                 "title": "Gắn tag",
                 "content": "Gắn tag 'Enemy' để tiêu diệt tất cả quái cùng lúc.",
                 "code_snippet": "get_tree().call_group(\"Enemy\", \"die\")"
-            }
-        ]
-    },
-    {
-        "id": 37,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Lưu Trữ (Save Game)",
-        "description": "Ghi chép vào máy.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Đường dẫn",
@@ -1267,11 +988,11 @@
         ]
     },
     {
-        "id": 38,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "TileMapLayer & Terrains",
-        "description": "Vẽ bản đồ tự động.",
+        "id": 7,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 7: Môi trường & Animation",
+        "description": "Hành trình chinh phục Chương 7: Môi trường & Animation. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -1289,16 +1010,7 @@
                     "Phát nhạc"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 39,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Terrains Nâng Cao",
-        "description": "Kết nối địa hình.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Connect Mode",
@@ -1309,32 +1021,14 @@
                     "Both"
                 ],
                 "correct_index": 2
-            }
-        ]
-    },
-    {
-        "id": 40,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "AnimationPlayer",
-        "description": "Cuốn sổ lật hình.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Phát hoạt ảnh",
                 "content": "Hàm chạy.",
                 "code_template": "$Anim.[INPUT](\"idle\")",
                 "correct_answer": "play"
-            }
-        ]
-    },
-    {
-        "id": 41,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "AnimationTree",
-        "description": "Sơ đồ chuyển động mượt.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "State Machine",
@@ -1351,16 +1045,7 @@
                     "Làm ảnh nét"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 42,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tween",
-        "description": "Chuyển động mượt mà.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Biến đổi dần dần",
@@ -1370,11 +1055,11 @@
         ]
     },
     {
-        "id": 43,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Await",
-        "description": "Đợi tớ một tí.",
+        "id": 8,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 8: Logic Game Nâng Cao",
+        "description": "Hành trình chinh phục Chương 8: Logic Game Nâng Cao. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "fill_code",
@@ -1382,16 +1067,7 @@
                 "content": "Dùng để đợi Timer.",
                 "code_template": "[INPUT] get_tree().create_timer(1).timeout",
                 "correct_answer": "await"
-            }
-        ]
-    },
-    {
-        "id": 44,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "RayCast2D",
-        "description": "Mắt thần Laser.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Ứng dụng",
@@ -1402,16 +1078,7 @@
                     "Phát nhạc"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 45,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Lerp & Clamp",
-        "description": "Làm mượt mọi thứ và thiết lập giới hạn an toàn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Dây thun và Hàng rào",
@@ -1460,48 +1127,21 @@
                 "content": "Sửa lỗi hàm Clamp (Thứ tự: Giá trị, Min, Max).",
                 "code_template": "hp = clamp(hp, [INPUT], 0)",
                 "correct_answer": "100"
-            }
-        ]
-    },
-    {
-        "id": 46,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Toán Vector 2D",
-        "description": "La bàn chỉ hướng.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Tìm hướng",
                 "content": "Hàm tìm hướng đến mục tiêu.",
                 "code_template": "var h = pos.[INPUT](target_pos)",
                 "correct_answer": "direction_to"
-            }
-        ]
-    },
-    {
-        "id": 47,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Trọng Lực",
-        "description": "Sức hút của đất.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Delta",
                 "content": "Nhân với delta để ổn định tốc độ.",
                 "code_template": "v.y += gravity * [INPUT]",
                 "correct_answer": "delta"
-            }
-        ]
-    },
-    {
-        "id": 48,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Bật Nhảy",
-        "description": "Lực đẩy lên.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Hướng nhảy",
@@ -1511,32 +1151,14 @@
                     "Trừ (-)"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Particles",
-        "description": "Hiệu ứng hạt.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Phun hạt",
                 "content": "Bật biến này.",
                 "code_template": "$P.[INPUT] = true",
                 "correct_answer": "emitting"
-            }
-        ]
-    },
-    {
-        "id": 50,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Camera2D Nâng Cao",
-        "description": "Ống kính chuyên nghiệp.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Smoothing",
@@ -1551,42 +1173,24 @@
         ]
     },
     {
-        "id": 51,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Parallax Background",
-        "description": "Chiều sâu thế giới.",
+        "id": 9,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 9: Hiệu ứng & AI",
+        "description": "Hành trình chinh phục Chương 9: Hiệu ứng & AI. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
                 "title": "Ảo giác chiều sâu",
                 "content": "Sử dụng ParallaxLayer để các lớp mây, núi di chuyển chậm hơn nhân vật.",
                 "code_snippet": "Motion Scale: (0.5, 0.5)"
-            }
-        ]
-    },
-    {
-        "id": 52,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Ánh Sáng 2D",
-        "description": "Thắp sáng màn đêm.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "PointLight2D",
                 "content": "Sử dụng PointLight2D để tạo đuốc. Dùng LightOccluder2D để cản sáng.",
                 "code_snippet": "LightOccluder2D -> Polygon"
-            }
-        ]
-    },
-    {
-        "id": 53,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "WorldEnvironment (Hiệu ứng tỏa sáng)",
-        "description": "Thổi hồn vào đồ họa: Làm game lung linh rực rỡ với Glow.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Flashlight của thế giới",
@@ -1635,16 +1239,7 @@
                 "content": "Sửa lỗi bật Glow bằng Code.",
                 "code_template": "env.glow_enabled = [INPUT]",
                 "correct_answer": "true"
-            }
-        ]
-    },
-    {
-        "id": 54,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Shaders (Phép màu đồ họa)",
-        "description": "Nhân vật phát sáng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "GPU Code",
@@ -1661,32 +1256,14 @@
                     "Lưu file"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 55,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Navigation & AI",
-        "description": "Quái vật tìm đường.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Điểm đến",
                 "content": "Gán vị trí mục tiêu.",
                 "code_template": "agent.target_position = [INPUT]",
                 "correct_answer": "player.position"
-            }
-        ]
-    },
-    {
-        "id": 56,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Di chuyển trên đường ray (Path2D)",
-        "description": "Làm quái vật tuần tra hoặc vật thể bay theo quỹ đạo vẽ sẵn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Vẽ đường cho hươu chạy",
@@ -1753,16 +1330,7 @@
                 "title": "Thử thách 5.3: RayCast phát hiện sàn",
                 "content": "Sử dụng $RayCast2D. Nếu RayCast đang va chạm (is_colliding), hãy in ra tên của vật thể vừa chạm vào.",
                 "correct_answer": "func _process(delta):\n    if $RayCast2D.is_colliding():\n        print($RayCast2D.get_collider().name)"
-            }
-        ]
-    },
-    {
-        "id": 57,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "VisibleOnScreenNotifier2D",
-        "description": "Tắt đèn khi đi vắng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Tối ưu AI",
@@ -1779,16 +1347,7 @@
                     "Làm sáng màn hình"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 58,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Âm Thanh",
-        "description": "Tiếng kêu thế giới.",
-        "stages": [
+            },
             {
                 "type": "quiz",
                 "title": "Âm thanh 2D",
@@ -1802,11 +1361,11 @@
         ]
     },
     {
-        "id": 59,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Sensei tổng hợp",
-        "description": "Kết nối mọi chiêu thức đã học thành một hệ thống hoàn chỉnh.",
+        "id": 10,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 10: Tối ưu & Debug chuyên sâu",
+        "description": "Hành trình chinh phục Chương 10: Tối ưu & Debug chuyên sâu. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -1849,16 +1408,7 @@
                 "content": "Làm nhân vật nháy đỏ bằng cách chỉnh màu modulate.",
                 "code_template": "modulate = Color.[INPUT]",
                 "correct_answer": "RED"
-            }
-        ]
-    },
-    {
-        "id": 60,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Lỗi Cú Pháp (Syntax Errors)",
-        "description": "Học cách đọc 'ngôn ngữ của máy' để không bao giờ sợ dấu gạch đỏ.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Dấu vết kẻ phạm tội",
@@ -1896,16 +1446,7 @@
                 "content": "Bạn dùng 'speed' nhưng chưa tạo nó. Hãy dùng từ khóa đúng.",
                 "code_template": "[INPUT] speed = 200",
                 "correct_answer": "var"
-            }
-        ]
-    },
-    {
-        "id": 61,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Lỗi Null (Invalid Get/Index)",
-        "description": "Truy tìm 'Bóng ma' trong code - khi bạn gọi một thứ không tồn tại.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Cái hộp rỗng",
@@ -1947,16 +1488,7 @@
                 "content": "Đôi khi code chạy trước khi Node kịp xuất hiện. Dùng từ khóa này.",
                 "code_template": "[INPUT] var label = $UI/Label",
                 "correct_answer": "@onready"
-            }
-        ]
-    },
-    {
-        "id": 62,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Dự án: Súng Máy (Rapid Fire)",
-        "description": "Áp dụng Timer và Instantiate để tạo cơn mưa đạn.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Cơ chế bắn liên thanh",
@@ -1994,16 +1526,7 @@
                 "content": "Đạn phải có hướng. Nếu đạn bay sang phải, trục X phải thế nào?",
                 "code_template": "new_bullet.velocity.x [INPUT] speed",
                 "correct_answer": "="
-            }
-        ]
-    },
-    {
-        "id": 63,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Object Pooling (Tối ưu hóa)",
-        "description": "Bí kíp làm game nghìn đạn không lag bằng cách 'tái chế' Node.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Đừng vứt rác, hãy tái chế!",
@@ -2049,11 +1572,11 @@
         ]
     },
     {
-        "id": 64,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Xuất Bản Game (Export)",
-        "description": "Khoảnh khắc vinh quang: Biến code thành file .exe hoặc .apk để khoe bạn bè.",
+        "id": 11,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 11: Nâng cao & Đa nền tảng",
+        "description": "Hành trình chinh phục Chương 11: Nâng cao & Đa nền tảng. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -2095,16 +1618,7 @@
                 "title": "Lời chúc từ Sensei",
                 "content": "Chúc mừng bạn! Bạn đã hoàn thành 61 bài học và nắm giữ chìa khóa tạo ra thế giới của riêng mình. Hãy tiếp tục sáng tạo, vì hành trình của một Game Developer thực thụ chỉ mới bắt đầu!",
                 "code_snippet": "print(\"Hello World, I am a Game Developer!\")"
-            }
-        ]
-    },
-    {
-        "id": 65,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Điều khiển Mobile (Touch & Drag)",
-        "description": "Chạm và vuốt để làm chủ màn hình cảm ứng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Bàn tay vô hình",
@@ -2153,16 +1667,7 @@
                 "content": "Sửa lỗi sai tên lớp sự kiện vuốt.",
                 "code_template": "if event is [INPUT]:",
                 "correct_answer": "InputEventScreenDrag"
-            }
-        ]
-    },
-    {
-        "id": 66,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tạm dừng Game (Pause/Resume)",
-        "description": "Nghỉ tay một chút với cơ chế đóng băng thời gian.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Nút bấm thời gian",
@@ -2211,16 +1716,7 @@
                 "content": "Sửa lỗi gọi hàm lấy cây Scene.",
                 "code_template": "[INPUT].paused = false",
                 "correct_answer": "get_tree()"
-            }
-        ]
-    },
-    {
-        "id": 67,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Đa ngôn ngữ (Localization)",
-        "description": "Đưa game ra thế giới với hệ thống dịch thuật.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Thông dịch viên thần kỳ",
@@ -2269,16 +1765,7 @@
                 "content": "Sửa lỗi hiển thị Key thay vì hiển thị nội dung dịch.",
                 "code_template": "label.text = [INPUT]",
                 "correct_answer": "tr(\"KEY_PLAY\")"
-            }
-        ]
-    },
-    {
-        "id": 68,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Static Typing (Định danh kiểu)",
-        "description": "Tăng tốc độ chạy game và giảm lỗi 'ngớ ngẩn' bằng cách khai báo kiểu dữ liệu rõ ràng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Cái nhãn trên hộp",
@@ -2327,16 +1814,7 @@
                 "content": "Sửa lỗi khai báo kiểu trả về cho hàm.",
                 "code_template": "func get_hp() [INPUT] int:",
                 "correct_answer": "->"
-            }
-        ]
-    },
-    {
-        "id": 69,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "RichTextLabel & BBCode",
-        "description": "Làm chữ nhấp nhô, đổi màu và tạo hiệu ứng văn bản xịn xò như các game RPG.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Văn bản ma thuật",
@@ -2385,16 +1863,7 @@
                 "content": "Sửa lỗi BBCode không hoạt động do quên thẻ kết thúc.",
                 "code_template": "[rainbow]Cầu vồng [INPUT]",
                 "correct_answer": "[/rainbow]"
-            }
-        ]
-    },
-    {
-        "id": 70,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Global Event Bus",
-        "description": "Kỹ thuật tối thượng để các Node ở xa nhau giao tiếp mà không cần kéo dây loằng ngoằng.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Tổng đài tín hiệu",
@@ -2447,11 +1916,11 @@
         ]
     },
     {
-        "id": 71,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "ShapeCast2D",
-        "description": "Dùng 'hình khối' để kiểm tra va chạm thay vì dùng 'tia', giúp phát hiện chính xác hơn.",
+        "id": 12,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Chương 12: Kỹ thuật Godot 4.x Chuyên sâu",
+        "description": "Hành trình chinh phục Chương 12: Kỹ thuật Godot 4.x Chuyên sâu. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -2501,16 +1970,7 @@
                 "content": "Sửa lỗi gọi hàm kiểm tra va chạm.",
                 "code_template": "if $SC.[INPUT]:",
                 "correct_answer": "is_colliding()"
-            }
-        ]
-    },
-    {
-        "id": 72,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Custom Resources (Database)",
-        "description": "Quản lý hàng nghìn vật phẩm, quái vật bằng cách tạo ra các file dữ liệu riêng biệt.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Thư viện hồ sơ",
@@ -2559,16 +2019,7 @@
                 "content": "Sửa lỗi nạp file Resource.",
                 "code_template": "var data = [INPUT](\"res://sword.tres\")",
                 "correct_answer": "load"
-            }
-        ]
-    },
-    {
-        "id": 73,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Audio Bus & Reverb",
-        "description": "Tạo hiệu ứng vang trong hang động hoặc làm âm thanh bóp nghẹt khi dưới nước.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Bàn trộn âm thanh",
@@ -2617,16 +2068,7 @@
                 "content": "Âm lượng trong Code dùng Decibel, không phải phần trăm 0-100. Muốn tắt tiếng (mute) hoàn toàn thì dùng hàm này.",
                 "code_template": "AudioServer.[INPUT](bus_idx, true)",
                 "correct_answer": "set_bus_mute"
-            }
-        ]
-    },
-    {
-        "id": 74,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "AudioStreamInteractive (4.3+)",
-        "description": "Âm nhạc tương tác mượt mà theo diễn biến của game.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Nhạc không khoảng cách",
@@ -2675,16 +2117,7 @@
                 "content": "Để dùng được Interactive, file nhạc nạp vào AudioStreamPlayer phải là loại Resource nào?",
                 "code_template": "Stream Type: [INPUT]",
                 "correct_answer": "AudioStreamInteractive"
-            }
-        ]
-    },
-    {
-        "id": 75,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Tool Scripts (@tool)",
-        "description": "Bắt code chạy ngay cả khi bạn đang thiết kế game, giúp tạo công cụ hỗ trợ thông minh.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Phép thuật Editor",
@@ -2733,16 +2166,7 @@
                 "content": "Sửa lỗi cú pháp tool script.",
                 "code_template": "[INPUT]tool",
                 "correct_answer": "@"
-            }
-        ]
-    },
-    {
-        "id": 76,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Input Mapping bằng Code",
-        "description": "Cho phép người chơi tự cài đặt lại phím bấm (Remap) theo ý thích.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Phím bấm linh hoạt",
@@ -2791,16 +2215,7 @@
                 "content": "Sửa lỗi thêm phím cho hành động.",
                 "code_template": "InputMap.[INPUT](\"left\", event)",
                 "correct_answer": "action_add_event"
-            }
-        ]
-    },
-    {
-        "id": 77,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Profiling & Optimization",
-        "description": "Tìm ra 'kẻ tội đồ' đang làm game của bạn bị giật lag.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Bác sĩ cho Game",
@@ -2849,16 +2264,7 @@
                 "content": "Sửa lỗi: Không nên tìm Node bằng tên trong mỗi khung hình.",
                 "code_template": "@onready var player = [INPUT](\"Player\")\nfunc _process(delta):\n    player.hp -= 1",
                 "correct_answer": "get_node"
-            }
-        ]
-    },
-    {
-        "id": 78,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
-        "title": "Nội suy vật lý (Interpolation)",
-        "description": "Làm game siêu mượt trên màn hình tần số quét cao (144Hz+).",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Chống giật khung hình",
@@ -2929,11 +2335,11 @@
         ]
     },
     {
-        "id": 79,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 1: Dựng Sân Khấu",
-        "description": "Băng chuyền vô tận.",
+        "id": 13,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Dự án: Flappy Bird",
+        "description": "Hành trình chinh phục Dự án: Flappy Bird. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
@@ -2954,16 +2360,7 @@
                 "content": "Nếu đất trôi hết màn hình, đưa nó ra sau lưng tấm kia (cộng 2 lần chiều rộng).",
                 "code_template": "position.x += real_width * [INPUT]",
                 "correct_answer": "2"
-            }
-        ]
-    },
-    {
-        "id": 80,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 2: Chướng Ngại Vật",
-        "description": "Bản thiết kế ống nước.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Ghép Lego",
@@ -2983,16 +2380,7 @@
                 "content": "Ống bay mất thì phải xóa ngay!",
                 "code_template": "if position.x < -50: [INPUT]()",
                 "correct_answer": "queue_free"
-            }
-        ]
-    },
-    {
-        "id": 81,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 3: Máy Tạo Ống",
-        "description": "Tự động hóa sản xuất.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Máy in 3D",
@@ -3012,16 +2400,7 @@
                 "content": "Phải đưa ống vào màn hình mới thấy được.",
                 "code_template": "[INPUT](new_pipe)",
                 "correct_answer": "add_child"
-            }
-        ]
-    },
-    {
-        "id": 82,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 4: Bậc Thầy Ngẫu Nhiên",
-        "description": "Ống cao ống thấp.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Đổ xúc xắc",
@@ -3034,16 +2413,7 @@
                 "content": "Hàm bốc số ngẫu nhiên của Godot.",
                 "code_template": "var y = [INPUT](50, 150)",
                 "correct_answer": "randf_range"
-            }
-        ]
-    },
-    {
-        "id": 83,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 5: Vỗ Cánh Bay Xa",
-        "description": "Diễn viên chính xuất hiện.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Hoạt hình",
@@ -3059,16 +2429,7 @@
                     "Nearest"
                 ],
                 "correct_index": 1
-            }
-        ]
-    },
-    {
-        "id": 84,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 6: Đối Mặt Trọng Lực",
-        "description": "Chim rơi tự do.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Lực nhảy",
@@ -3082,16 +2443,7 @@
                 "content": "Cộng trọng lực vào vận tốc mỗi giây.",
                 "code_template": "velocity.y += GRAVITY * [INPUT]",
                 "correct_answer": "delta"
-            }
-        ]
-    },
-    {
-        "id": 85,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 7: Va Chạm Đột Tử",
-        "description": "Hết đời chim.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Chơi lại",
@@ -3105,16 +2457,7 @@
                 "content": "Kiểm tra xem vật va chạm có tên là Player không.",
                 "code_template": "if body.name == \"[INPUT]\":",
                 "correct_answer": "Player"
-            }
-        ]
-    },
-    {
-        "id": 86,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 8: Hệ Thống Điểm",
-        "description": "Vùng ăn điểm tàng hình.",
-        "stages": [
+            },
             {
                 "type": "teach",
                 "title": "Cảm biến",
@@ -3127,16 +2470,7 @@
                 "content": "Gọi hàm add_score của Node Cha (Main).",
                 "code_template": "[INPUT]().add_score()",
                 "correct_answer": "get_parent"
-            }
-        ]
-    },
-    {
-        "id": 87,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 9: Vòng Lặp Game",
-        "description": "Màn hình chờ và kết thúc.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Trạng thái",
@@ -3150,16 +2484,7 @@
                 "content": "Hàm vỗ cánh bên trong Player.",
                 "code_template": "func [INPUT](): velocity.y = JUMP",
                 "correct_answer": "flap"
-            }
-        ]
-    },
-    {
-        "id": 88,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 10: Vá Lỗi Pro",
-        "description": "Cỗ máy Thụy Sĩ.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Ngắt cầu dao",
@@ -3173,16 +2498,7 @@
                 "content": "Ống chỉ trôi khi đang PLAYING.",
                 "code_template": "if state == main.GameState.[INPUT]:",
                 "correct_answer": "PLAYING"
-            }
-        ]
-    },
-    {
-        "id": 89,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
-        "title": "[Flappy] GĐ 11: Âm Thanh",
-        "description": "Loa phóng thanh.",
-        "stages": [
+            },
             {
                 "type": "fill_code",
                 "title": "Khai báo loa",
@@ -3200,11 +2516,11 @@
         ]
     },
     {
-        "id": 90,
-        "version": 1,
-        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Treasure Hunter.",
-        "title": "[Treasure] GĐ 1: Xây Đảo Giấu Vàng",
-        "description": "Vẽ bản đồ siêu tốc.",
+        "id": 14,
+        "version": 2,
+        "update_note": "Gộp bài và chuẩn hóa cấu trúc 4+4.",
+        "title": "Dự án: Đảo Giấu Vàng",
+        "description": "Hành trình chinh phục Dự án: Đảo Giấu Vàng. Tổng hợp các bài học từ nền tảng đến chuyên sâu.",
         "stages": [
             {
                 "type": "teach",
