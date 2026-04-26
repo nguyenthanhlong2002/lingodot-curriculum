@@ -1,0 +1,3116 @@
+[
+{
+        "id": 1,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Biến (Variables)",
+        "description": "Cái hộp thần kỳ chứa đồ chơi.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Cái hộp dán nhãn",
+                "content": "Biến giống như một cái hộp. Bạn dán nhãn tên cho nó và cất đồ vào trong. Dùng 'var' để tạo hộp nhé!",
+                "code_snippet": "var tui_do = \"Kiem Go\"\nvar mau = 100"
+            },
+            {
+                "type": "fill_code",
+                "title": "Tạo hộp Mana",
+                "content": "Hãy tạo một cái hộp tên là 'mana' và cho nó bằng 50.",
+                "code_template": "[INPUT] mana = 50",
+                "correct_answer": "var"
+            },
+            {
+                "type": "quiz",
+                "title": "Đổi đồ trong hộp",
+                "content": "Nếu bạn đã có var x = 10, sau đó bạn viết x = 20. Giá trị cuối cùng là bao nhiêu?",
+                "options": [
+                    "10",
+                    "20",
+                    "Cả hai"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Hộp không đổi (Hằng số)",
+                "content": "Dùng 'const' cho những thứ không bao giờ thay đổi như Tên Game.",
+                "code_template": "[INPUT] GAME_NAME = \"Sieu Nhan\"",
+                "correct_answer": "const"
+            },
+            {
+                "type": "quiz",
+                "title": "Kiểu dữ liệu",
+                "content": "Biến chứa số nguyên (1, 2, 3) được gọi là kiểu gì?",
+                "options": [
+                    "String",
+                    "int",
+                    "bool"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Hộp Logic",
+                "content": "Tạo biến 'is_alive' và gán giá trị ĐÚNG (true).",
+                "code_template": "var is_alive = [INPUT]",
+                "correct_answer": "true"
+            }
+        ]
+    },
+{
+        "id": 2,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Toán tử & Print",
+        "description": "Phép thuật cộng trừ và tiếng nói của máy tính.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Máy tính nói 'Alo'",
+                "content": "Hàm print() giúp máy tính hiện chữ ra màn hình.",
+                "code_snippet": "print(\"Sieu nhan dang chay!\")"
+            },
+            {
+                "type": "fill_code",
+                "title": "Gấp đôi sức mạnh",
+                "content": "Dùng dấu * để nhân đôi sức mạnh.",
+                "code_template": "var damage = 10 [INPUT] 2",
+                "correct_answer": "*"
+            },
+            {
+                "type": "quiz",
+                "title": "Dấu chia lấy dư",
+                "content": "Phép toán 10 % 3 sẽ cho kết quả là mấy?",
+                "options": [
+                    "3",
+                    "1",
+                    "0"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Cộng dồn",
+                "content": "Viết tắt của 'mau = mau + 10' là gì?",
+                "code_template": "mau [INPUT] 10",
+                "correct_answer": "+="
+            },
+            {
+                "type": "quiz",
+                "title": "Ghép chữ",
+                "content": "\"Alo \" + \"Admin\" sẽ cho ra kết quả gì?",
+                "options": [
+                    "Alo Admin",
+                    "AloAdmin",
+                    "Lỗi"
+                ],
+                "correct_index": 0
+            }
+        ]
+    },
+{
+        "id": 3,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Điều kiện (If/Else)",
+        "description": "Ngã ba đường: Chọn lối đi đúng.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Nếu... Thì...",
+                "content": "Dùng 'if' để kiểm tra điều kiện.",
+                "code_snippet": "if mau <= 0:\n    print(\"Thua\")"
+            },
+            {
+                "type": "fill_code",
+                "title": "Kiểm tra Mana",
+                "content": "Nếu mana lớn hơn 10.",
+                "code_template": "if mana [INPUT] 10:",
+                "correct_answer": ">"
+            },
+            {
+                "type": "quiz",
+                "title": "So sánh bằng",
+                "content": "Dấu nào dùng để kiểm tra 2 thứ có BẰNG NHAU không?",
+                "options": [
+                    "=",
+                    "==",
+                    "==="
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Ngược lại",
+                "content": "Nếu không thỏa mãn IF thì chạy vào đâu?",
+                "code_template": "[INPUT]:\n    print(\"Khong du mana\")",
+                "correct_answer": "else"
+            },
+            {
+                "type": "quiz",
+                "title": "Kết hợp điều kiện",
+                "content": "Từ khóa nào bắt buộc CẢ HAI điều kiện phải đúng?",
+                "options": [
+                    "or",
+                    "and",
+                    "not"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 4,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Mảng (Array)",
+        "description": "Cái khay đựng nhiều món đồ chơi.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Danh sách",
+                "content": "Mảng bắt đầu đếm từ số 0.",
+                "code_snippet": "var tui = [\"Tao\", \"Banh\"]"
+            },
+            {
+                "type": "fill_code",
+                "title": "Thêm đồ",
+                "content": "Dùng hàm append.",
+                "code_template": "tui.[INPUT](\"Kiem\")",
+                "correct_answer": "append"
+            },
+            {
+                "type": "quiz",
+                "title": "Lấy đồ",
+                "content": "Lấy phần tử đầu tiên của mảng 'arr'?",
+                "options": [
+                    "arr[0]",
+                    "arr[1]",
+                    "arr.first()"
+                ],
+                "correct_index": 0
+            },
+            {
+                "type": "fill_code",
+                "title": "Xóa đồ",
+                "content": "Xóa phần tử tại vị trí số 0.",
+                "code_template": "tui.[INPUT](0)",
+                "correct_answer": "remove_at"
+            },
+            {
+                "type": "quiz",
+                "title": "Đếm tổng",
+                "content": "Hàm lấy số lượng phần tử?",
+                "options": [
+                    "count()",
+                    "size()",
+                    "length()"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 5,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Từ điển (Dictionary)",
+        "description": "Cuốn danh bạ tìm tên ra số.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Khóa và Giá trị",
+                "content": "Dictionary giúp bạn tìm thông tin cực nhanh bằng tên gọi (Key).",
+                "code_snippet": "var tui_do = {\"mau\": 100, \"vang\": 50}\nprint(tui_do[\"mau\"])"
+            },
+            {
+                "type": "fill_code",
+                "title": "Tìm vàng",
+                "content": "Điền chữ để lấy số vàng từ túi đồ.",
+                "code_template": "var v = tui_do[\"[INPUT]\"]",
+                "correct_answer": "vang"
+            },
+            {
+                "type": "quiz",
+                "title": "Ngoặc của Dictionary",
+                "content": "Dictionary dùng loại ngoặc nào để khai báo?",
+                "options": [
+                    "[]",
+                    "()",
+                    "{}"
+                ],
+                "correct_index": 2
+            }
+        ]
+    },
+{
+        "id": 6,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Vòng Lặp (For Loops)",
+        "description": "Con vẹt lặp lại hành động.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Lặp lại",
+                "content": "Dùng 'for' để làm một việc nhiều lần cho cả một danh sách.",
+                "code_snippet": "for con_vat in [\"Cho\", \"Meo\"]:\n    print(con_vat)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Vòng lặp số",
+                "content": "Lặp lại 5 lần bằng hàm range.",
+                "code_template": "for i in [INPUT](5):",
+                "correct_answer": "range"
+            },
+            {
+                "type": "quiz",
+                "title": "Dừng vòng lặp",
+                "content": "Từ khóa nào giúp bạn thoát khỏi vòng lặp ngay lập tức?",
+                "options": [
+                    "stop",
+                    "break",
+                    "exit"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 7,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Hàm Số (Functions)",
+        "description": "Nút bấm thực hiện hành động.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Đóng gói hành động",
+                "content": "Dùng 'func' để dạy máy tính một kỹ năng mới.",
+                "code_snippet": "func nhay():\n    print(\"Dang nhay cao\")"
+            },
+            {
+                "type": "fill_code",
+                "title": "Trả về kết quả",
+                "content": "Dùng từ khóa để gửi kết quả về.",
+                "code_template": "func cong(a, b):\n    [INPUT] a + b",
+                "correct_answer": "return"
+            },
+            {
+                "type": "quiz",
+                "title": "Gọi hàm",
+                "content": "Để thực hiện hàm 'chay()', bạn viết thế nào?",
+                "options": [
+                    "chay",
+                    "chay()",
+                    "func chay"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 8,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Node cơ bản",
+        "description": "Các mảnh ghép Lego của Game.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Mọi thứ là Node",
+                "content": "Trong Godot, nhân vật, hình ảnh, âm thanh đều là Node.",
+                "code_snippet": "Add Child Node"
+            },
+            {
+                "type": "fill_code",
+                "title": "Truy cập Node",
+                "content": "Dùng dấu đặc biệt để gọi Node con.",
+                "code_template": "[INPUT]Sprite2D.show()",
+                "correct_answer": "$"
+            },
+            {
+                "type": "quiz",
+                "title": "Node gốc",
+                "content": "Một Scene có thể có mấy Node gốc?",
+                "options": [
+                    "Nhiều",
+                    "1",
+                    "Không giới hạn"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Khai báo nhanh",
+                "content": "Sử dụng từ khóa để gán Node vào biến khi vừa chạy game.",
+                "code_template": "[INPUT] var p = $Player",
+                "correct_answer": "@onready"
+            },
+            {
+                "type": "quiz",
+                "title": "Hiện/Ẩn",
+                "content": "Thuộc tính nào dùng để ẩn Node đi?",
+                "options": [
+                    "hide",
+                    "visible",
+                    "mask"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 9,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Tọa độ 2D (Position)",
+        "description": "Bản đồ kho báu X và Y.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Trục tọa độ",
+                "content": "X là ngang. Y là dọc. Lưu ý: Y càng lớn thì càng đi xuống dưới!",
+                "code_snippet": "position.x += 10 # Qua phai\nposition.y -= 10 # Len tren"
+            },
+            {
+                "type": "quiz",
+                "title": "Gốc tọa độ",
+                "content": "Vị trí (0,0) nằm ở đâu?",
+                "options": [
+                    "Chính giữa",
+                    "Góc trên bên trái",
+                    "Góc dưới bên phải"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 10,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Lắng nghe Nút bấm (Input)",
+        "description": "Điều khiển theo ý muốn.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Hành động Input",
+                "content": "Sử dụng Class 'Input' để biết người chơi có bấm phím hay không.",
+                "code_snippet": "if Input.is_action_pressed(\"ui_right\"):\n    position.x += 5"
+            },
+            {
+                "type": "quiz",
+                "title": "Phân biệt Input",
+                "content": "Hàm nào chỉ trả về ĐÚNG 1 lần duy nhất khi vừa nhấn phím xuống?",
+                "options": [
+                    "is_action_pressed",
+                    "is_action_just_pressed",
+                    "is_action_just_released"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 11,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Mở Khóa Pixel Art",
+        "description": "Làm cho game nét căng.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Khử nhòe",
+                "content": "Mặc định Godot làm mịn ảnh. Game Pixel cần chỉnh về 'Nearest'.",
+                "code_snippet": "Project Settings -> Textures -> Default Texture Filter: Nearest"
+            },
+            {
+                "type": "quiz",
+                "title": "Bộ lọc",
+                "content": "Chế độ nào khiến ảnh Pixel bị mờ?",
+                "options": [
+                    "Linear",
+                    "Nearest"
+                ],
+                "correct_index": 0
+            }
+        ]
+    },
+{
+        "id": 12,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Giao Diện (UI Anchors)",
+        "description": "Giữ nút bấm không bị chạy lung tung.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Neo đậu (Anchor)",
+                "content": "Dùng Anchor để nút bấm luôn ở vị trí cố định trên mọi màn hình.",
+                "code_snippet": "Layout -> Center"
+            },
+            {
+                "type": "quiz",
+                "title": "Xếp hàng",
+                "content": "Để các nút bấm tự xếp hàng dọc, ta dùng Node gì?",
+                "options": [
+                    "HBoxContainer",
+                    "VBoxContainer",
+                    "GridContainer"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 13,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "CanvasLayer (UI Chuyên nghiệp)",
+        "description": "Lớp vẽ UI không bị trôi.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "UI luôn đứng yên",
+                "content": "CanvasLayer giúp các nút bấm, điểm số không bị trôi đi khi Camera di chuyển.",
+                "code_snippet": "CanvasLayer -> Label"
+            },
+            {
+                "type": "quiz",
+                "title": "Tại sao dùng CanvasLayer?",
+                "content": "Nếu không có nó, chuyện gì xảy ra khi Camera chạy?",
+                "options": [
+                    "UI biến mất",
+                    "UI bị trôi ra khỏi màn hình",
+                    "Game bị lag"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Thứ tự vẽ",
+                "content": "Thuộc tính quyết định lớp nào nằm trên lớp nào?",
+                "code_template": "layer = [INPUT]",
+                "correct_answer": "1"
+            },
+            {
+                "type": "quiz",
+                "title": "Node con",
+                "content": "Node nào dùng hiện chữ trong UI?",
+                "options": [
+                    "Sprite2D",
+                    "Label",
+                    "Button"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+    "id": 14,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Themes & Styles (Giao diện đồng bộ)",
+    "description": "Thiết kế bộ nhận diện thương hiệu cho UI game của bạn.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Tổng quản Giao diện",
+            "content": "Thay vì chỉnh màu từng nút bấm, ta dùng 'Theme'. Khi bạn đổi màu trong Theme, toàn bộ nút bấm trong game sẽ đổi theo. StyleBoxFlat là công cụ mạnh nhất để vẽ nền nút bấm.",
+            "code_snippet": "var theme = Theme.new()\nbutton.theme = theme"
+        },
+        {
+            "type": "fill_code",
+            "title": "Gán chủ đề",
+            "content": "Gán đối tượng Theme cho một Node giao diện.",
+            "code_template": "control.[INPUT] = my_theme",
+            "correct_answer": "theme"
+        },
+        {
+            "type": "quiz",
+            "title": "Sức mạnh StyleBox",
+            "content": "Để bo góc (Corner Radius) cho một cái nút, ta thường dùng loại StyleBox nào?",
+            "options": [
+                "StyleBoxEmpty",
+                "StyleBoxFlat",
+                "StyleBoxTexture"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Ghi đè phong cách",
+            "content": "Dùng code để thay đổi StyleBox của nút ở trạng thái bình thường.",
+            "code_template": "btn.add_theme_stylebox_[INPUT]("normal", my_style)",
+            "correct_answer": "override"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy kế thừa",
+            "content": "Nếu Node cha có Theme, các Node con có tự động nhận Theme đó không?",
+            "options": [
+                "Có, chúng tự động kế thừa trừ khi bị ghi đè riêng",
+                "Không, phải gán cho từng cái",
+                "Chỉ các Node Label mới nhận"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai đường dẫn màu",
+            "content": "Sửa lỗi cú pháp khi đổi màu chữ bằng code.",
+            "code_template": "label.add_theme_[INPUT]_override("font_color", Color.RED)",
+            "correct_answer": "color"
+        }
+    ]
+},
+{
+        "id": 15,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Y-Sort (Mới)",
+        "description": "Lớp vẽ thông minh.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Ai đứng trước ai?",
+                "content": "Trong game Top-down, nhân vật đi xuống dưới thì phải hiện lên trên cái cây. Bật Y-Sort để Godot tự động sắp xếp dựa theo tọa độ Y.",
+                "code_snippet": "y_sort_enabled = true"
+            },
+            {
+                "type": "fill_code",
+                "title": "Bật sắp xếp",
+                "content": "Kích hoạt thuộc tính tự động sắp xếp theo trục Y.",
+                "code_template": "[INPUT]_sort_enabled = true",
+                "correct_answer": "y"
+            },
+            {
+                "type": "quiz",
+                "title": "Trục tọa độ",
+                "content": "Y-Sort dựa vào giá trị nào để quyết định vật nào vẽ trước?",
+                "options": [
+                    "Tọa độ X",
+                    "Tọa độ Y",
+                    "Z-Index"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 16,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Kỳ thi giữa kỳ 1",
+        "description": "Ôn tập kiến thức cơ bản.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Di chuyển",
+                "content": "Nếu bấm nút 'up', hãy trừ y đi 10.",
+                "code_template": "if Input.is_action_pressed(\"up\"): position.y [INPUT]= 10",
+                "correct_answer": "-"
+            }
+        ]
+    },
+{
+        "id": 17,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Node Va Chạm (Area2D)",
+        "description": "Cảm nhận khi chạm vào nhau.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Vùng nhạy cảm",
+                "content": "Area2D dùng để phát hiện vật thể đi vào/ra một vùng nhất định.",
+                "code_snippet": "func _on_body_entered(body):"
+            },
+            {
+                "type": "fill_code",
+                "title": "Tín hiệu",
+                "content": "Tín hiệu khi vật thể đi VÀO.",
+                "code_template": "signal body_[INPUT]",
+                "correct_answer": "entered"
+            }
+        ]
+    },
+{
+        "id": 18,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Collision Layers & Masks",
+        "description": "Ai chạm vào ai?",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Phân loại va chạm",
+                "content": "Layer: Tôi là ai. Mask: Tôi muốn va chạm với lớp nào. Giúp đạn không tự bắn trúng chủ nhân.",
+                "code_snippet": "Layer 1: Player, Layer 2: Enemy"
+            },
+            {
+                "type": "quiz",
+                "title": "Mask là gì?",
+                "content": "Nếu Player muốn nhặt xu ở Layer 3, Player cần đặt Mask là mấy?",
+                "options": [
+                    "Mask 1",
+                    "Mask 3",
+                    "Layer 3"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 19,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Bộ đếm giờ (Timer)",
+        "description": "Chờ đợi là hạnh phúc.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Chạy đồng hồ",
+                "content": "Hàm để bắt đầu đếm giờ.",
+                "code_template": "$Timer.[INPUT]()",
+                "correct_answer": "start"
+            },
+            {
+                "type": "quiz",
+                "title": "Tự lặp",
+                "content": "Thuộc tính giúp Timer tự chạy lại?",
+                "options": [
+                    "One Shot",
+                    "Autostart",
+                    "Wait Time"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 20,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Vật Lý Nhân Vật (CharacterBody2D)",
+        "description": "Di chuyển như dân chuyên nghiệp.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Velocity",
+                "content": "Cho vận tốc và gọi 'move_and_slide()'.",
+                "code_snippet": "velocity.x = 200\nmove_and_slide()"
+            },
+            {
+                "type": "fill_code",
+                "title": "Hàm vật lý",
+                "content": "Hàm đặc trưng của Godot 4.",
+                "code_template": "[INPUT]()",
+                "correct_answer": "move_and_slide"
+            }
+        ]
+    },
+{
+    "id": 21,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Move and Collide (Vật lý nảy bật)",
+    "description": "Xử lý va chạm chính xác cho đạn và các vật thể nảy.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Trượt hay Va?",
+            "content": "move_and_slide() giúp nhân vật trượt dọc tường. move_and_collide() khiến vật thể dừng khựng lại và trả về dữ liệu va chạm (vector pháp tuyến) để bạn tính toán nảy bật.",
+            "code_snippet": "var collision = move_and_collide(velocity * delta)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Hàm va chạm",
+            "content": "Sử dụng hàm trả về thông tin va chạm chi tiết.",
+            "code_template": "var info = [INPUT](velocity * delta)",
+            "correct_answer": "move_and_collide"
+        },
+        {
+            "type": "quiz",
+            "title": "Vector pháp tuyến (Normal)",
+            "content": "Trong kết quả va chạm, 'get_normal()' trả về vector gì?",
+            "options": [
+                "Hướng di chuyển của vật",
+                "Hướng vuông góc với bề mặt vừa chạm vào",
+                "Vị trí của vật va chạm"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Phản xạ (Bounce)",
+            "content": "Làm vận tốc nảy ngược lại khi chạm tường.",
+            "code_template": "velocity = velocity.[INPUT](collision.get_normal())",
+            "correct_answer": "bounce"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy Delta",
+            "content": "Sự khác biệt quan trọng nhất khi dùng move_and_collide so với move_and_slide là gì?",
+            "options": [
+                "Phải tự nhân với delta trong tham số truyền vào",
+                "Không cần dùng biến velocity",
+                "Tốc độ chậm hơn"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Lấy đối tượng chạm",
+            "content": "Sửa lỗi lấy tên của Node vừa bị đạn bắn trúng.",
+            "code_template": "var name = collision.[INPUT]().name",
+            "correct_answer": "get_collider"
+        }
+    ]
+},
+{
+        "id": 22,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "RigidBody2D (Vật lý mô phỏng)",
+        "description": "Hòn đá lăn và thùng gỗ.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Thả tự do",
+                "content": "Khác với CharacterBody, RigidBody hoàn toàn bị điều khiển bởi trọng lực và va chạm của Engine.",
+                "code_snippet": "Freeze: Để đứng yên tạm thời"
+            },
+            {
+                "type": "quiz",
+                "title": "Tác động lực",
+                "content": "Để đẩy một RigidBody, ta dùng hàm gì?",
+                "options": [
+                    "move_and_slide",
+                    "apply_central_impulse",
+                    "position += 1"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 23,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Phép Phân Thân (Instantiate)",
+        "description": "Sinh ra vạn vật.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Từ bản vẽ ra đời",
+                "content": "Dùng '.instantiate()' để tạo đối tượng thật từ file .tscn.",
+                "code_snippet": "var d = Bullet.instantiate()\nadd_child(d)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Phân thân",
+                "content": "Điền từ khóa.",
+                "code_template": "var q = Monster.[INPUT]()",
+                "correct_answer": "instantiate"
+            }
+        ]
+    },
+{
+        "id": 24,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Preload vs Load",
+        "description": "Bí kíp nạp tài nguyên thông minh để game không bị giật lag.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Mua sắm thông minh",
+                "content": "Hãy tưởng tượng Preload như việc bạn mua sẵn nguyên liệu trước khi nấu ăn, còn Load là đang nấu mới chạy ra chợ. Preload nạp file ngay khi Script sẵn sàng, giúp game không bị 'khựng' khi sinh vật xuất hiện.",
+                "code_snippet": "var bullet = preload(\"res://bullet.tscn\")"
+            },
+            {
+                "type": "fill_code",
+                "title": "Nạp sẵn đạn",
+                "content": "Sử dụng hàm tối ưu nhất để nạp file cảnh.",
+                "code_template": "var b = [INPUT](\"res://bullet.tscn\")",
+                "correct_answer": "preload"
+            },
+            {
+                "type": "quiz",
+                "title": "Bản chất tốc độ",
+                "content": "Tại sao dùng preload lại tránh được hiện tượng lag (stutter)?",
+                "options": [
+                    "Vì nó nạp vào RAM ngay từ lúc đầu",
+                    "Vì nó làm file nhẹ đi",
+                    "Vì nó xóa bớt file thừa"
+                ],
+                "correct_index": 0
+            },
+            {
+                "type": "fill_code",
+                "title": "Combo nạp và tạo",
+                "content": "Nạp và tạo bản sao ngay trên một dòng code.",
+                "code_template": "var obj = preload(\"res://item.tscn\").[INPUT]()",
+                "correct_answer": "instantiate"
+            },
+            {
+                "type": "quiz",
+                "title": "Bẫy tài nguyên",
+                "content": "Điều gì xảy ra nếu bạn dùng load(\"file_rat_nang.tscn\") liên tục trong hàm _process?",
+                "options": [
+                    "Game chạy nhanh hơn",
+                    "Game bị sụt giảm FPS nghiêm trọng",
+                    "Không có chuyện gì xảy ra"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fix_bug",
+                "title": "Đường dẫn lỗi",
+                "content": "Sửa đường dẫn tài nguyên (thiếu tiền tố hệ thống).",
+                "code_template": "var scene = preload(\"[INPUT]enemy.tscn\")",
+                "correct_answer": "res://"
+            }
+        ]
+    },
+{
+        "id": 25,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Xóa rác (Queue Free)",
+        "description": "Dọn dẹp bộ nhớ.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Hủy Node",
+                "content": "Dùng queue_free() để xóa vật thể an toàn.",
+                "code_snippet": "queue_free()"
+            },
+            {
+                "type": "quiz",
+                "title": "Hệ quả",
+                "content": "Nếu không xóa đạn bay khỏi màn hình thì sao?",
+                "options": [
+                    "Game mượt hơn",
+                    "Tràn bộ nhớ gây lag",
+                    "Vô hạn đạn"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 26,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Signal (Tín hiệu)",
+        "description": "Báo động đỏ.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Phát sóng",
+                "content": "Hàm phát tín hiệu.",
+                "code_template": "my_signal.[INPUT]()",
+                "correct_answer": "emit"
+            },
+            {
+                "type": "quiz",
+                "title": "Khai báo",
+                "content": "Từ khóa tạo tín hiệu?",
+                "options": [
+                    "var",
+                    "func",
+                    "signal"
+                ],
+                "correct_index": 2
+            }
+        ]
+    },
+{
+        "id": 27,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Advanced Signals (Tín hiệu kèm dữ liệu)",
+        "description": "Gửi thông tin đi xa hơn: Không chỉ là báo động, mà còn báo ai làm!",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Bức thư kèm quà",
+                "content": "Tín hiệu bình thường chỉ là 'Alo!'. Tín hiệu nâng cao là 'Alo! Tôi bị trừ 10 máu nè!'. Ta thêm tên biến vào trong ngoặc của signal để gửi kèm dữ liệu.",
+                "code_snippet": "signal damage_taken(amount)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Khai báo biến",
+                "content": "Khai báo tín hiệu 'scored' mang theo một số nguyên là 'value'.",
+                "code_template": "signal scored([INPUT])",
+                "correct_answer": "value"
+            },
+            {
+                "type": "quiz",
+                "title": "Tại sao cần dữ liệu?",
+                "content": "Lợi ích lớn nhất của việc gửi kèm dữ liệu trong Signal là gì?",
+                "options": [
+                    "Để làm Code phức tạp hơn",
+                    "Để đối tượng nhận biết chính xác chuyện gì vừa xảy ra (ví dụ: mất bao nhiêu máu)",
+                    "Để máy tính chạy mát hơn"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Phát sóng kèm quà",
+                "content": "Phát tín hiệu 'hit' kèm giá trị 50 sát thương.",
+                "code_template": "hit.[INPUT](50)",
+                "correct_answer": "emit"
+            },
+            {
+                "type": "quiz",
+                "title": "Bẫy kết nối",
+                "content": "Nếu Signal khai báo có 1 tham số, nhưng hàm nhận (callback) lại không có tham số nào, điều gì xảy ra?",
+                "options": [
+                    "Vẫn chạy bình thường",
+                    "Lỗi crash game vì không khớp số lượng tham số",
+                    "Tín hiệu tự động bị hủy"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fix_bug",
+                "title": "Thiếu ngoặc",
+                "content": "Sửa lỗi khai báo Signal.",
+                "code_template": "signal player_dead[INPUT]",
+                "correct_answer": "()"
+            }
+        ]
+    },
+{
+        "id": 28,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Kết nối Signal bằng Code",
+        "description": "Nối dây điện tự động.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Connect",
+                "content": "Dùng code để nối tín hiệu thay vì kéo thả.",
+                "code_snippet": "$Btn.pressed.connect(on_click)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Nối dây",
+                "content": "Điền hàm.",
+                "code_template": "$T.timeout.[INPUT](_on_done)",
+                "correct_answer": "connect"
+            }
+        ]
+    },
+{
+        "id": 29,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Hệ Liệt Kê (Enum)",
+        "description": "Đặt tên cho con số.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Trạng thái",
+                "content": "Thay vì dùng số 0, 1, 2, ta dùng Enum cho dễ đọc.",
+                "code_snippet": "enum State {IDLE, RUN, JUMP}"
+            }
+        ]
+    },
+{
+        "id": 30,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Máy Trạng Thái (FSM)",
+        "description": "Bộ não nhân vật.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Match",
+                "content": "Dùng 'match' để chuyển đổi hành động.",
+                "code_snippet": "match current_state:\n    State.RUN: animation.play(\"run\")"
+            }
+        ]
+    },
+{
+        "id": 31,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Kế Thừa (Extends)",
+        "description": "Cha truyền con nối.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Kế thừa",
+                "content": "Từ khóa khai báo.",
+                "code_template": "[INPUT] CharacterBody2D",
+                "correct_answer": "extends"
+            }
+        ]
+    },
+{
+        "id": 32,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Composition Pattern",
+        "description": "Lắp ghép sức mạnh: Đừng viết Code khổng lồ, hãy chia nhỏ thành các Node chức năng.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Lego trong lập trình",
+                "content": "Thay vì viết mọi thứ vào Player, ta tạo các Node con riêng biệt: HealthComponent (lo máu), MoveComponent (lo chạy). Cần gì thì 'lắp' Node đó vào nhân vật.",
+                "code_snippet": "@onready var health = $HealthComponent"
+            },
+            {
+                "type": "fill_code",
+                "title": "Gọi linh kiện",
+                "content": "Lấy Node 'HitBox' đã được lắp vào nhân vật.",
+                "code_template": "@onready var hitbox = [INPUT]HitBox",
+                "correct_answer": "$"
+            },
+            {
+                "type": "quiz",
+                "title": "Mục tiêu tối thượng",
+                "content": "Tại sao nên dùng Composition thay vì viết hết vào một Script duy nhất?",
+                "options": [
+                    "Để dễ dàng tái sử dụng logic (ví dụ: cả Player và Enemy đều dùng chung HealthComponent)",
+                    "Để file Script dài hơn cho chuyên nghiệp",
+                    "Để Godot tự động viết code"
+                ],
+                "correct_index": 0
+            },
+            {
+                "type": "fill_code",
+                "title": "Ủy quyền xử lý",
+                "content": "Khi trúng đòn, hãy gọi hàm xử lý của linh kiện Máu.",
+                "code_template": "func _on_hit(): [INPUT].take_damage(10)",
+                "correct_answer": "health"
+            },
+            {
+                "type": "quiz",
+                "title": "Sai lầm phổ biến",
+                "content": "Khi dùng Composition, nếu ta xóa Node linh kiện trong Scene Tree nhưng vẫn gọi nó trong Code, chuyện gì xảy ra?",
+                "options": [
+                    "Game tự tìm linh kiện khác",
+                    "Lỗi 'Null Instance' và crash game",
+                    "Linh kiện tự động xuất hiện lại"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fix_bug",
+                "title": "Thiếu từ khóa",
+                "content": "Sửa lỗi khai báo linh kiện.",
+                "code_template": "@onready [INPUT] inv = $Inventory",
+                "correct_answer": "var"
+            }
+        ]
+    },
+{
+        "id": 33,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Biến Toàn Cầu (Autoload)",
+        "description": "Túi thần kỳ xuyên màn.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Singleton",
+                "content": "File code tồn tại suốt game, dùng để lưu điểm số giữa các Level.",
+                "code_snippet": "Global.score += 1"
+            }
+        ]
+    },
+{
+        "id": 34,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Tài Nguyên (Resources)",
+        "description": "Phiếu lý lịch đồ vật.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Nạp dữ liệu",
+                "content": "Dùng hàm gì để lấy file .tres?",
+                "code_template": "var d = [INPUT](\"res://item.tres\")",
+                "correct_answer": "load"
+            }
+        ]
+    },
+{
+        "id": 35,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Tùy biến Inspector (@export)",
+        "description": "Bảng điều khiển nhanh.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Xuất biến",
+                "content": "Điền từ khóa.",
+                "code_template": "[INPUT] var speed = 200",
+                "correct_answer": "@export"
+            }
+        ]
+    },
+{
+        "id": 36,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Quản lý Nhóm (Groups)",
+        "description": "Đồng phục cho Node.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Gắn tag",
+                "content": "Gắn tag 'Enemy' để tiêu diệt tất cả quái cùng lúc.",
+                "code_snippet": "get_tree().call_group(\"Enemy\", \"die\")"
+            }
+        ]
+    },
+{
+        "id": 37,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Lưu Trữ (Save Game)",
+        "description": "Ghi chép vào máy.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Đường dẫn",
+                "content": "Tại sao dùng 'user://' thay vì 'res://' để lưu game?",
+                "options": [
+                    "Vì res:// chỉ đọc khi đóng gói",
+                    "Vì user:// nhanh hơn",
+                    "Vì res:// dung lượng thấp"
+                ],
+                "correct_index": 0
+            }
+        ]
+    },
+{
+        "id": 38,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "TileMapLayer & Terrains",
+        "description": "Vẽ bản đồ tự động.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Auto-tiling",
+                "content": "Terrains giúp bạn chỉ cần vẽ vệt đất, Godot sẽ tự chọn góc, cạnh gạch phù hợp.",
+                "code_snippet": "TileSet -> Terrains -> Connect Mode"
+            },
+            {
+                "type": "quiz",
+                "title": "Lợi ích",
+                "content": "Terrains giải quyết vấn đề gì?",
+                "options": [
+                    "Làm game chạy nhanh",
+                    "Tự động nối các viên gạch cho đúng góc",
+                    "Phát nhạc"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 39,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Terrains Nâng Cao",
+        "description": "Kết nối địa hình.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Connect Mode",
+                "content": "Chế độ nào giúp các viên gạch tự nối với nhau?",
+                "options": [
+                    "Corners",
+                    "Edges",
+                    "Both"
+                ],
+                "correct_index": 2
+            }
+        ]
+    },
+{
+        "id": 40,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "AnimationPlayer",
+        "description": "Cuốn sổ lật hình.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Phát hoạt ảnh",
+                "content": "Hàm chạy.",
+                "code_template": "$Anim.[INPUT](\"idle\")",
+                "correct_answer": "play"
+            }
+        ]
+    },
+{
+        "id": 41,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "AnimationTree",
+        "description": "Sơ đồ chuyển động mượt.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "State Machine",
+                "content": "Dùng AnimationTree để quy định: Khi nào từ Chạy chuyển sang Nhảy một cách tự động.",
+                "code_snippet": "AnimationNodeStateMachine"
+            },
+            {
+                "type": "quiz",
+                "title": "Ưu điểm",
+                "content": "AnimationTree mạnh hơn AnimationPlayer ở đâu?",
+                "options": [
+                    "Đổi được màu",
+                    "Quản lý các chuyển cảnh phức tạp bằng sơ đồ",
+                    "Làm ảnh nét"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 42,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Tween",
+        "description": "Chuyển động mượt mà.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Biến đổi dần dần",
+                "content": "Tween giúp phóng to/thu nhỏ hoặc di chuyển cực mượt.",
+                "code_snippet": "create_tween().tween_property(self, \"modulate:a\", 0, 1.0)"
+            }
+        ]
+    },
+{
+        "id": 43,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Await",
+        "description": "Đợi tớ một tí.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Chờ đợi",
+                "content": "Dùng để đợi Timer.",
+                "code_template": "[INPUT] get_tree().create_timer(1).timeout",
+                "correct_answer": "await"
+            }
+        ]
+    },
+{
+        "id": 44,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "RayCast2D",
+        "description": "Mắt thần Laser.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Ứng dụng",
+                "content": "RayCast thường dùng để làm gì?",
+                "options": [
+                    "Vẽ hình",
+                    "Kiểm tra quái thấy người chơi không",
+                    "Phát nhạc"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 45,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Lerp & Clamp",
+        "description": "Làm mượt mọi thứ và thiết lập giới hạn an toàn.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Dây thun và Hàng rào",
+                "content": "Lerp (Linear Interpolation) giúp di chuyển mượt mà giữa 2 điểm. Clamp giúp giữ một giá trị không bao giờ vượt quá ngưỡng.",
+                "code_snippet": "hp = clamp(hp, 0, 100)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Giới hạn giá trị",
+                "content": "Giữ biến 'energy' trong khoảng từ 0 đến 50.",
+                "code_template": "energy = [INPUT](energy, 0, 50)",
+                "correct_answer": "clamp"
+            },
+            {
+                "type": "quiz",
+                "title": "Tại sao dùng Lerp?",
+                "content": "Tại sao ta dùng lerp cho Camera thay vì gán vị trí trực tiếp?",
+                "options": [
+                    "Để Camera di chuyển mượt mà, bám theo từ từ thay vì giật cục",
+                    "Để Camera nhìn xa hơn",
+                    "Để tiết kiệm pin"
+                ],
+                "correct_index": 0
+            },
+            {
+                "type": "fill_code",
+                "title": "Xử lý ma sát",
+                "content": "Làm chậm dần vận tốc X bằng lerp (về 0 với tốc độ 0.1).",
+                "code_template": "velocity.x = [INPUT](velocity.x, 0, 0.1)",
+                "correct_answer": "lerp"
+            },
+            {
+                "type": "quiz",
+                "title": "Bẫy thông số",
+                "content": "Trong hàm lerp(A, B, weight), nếu weight bằng 1.0 thì chuyện gì xảy ra?",
+                "options": [
+                    "Vật thể đứng yên tại A",
+                    "Vật thể nhảy vọt đến thẳng vị trí B (Dịch chuyển tức thời)",
+                    "Vật thể biến mất"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fix_bug",
+                "title": "Thứ tự sai",
+                "content": "Sửa lỗi hàm Clamp (Thứ tự: Giá trị, Min, Max).",
+                "code_template": "hp = clamp(hp, [INPUT], 0)",
+                "correct_answer": "100"
+            }
+        ]
+    },
+{
+        "id": 46,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Toán Vector 2D",
+        "description": "La bàn chỉ hướng.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Tìm hướng",
+                "content": "Hàm tìm hướng đến mục tiêu.",
+                "code_template": "var h = pos.[INPUT](target_pos)",
+                "correct_answer": "direction_to"
+            }
+        ]
+    },
+{
+        "id": 47,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Trọng Lực",
+        "description": "Sức hút của đất.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Delta",
+                "content": "Nhân với delta để ổn định tốc độ.",
+                "code_template": "v.y += gravity * [INPUT]",
+                "correct_answer": "delta"
+            }
+        ]
+    },
+{
+        "id": 48,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Bật Nhảy",
+        "description": "Lực đẩy lên.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Hướng nhảy",
+                "content": "Trong Godot 2D, nhảy lên là trục Y cộng hay trừ?",
+                "options": [
+                    "Cộng (+)",
+                    "Trừ (-)"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 49,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Particles",
+        "description": "Hiệu ứng hạt.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Phun hạt",
+                "content": "Bật biến này.",
+                "code_template": "$P.[INPUT] = true",
+                "correct_answer": "emitting"
+            }
+        ]
+    },
+{
+        "id": 50,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Camera2D Nâng Cao",
+        "description": "Ống kính chuyên nghiệp.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Smoothing",
+                "content": "Position Smoothing dùng để làm gì?",
+                "options": [
+                    "Làm mượt chuyển động Camera",
+                    "Làm game nét hơn",
+                    "Làm Camera to hơn"
+                ],
+                "correct_index": 0
+            }
+        ]
+    },
+{
+        "id": 51,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Parallax Background",
+        "description": "Chiều sâu thế giới.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Ảo giác chiều sâu",
+                "content": "Sử dụng ParallaxLayer để các lớp mây, núi di chuyển chậm hơn nhân vật.",
+                "code_snippet": "Motion Scale: (0.5, 0.5)"
+            }
+        ]
+    },
+{
+        "id": 52,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Ánh Sáng 2D",
+        "description": "Thắp sáng màn đêm.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "PointLight2D",
+                "content": "Sử dụng PointLight2D để tạo đuốc. Dùng LightOccluder2D để cản sáng.",
+                "code_snippet": "LightOccluder2D -> Polygon"
+            }
+        ]
+    },
+{
+        "id": 53,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "WorldEnvironment (Hiệu ứng tỏa sáng)",
+        "description": "Thổi hồn vào đồ họa: Làm game lung linh rực rỡ với Glow.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Flashlight của thế giới",
+                "content": "WorldEnvironment quản lý 'bầu không khí' của game. Bật 'Glow' giúp các vật thể rực rỡ tỏa ra ánh hào quang lung linh.",
+                "code_snippet": "Glow -> Enabled: On"
+            },
+            {
+                "type": "fill_code",
+                "title": "Bật hiệu ứng",
+                "content": "Kích hoạt thuộc tính phát sáng.",
+                "code_template": "environment.glow_[INPUT] = true",
+                "correct_answer": "enabled"
+            },
+            {
+                "type": "quiz",
+                "title": "Bản chất đồ họa",
+                "content": "WorldEnvironment dùng để làm gì trong game 2D?",
+                "options": [
+                    "Xử lý logic va chạm",
+                    "Điều chỉnh hậu kỳ (Post-processing) như độ sáng, độ bão hòa, phát sáng",
+                    "Để vẽ hình Sprite"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fill_code",
+                "title": "Thay đổi môi trường",
+                "content": "Thay đổi cường độ sáng bằng Code.",
+                "code_template": "$WE.environment.[INPUT] = 1.5",
+                "correct_answer": "glow_intensity"
+            },
+            {
+                "type": "quiz",
+                "title": "Tại sao không sáng?",
+                "content": "Bạn đã bật Glow nhưng vật thể vẫn không phát sáng, lý do thường gặp nhất là gì?",
+                "options": [
+                    "Do CPU quá yếu",
+                    "Do giá trị Modulate (Raw) của vật thể chưa vượt quá ngưỡng HDR (> 1.0)",
+                    "Do game chưa lưu"
+                ],
+                "correct_index": 1
+            },
+            {
+                "type": "fix_bug",
+                "title": "Sai kiểu dữ liệu",
+                "content": "Sửa lỗi bật Glow bằng Code.",
+                "code_template": "env.glow_enabled = [INPUT]",
+                "correct_answer": "true"
+            }
+        ]
+    },
+{
+        "id": 54,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Shaders (Phép màu đồ họa)",
+        "description": "Nhân vật phát sáng.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "GPU Code",
+                "content": "Shader dùng để thay đổi màu sắc từng pixel cực nhanh. Ví dụ: Làm nhân vật lóe trắng khi trúng đòn.",
+                "code_snippet": "CanvasItem Shader"
+            },
+            {
+                "type": "quiz",
+                "title": "Tại sao dùng Shader?",
+                "content": "Shader mạnh nhất ở điểm nào?",
+                "options": [
+                    "Xử lý logic game",
+                    "Xử lý hiệu ứng hình ảnh trực tiếp trên GPU",
+                    "Lưu file"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 55,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Navigation & AI",
+        "description": "Quái vật tìm đường.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Điểm đến",
+                "content": "Gán vị trí mục tiêu.",
+                "code_template": "agent.target_position = [INPUT]",
+                "correct_answer": "player.position"
+            }
+        ]
+    },
+{
+    "id": 56,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Di chuyển trên đường ray (Path2D)",
+    "description": "Làm quái vật tuần tra hoặc vật thể bay theo quỹ đạo vẽ sẵn.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Vẽ đường cho hươu chạy",
+            "content": "Dùng Path2D để vẽ đường (Curve2D). Sau đó cho PathFollow2D làm con của nó. Bất kỳ Node nào gắn vào PathFollow2D sẽ chạy dọc theo đường đã vẽ.",
+            "code_snippet": "Path2D -> PathFollow2D -> Sprite2D"
+        },
+        {
+            "type": "fill_code",
+            "title": "Cập nhật vị trí",
+            "content": "Thay đổi giá trị này để vật thể di chuyển dọc đường dẫn (đơn vị pixel).",
+            "code_template": "$PathFollow2D.[INPUT] += 100 * delta",
+            "correct_answer": "progress"
+        },
+        {
+            "type": "quiz",
+            "title": "Tỷ lệ phần trăm",
+            "content": "Nếu muốn vật thể ở chính giữa đường dẫn, ta chỉnh 'progress_ratio' thành bao nhiêu?",
+            "options": [
+                "0.0",
+                "0.5",
+                "1.0"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Xoay theo hướng",
+            "content": "Thuộc tính giúp vật thể tự quay mặt theo hướng đường đi.",
+            "code_template": "$PathFollow2D.[INPUT] = true",
+            "correct_answer": "rotates"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy vòng lặp",
+            "content": "Để quái vật đi hết đường rồi quay lại điểm đầu và đi tiếp, ta bật thuộc tính nào?",
+            "options": [
+                "Continuous",
+                "Loop",
+                "Repeat"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai thứ tự Node",
+            "content": "PathFollow2D phải là con của Node nào thì mới chạy được?",
+            "code_template": "[INPUT] -> PathFollow2D",
+            "correct_answer": "Path2D"
+        }
+    ]
+},
+{
+        "id": 57,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "VisibleOnScreenNotifier2D",
+        "description": "Tắt đèn khi đi vắng.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Tối ưu AI",
+                "content": "Sử dụng Node này để dừng xử lý quái vật nếu nó nằm ngoài màn hình, giúp game chạy cực mượt.",
+                "code_snippet": "func _on_screen_entered(): set_process(true)"
+            },
+            {
+                "type": "quiz",
+                "title": "Mục đích",
+                "content": "Node này dùng để làm gì?",
+                "options": [
+                    "Làm quái mạnh hơn",
+                    "Tiết kiệm tài nguyên máy tính",
+                    "Làm sáng màn hình"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 58,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+        "title": "Âm Thanh",
+        "description": "Tiếng kêu thế giới.",
+        "stages": [
+            {
+                "type": "quiz",
+                "title": "Âm thanh 2D",
+                "content": "Node nào tự thay đổi âm lượng theo vị trí?",
+                "options": [
+                    "AudioStreamPlayer",
+                    "AudioStreamPlayer2D"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+    "id": 59,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Sensei tổng hợp",
+    "description": "Kết nối mọi chiêu thức đã học thành một hệ thống hoàn chỉnh.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Bức tranh toàn cảnh",
+            "content": "Một game chuyên nghiệp là sự kết hợp của: Logic (GDScript), Hình ảnh (Sprite/TileMap), Hiệu ứng (Particles/Shader) và Cảm xúc (Tween/Audio). Hãy nhớ: Node là xương thịt, Script là linh hồn!",
+            "code_snippet": "# Tổng hợp kỹ thuật\nfunc create_impact(pos):\n    var p = Particles.instantiate()\n    p.position = pos\n    add_child(p)\n    create_tween().tween_property(Camera, \"offset\", Vector2(5,5), 0.1)\n    $SfxHit.play()"
+        },
+        {
+            "type": "quiz",
+            "title": "Tư duy hệ thống",
+            "content": "Khi nhân vật nhặt một thanh kiếm lấp lánh và có âm thanh vang lên, ta đã sử dụng những gì?",
+            "options": [
+                "Area2D + AudioStreamPlayer + Tween/Shader",
+                "Chỉ cần Sprite2D",
+                "Chỉ cần Timer"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Rung màn hình (Screen Shake)",
+            "content": "Dùng Tween để tạo hiệu ứng rung nhẹ khi trúng đòn.",
+            "code_template": "var t = create_tween()\nt.[INPUT](camera, \"offset\", Vector2(10, 0), 0.05)",
+            "correct_answer": "tween_property"
+        },
+        {
+            "type": "quiz",
+            "title": "Thứ tự xử lý",
+            "content": "Trong Godot, hàm nào được gọi mỗi khung hình để xử lý logic vật lý?",
+            "options": [
+                "_ready",
+                "_process",
+                "_physics_process"
+            ],
+            "correct_index": 2
+        },
+        {
+            "type": "fill_code",
+            "title": "Ghi đè thuộc tính",
+            "content": "Làm nhân vật nháy đỏ bằng cách chỉnh màu modulate.",
+            "code_template": "modulate = Color.[INPUT]",
+            "correct_answer": "RED"
+        }
+    ]
+},
+{
+    "id": 60,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Lỗi Cú Pháp (Syntax Errors)",
+    "description": "Học cách đọc 'ngôn ngữ của máy' để không bao giờ sợ dấu gạch đỏ.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Dấu vết kẻ phạm tội",
+            "content": "Lỗi cú pháp giống như viết sai chính tả. Máy tính sẽ không hiểu bạn nói gì. Hãy luôn nhìn vào bảng Output phía dưới để xem dòng nào đang bị báo lỗi.",
+            "code_snippet": "if hp < 0: # Thiếu dấu hai chấm là lỗi phổ biến nhất!\n    die()"
+        },
+        {
+            "type": "fill_code",
+            "title": "Sửa lỗi IF",
+            "content": "Máy báo lỗi ở dòng IF, bạn quên gì nào?",
+            "code_template": "if score >= 100[INPUT]\n    win()",
+            "correct_answer": ":"
+        },
+        {
+            "type": "quiz",
+            "title": "Thụt đầu dòng",
+            "content": "Trong GDScript, việc thụt đầu dòng (Indentation) có bắt buộc không?",
+            "options": [
+                "Có, để phân chia khối code (Block)",
+                "Không, viết sao cũng được",
+                "Chỉ dùng cho đẹp"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Lỗi gọi hàm",
+            "content": "Muốn gọi hàm thì phải có cặp ngoặc tròn.",
+            "code_template": "func _ready():\n    play_music[INPUT]",
+            "correct_answer": "()"
+        },
+        {
+            "type": "fix_bug",
+            "title": "Biến chưa khai báo",
+            "content": "Bạn dùng 'speed' nhưng chưa tạo nó. Hãy dùng từ khóa đúng.",
+            "code_template": "[INPUT] speed = 200",
+            "correct_answer": "var"
+        }
+    ]
+},
+{
+    "id": 61,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Lỗi Null (Invalid Get/Index)",
+    "description": "Truy tìm 'Bóng ma' trong code - khi bạn gọi một thứ không tồn tại.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Cái hộp rỗng",
+            "content": "Lỗi 'Invalid get index on base: null' nghĩa là bạn đang cố gọi một Node nhưng nó chưa có mặt trong màn hình (Scene Tree). Hãy kiểm tra lại tên Node sau dấu $.",
+            "code_snippet": "if $Player: # Kiểm tra an toàn trước khi dùng\n    $Player.jump()"
+        },
+        {
+            "type": "quiz",
+            "title": "Nguyên nhân Null",
+            "content": "Tại sao biến @onready var sprite = $Sprite lại bị Null?",
+            "options": [
+                "Do Sprite nằm ngoài màn hình",
+                "Do tên Node trong code khác với tên Node trong Scene",
+                "Do Sprite quá to"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Kiểm tra an toàn",
+            "content": "Dùng hàm is_instance_valid để kiểm tra Node còn sống hay không.",
+            "code_template": "if [INPUT](enemy):\n    enemy.take_damage()",
+            "correct_answer": "is_instance_valid"
+        },
+        {
+            "type": "quiz",
+            "title": "Lỗi 'Non-existent function'",
+            "content": "Thông báo này nghĩa là gì?",
+            "options": [
+                "Node đó không có hàm bạn đang gọi",
+                "Node đó bị xóa rồi",
+                "Máy tính bị lag"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Đợi Node sẵn sàng",
+            "content": "Đôi khi code chạy trước khi Node kịp xuất hiện. Dùng từ khóa này.",
+            "code_template": "[INPUT] var label = $UI/Label",
+            "correct_answer": "@onready"
+        }
+    ]
+},
+{
+    "id": 62,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Dự án: Súng Máy (Rapid Fire)",
+    "description": "Áp dụng Timer và Instantiate để tạo cơn mưa đạn.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Cơ chế bắn liên thanh",
+            "content": "Thay vì bấm từng cái, ta dùng Timer để tự động tạo đạn mỗi 0.1 giây khi giữ chuột.",
+            "code_snippet": "func _on_timer_timeout():\n    var b = Bullet.instantiate()\n    get_parent().add_child(b)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Tạo bản sao",
+            "content": "Hàm để tạo một viên đạn mới từ file đã Preload.",
+            "code_template": "var new_bullet = bullet_scene.[INPUT]()",
+            "correct_answer": "instantiate"
+        },
+        {
+            "type": "quiz",
+            "title": "Vị trí đạn",
+            "content": "Để đạn bay ra từ nòng súng, ta gán position của đạn bằng gì?",
+            "options": [
+                "Vị trí của (0,0)",
+                "Vị trí của Marker2D ở nòng súng",
+                "Vị trí của Camera"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Gắn vào thế giới",
+            "content": "Phải thêm đạn vào cây Node thì nó mới hiện ra.",
+            "code_template": "get_parent().[INPUT](new_bullet)",
+            "correct_answer": "add_child"
+        },
+        {
+            "type": "fix_bug",
+            "title": "Ngăn đạn đứng yên",
+            "content": "Đạn phải có hướng. Nếu đạn bay sang phải, trục X phải thế nào?",
+            "code_template": "new_bullet.velocity.x [INPUT] speed",
+            "correct_answer": "="
+        }
+    ]
+},
+{
+    "id": 63,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Object Pooling (Tối ưu hóa)",
+    "description": "Bí kíp làm game nghìn đạn không lag bằng cách 'tái chế' Node.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Đừng vứt rác, hãy tái chế!",
+            "content": "Việc tạo (instantiate) và xóa (queue_free) liên tục 1000 viên đạn sẽ làm CPU kiệt sức. Object Pooling sẽ 'giấu' viên đạn đi khi nó bay mất và 'lôi' nó ra dùng lại khi cần.",
+            "code_snippet": "# Thay vì queue_free()\nbullet.hide()\nbullet.set_process(false)"
+        },
+        {
+            "type": "quiz",
+            "title": "Tại sao dùng Pooling?",
+            "content": "Lợi ích lớn nhất của Object Pooling là gì?",
+            "options": [
+                "Làm đạn bay nhanh hơn",
+                "Giảm thiểu việc cấp phát/giải phóng bộ nhớ liên tục gây lag (stutter)",
+                "Làm game đẹp hơn"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Ẩn đạn",
+            "content": "Thay vì xóa, ta chỉ việc ẩn nó đi để dùng sau.",
+            "code_template": "bullet.[INPUT] = false",
+            "correct_answer": "visible"
+        },
+        {
+            "type": "quiz",
+            "title": "Quản lý Pool",
+            "content": "Ta thường lưu danh sách các Node chờ tái chế vào đâu?",
+            "options": [
+                "Mảng (Array)",
+                "Số nguyên (int)",
+                "String"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Kích hoạt lại",
+            "content": "Khi lấy đạn ra từ Pool, ta phải hiện nó lại.",
+            "code_template": "bullet.[INPUT]()",
+            "correct_answer": "show"
+        }
+    ]
+},
+{
+    "id": 64,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Xuất Bản Game (Export)",
+    "description": "Khoảnh khắc vinh quang: Biến code thành file .exe hoặc .apk để khoe bạn bè.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Đóng gói món quà",
+            "content": "Export là quá trình nén toàn bộ tài nguyên và code thành một tệp thực thi duy nhất. Đừng quên chọn đúng 'Export Template' cho hệ điều hành bạn muốn (Windows, Android, Web).",
+            "code_snippet": "Project -> Export -> Add Windows Desktop"
+        },
+        {
+            "type": "quiz",
+            "title": "Tệp tin kết quả",
+            "content": "Đuôi file chạy game phổ biến nhất trên Windows sau khi Export là gì?",
+            "options": [
+                ".tscn",
+                ".exe",
+                ".gd"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Chế độ màn hình",
+            "content": "Trước khi xuất, ta nên chỉnh cửa sổ game. Chế độ co giãn tốt nhất là?",
+            "code_template": "display/window/stretch/mode = \"[INPUT]\"",
+            "correct_answer": "canvas_items"
+        },
+        {
+            "type": "quiz",
+            "title": "Icon game",
+            "content": "Bạn có thể đổi biểu tượng (Icon) của game ở đâu?",
+            "options": [
+                "Trong Project Settings",
+                "Tự nó đổi theo hình nhân vật",
+                "Không đổi được"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "teach",
+            "title": "Lời chúc từ Sensei",
+            "content": "Chúc mừng bạn! Bạn đã hoàn thành 61 bài học và nắm giữ chìa khóa tạo ra thế giới của riêng mình. Hãy tiếp tục sáng tạo, vì hành trình của một Game Developer thực thụ chỉ mới bắt đầu!",
+            "code_snippet": "print(\"Hello World, I am a Game Developer!\")"
+        }
+    ]
+},
+{
+    "id": 65,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Điều khiển Mobile (Touch & Drag)",
+    "description": "Chạm và vuốt để làm chủ màn hình cảm ứng.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Bàn tay vô hình",
+            "content": "Trên điện thoại, ta không dùng bàn phím mà dùng ngón tay. Godot dùng 'InputEventScreenTouch' để biết khi nào bạn chạm vào và 'InputEventScreenDrag' khi bạn vuốt.",
+            "code_snippet": "if event is InputEventScreenTouch:\n    print(\"Chạm tại: \", event.position)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Bắt sự kiện chạm",
+            "content": "Kiểm tra xem sự kiện có phải là chạm màn hình không.",
+            "code_template": "if event is [INPUT]ScreenTouch:",
+            "correct_answer": "InputEvent"
+        },
+        {
+            "type": "quiz",
+            "title": "Tọa độ tương đối",
+            "content": "Khi làm tính năng xoay camera bằng cách vuốt, ta nên dùng thuộc tính nào của ScreenDrag?",
+            "options": [
+                "event.position (Tọa độ tuyệt đối)",
+                "event.relative (Độ dời so với khung hình trước)",
+                "event.pressure (Lực nhấn)"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Vuốt để di chuyển",
+            "content": "Cộng độ dời của ngón tay vào vị trí nhân vật.",
+            "code_template": "if event is InputEventScreenDrag:\n    position += [INPUT].relative",
+            "correct_answer": "event"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy đa điểm",
+            "content": "Làm sao để phân biệt giữa ngón tay thứ nhất và ngón tay thứ hai khi chạm cùng lúc?",
+            "options": [
+                "Dựa vào màu sắc ngón tay",
+                "Dựa vào thuộc tính event.index",
+                "Godot không hỗ trợ đa điểm"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai tên lớp",
+            "content": "Sửa lỗi sai tên lớp sự kiện vuốt.",
+            "code_template": "if event is [INPUT]:",
+            "correct_answer": "InputEventScreenDrag"
+        }
+    ]
+},
+{
+    "id": 66,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Tạm dừng Game (Pause/Resume)",
+    "description": "Nghỉ tay một chút với cơ chế đóng băng thời gian.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Nút bấm thời gian",
+            "content": "Muốn dừng game, ta dùng 'get_tree().paused = true'. Nhưng cẩn thận: nếu không chỉnh, cả cái Menu của bạn cũng sẽ bị 'đóng băng' luôn đấy!",
+            "code_snippet": "get_tree().paused = true"
+        },
+        {
+            "type": "fill_code",
+            "title": "Đóng băng thế giới",
+            "content": "Truy cập vào cây Scene để tạm dừng.",
+            "code_template": "get_tree().[INPUT] = true",
+            "correct_answer": "paused"
+        },
+        {
+            "type": "quiz",
+            "title": "Chế độ xử lý",
+            "content": "Để Menu Pause vẫn có thể bấm được khi game đang dừng, ta phải chỉnh 'Process Mode' của nó thành gì?",
+            "options": [
+                "Inherit (Kế thừa)",
+                "Disabled (Tắt)",
+                "Always (Luôn luôn chạy)"
+            ],
+            "correct_index": 2
+        },
+        {
+            "type": "fill_code",
+            "title": "Mở khóa Menu",
+            "content": "Chỉnh Process Mode bằng Code cho Node hiện tại.",
+            "code_template": "process_mode = Node.[INPUT]_MODE_ALWAYS",
+            "correct_answer": "PROCESS"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy âm thanh",
+            "content": "Nếu bạn Pause game, nhạc nền (AudioStreamPlayer) có mặc định dừng lại không?",
+            "options": [
+                "Có, mọi thứ đều dừng",
+                "Không, trừ khi bạn chỉnh Process Mode của nó hoặc dùng bus riêng",
+                "Nhạc sẽ chạy nhanh hơn"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Thiếu ngoặc gọi hàm",
+            "content": "Sửa lỗi gọi hàm lấy cây Scene.",
+            "code_template": "[INPUT].paused = false",
+            "correct_answer": "get_tree()"
+        }
+    ]
+},
+{
+    "id": 67,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Đa ngôn ngữ (Localization)",
+    "description": "Đưa game ra thế giới với hệ thống dịch thuật.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Thông dịch viên thần kỳ",
+            "content": "Thay vì viết 'Chào buổi sáng', ta viết 'KEY_HELLO'. Godot sẽ tự tra bảng dịch để hiển thị đúng ngôn ngữ người chơi chọn.",
+            "code_snippet": "label.text = tr(\"KEY_START\")"
+        },
+        {
+            "type": "fill_code",
+            "title": "Hàm dịch thuật",
+            "content": "Sử dụng hàm ngắn gọn để dịch một từ khóa.",
+            "code_template": "text = [INPUT](\"MSG_WIN\")",
+            "correct_answer": "tr"
+        },
+        {
+            "type": "quiz",
+            "title": "Tại sao dùng Key?",
+            "content": "Tại sao không nên viết chữ trực tiếp vào Label?",
+            "options": [
+                "Viết Key giúp quản lý nhiều ngôn ngữ tập trung trong 1 file Excel/CSV",
+                "Để code trông ngầu hơn",
+                "Vì Godot không cho viết tiếng Việt trực tiếp"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Đổi ngôn ngữ",
+            "content": "Lệnh để ép game chuyển sang tiếng Việt.",
+            "code_template": "TranslationServer.[INPUT](\"vi\")",
+            "correct_answer": "set_locale"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy file CSV",
+            "content": "Khi nạp file dịch thuật .csv vào Godot, file nào mới là file thực sự được dùng để chạy game?",
+            "options": [
+                "File .csv gốc",
+                "Các file .translation được Godot tự tạo ra sau khi Import",
+                "File .txt"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Thiếu tr()",
+            "content": "Sửa lỗi hiển thị Key thay vì hiển thị nội dung dịch.",
+            "code_template": "label.text = [INPUT]",
+            "correct_answer": "tr(\"KEY_PLAY\")"
+        }
+    ]
+},
+{
+    "id": 68,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Static Typing (Định danh kiểu)",
+    "description": "Tăng tốc độ chạy game và giảm lỗi 'ngớ ngẩn' bằng cách khai báo kiểu dữ liệu rõ ràng.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Cái nhãn trên hộp",
+            "content": "Bình thường Godot phải 'đoán' xem biến của bạn là gì. Khi dùng Static Typing (dùng dấu :), bạn dán nhãn cho nó luôn. Điều này giúp Godot chạy nhanh hơn 20-40% và báo lỗi ngay khi bạn gán sai kiểu.",
+            "code_snippet": "var hp: int = 100\nfunc take_damage(amount: int) -> void:"
+        },
+        {
+            "type": "fill_code",
+            "title": "Dán nhãn cho biến",
+            "content": "Khai báo biến 'name' chỉ được phép chứa chuỗi văn bản.",
+            "code_template": "var player_name : [INPUT] = \"Sensei\"",
+            "correct_answer": "String"
+        },
+        {
+            "type": "quiz",
+            "title": "Lợi ích thầm lặng",
+            "content": "Ngoài việc chạy nhanh hơn, Static Typing giúp ích gì cho bạn khi viết code?",
+            "options": [
+                "Tự động gợi ý hàm (Auto-complete) chính xác hơn",
+                "Làm file code nhẹ hơn",
+                "Làm màu sắc code đẹp hơn"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Kiểu trả về của hàm",
+            "content": "Hàm này không trả về giá trị gì cả (void).",
+            "code_template": "func _ready() -> [INPUT]:",
+            "correct_answer": "void"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy gán sai",
+            "content": "Nếu bạn khai báo 'var age: int = 20' rồi sau đó viết 'age = \"Gì đó\"', chuyện gì xảy ra?",
+            "options": [
+                "Godot tự chuyển String thành int",
+                "Lỗi ngay lập tức và game không chạy (Crash/Error)",
+                "Chẳng có gì xảy ra"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Thiếu mũi tên",
+            "content": "Sửa lỗi khai báo kiểu trả về cho hàm.",
+            "code_template": "func get_hp() [INPUT] int:",
+            "correct_answer": "->"
+        }
+    ]
+},
+{
+    "id": 69,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "RichTextLabel & BBCode",
+    "description": "Làm chữ nhấp nhô, đổi màu và tạo hiệu ứng văn bản xịn xò như các game RPG.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Văn bản ma thuật",
+            "content": "RichTextLabel cho phép bạn dùng BBCode (giống HTML) để trang trí chữ. Bạn có thể làm chữ rung lắc [shake], uốn lượn [wave] hoặc cầu vồng [rainbow].",
+            "code_snippet": "label.text = \"[wave]Xin chào![/wave]\""
+        },
+        {
+            "type": "fill_code",
+            "title": "Đổi màu chữ",
+            "content": "Dùng BBCode để biến chữ 'Máu' thành màu đỏ.",
+            "code_template": "[[INPUT]=red]Máu[/color]",
+            "correct_answer": "color"
+        },
+        {
+            "type": "quiz",
+            "title": "Kích hoạt BBCode",
+            "content": "Để các mã trong ngoặc [] hoạt động, bạn phải bật thuộc tính nào trong Inspector của RichTextLabel?",
+            "options": [
+                "Text Filter",
+                "BBCode Enabled",
+                "Rich Text Mode"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Chữ uốn lượn",
+            "content": "Tạo hiệu ứng sóng biển cho văn bản.",
+            "code_template": "[[INPUT]]Chữ đang bay[/wave]",
+            "correct_answer": "wave"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy hiệu ứng",
+            "content": "Làm sao để hiệu ứng [shake] rung mạnh hơn nữa?",
+            "options": [
+                "Viết hoa chữ SHAKE",
+                "Thêm tham số: [shake rate=50 level=10]",
+                "Copy mã đó nhiều lần"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Thiếu thẻ đóng",
+            "content": "Sửa lỗi BBCode không hoạt động do quên thẻ kết thúc.",
+            "code_template": "[rainbow]Cầu vồng [INPUT]",
+            "correct_answer": "[/rainbow]"
+        }
+    ]
+},
+{
+    "id": 70,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Global Event Bus",
+    "description": "Kỹ thuật tối thượng để các Node ở xa nhau giao tiếp mà không cần kéo dây loằng ngoằng.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Tổng đài tín hiệu",
+            "content": "Thay vì bắt Node con gọi Node cha, ta dùng 1 file Autoload (ví dụ: Events.gd) làm trung gian. Mọi người chỉ việc gửi tín hiệu lên 'tổng đài' này, ai muốn nghe thì đăng ký.",
+            "code_snippet": "# Events.gd (Autoload)\nsignal enemy_died(pos)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Khai báo tín hiệu chung",
+            "content": "Trong file Events.gd, khai báo tín hiệu khi nhặt được vật phẩm.",
+            "code_template": "[INPUT] item_collected",
+            "correct_answer": "signal"
+        },
+        {
+            "type": "quiz",
+            "title": "Tại sao dùng Event Bus?",
+            "content": "Lợi ích lớn nhất của Event Bus là gì?",
+            "options": [
+                "Làm game chạy nhanh gấp đôi",
+                "Giúp Code gọn gàng, các Node không cần biết nhau vẫn giao tiếp được (Decoupling)",
+                "Để không phải dùng Signal nữa"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Phát lệnh từ xa",
+            "content": "Gọi tổng đài Events để phát tín hiệu tăng điểm.",
+            "code_template": "Events.add_score.[INPUT](10)",
+            "correct_answer": "emit"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy tên gọi",
+            "content": "Để Event Bus hoạt động, bạn phải làm gì trong Project Settings?",
+            "options": [
+                "Bật chế độ Global",
+                "Thêm script đó vào danh sách Autoload với một cái tên (ví dụ: Events)",
+                "Không cần làm gì cả"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Kết nối sai địa chỉ",
+            "content": "Sửa lỗi kết nối tín hiệu từ Event Bus (giả sử tên Autoload là Events).",
+            "code_template": "[INPUT].player_jumped.connect(_on_jump)",
+            "correct_answer": "Events"
+        }
+    ]
+},
+{
+    "id": 71,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "ShapeCast2D",
+    "description": "Dùng 'hình khối' để kiểm tra va chạm thay vì dùng 'tia', giúp phát hiện chính xác hơn.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Cái lưới thay vì mũi tên",
+            "content": "RayCast2D chỉ là 1 tia mảnh, dễ bị lọt khe. ShapeCast2D giống như quăng một cái lưới hình tròn hoặc hình chữ nhật đi để quét mọi vật thể trong vùng đó.",
+            "code_snippet": "if shapecast.is_colliding():\n    print(\"Trúng rồi!\")"
+        },
+        {
+            "type": "fill_code",
+            "title": "Kiểm tra va chạm",
+            "content": "Dùng hàm để xem có cái gì đang nằm trong vùng quét không.",
+            "code_template": "if $ShapeCast2D.[INPUT]():",
+            "correct_answer": "is_colliding"
+        },
+        {
+            "type": "quiz",
+            "title": "Ưu điểm của ShapeCast",
+            "content": "Tại sao dùng ShapeCast2D lại tốt hơn RayCast2D khi làm cảm biến 'vực thẳm' cho quái vật?",
+            "options": [
+                "Vì nó quét được diện tích rộng, tránh việc quái vật đứng mép vực vẫn không biết",
+                "Vì nó nhẹ hơn",
+                "Vì nó tự động đẩy quái vật lại"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Lấy đối tượng va chạm",
+            "content": "Lấy đối tượng đầu tiên (index 0) mà ShapeCast tìm thấy.",
+            "code_template": "var obj = shapecast.[INPUT](0)",
+            "correct_answer": "get_collider"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy số lượng",
+            "content": "ShapeCast2D có thể phát hiện nhiều vật thể cùng lúc không?",
+            "options": [
+                "Không, chỉ cái đầu tiên",
+                "Có, bạn có thể chỉnh Max Results trong Inspector",
+                "Chỉ tối đa 2 cái"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Quên gọi hàm",
+            "content": "Sửa lỗi gọi hàm kiểm tra va chạm.",
+            "code_template": "if $SC.[INPUT]:",
+            "correct_answer": "is_colliding()"
+        }
+    ]
+},
+{
+    "id": 72,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Custom Resources (Database)",
+    "description": "Quản lý hàng nghìn vật phẩm, quái vật bằng cách tạo ra các file dữ liệu riêng biệt.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Thư viện hồ sơ",
+            "content": "Thay vì tạo 100 Scene cho 100 thanh kiếm, ta tạo 1 Scene 'Sword' và nạp dữ liệu từ 'Resource'. Resource chỉ chứa biến (Sát thương, Tên, Giá tiền) và cực kỳ nhẹ.",
+            "code_snippet": "extends Resource\nclass_name ItemData"
+        },
+        {
+            "type": "fill_code",
+            "title": "Kế thừa Resource",
+            "content": "Khai báo một lớp dữ liệu mới.",
+            "code_template": "extends [INPUT]",
+            "correct_answer": "Resource"
+        },
+        {
+            "type": "quiz",
+            "title": "Tại sao dùng Resource?",
+            "content": "Resource mạnh hơn Node ở điểm nào khi lưu trữ dữ liệu?",
+            "options": [
+                "Nó có thể lưu thành file .tres và chia sẻ giữa nhiều Scene rất dễ dàng",
+                "Nó có thể bay được",
+                "Nó làm game đẹp hơn"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Hiện ra Inspector",
+            "content": "Dùng từ khóa để có thể kéo thả file Resource vào script.",
+            "code_template": "[INPUT] var data : ItemData",
+            "correct_answer": "@export"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy thay đổi dữ liệu",
+            "content": "Nếu 2 quái vật dùng chung 1 file Resource và bạn giảm máu trong Resource đó, chuyện gì xảy ra?",
+            "options": [
+                "Chỉ quái vật thứ nhất bị giảm",
+                "Cả 2 quái vật đều bị ảnh hưởng (vì chung tài nguyên)",
+                "Không con nào bị ảnh hưởng"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai kiểu nạp",
+            "content": "Sửa lỗi nạp file Resource.",
+            "code_template": "var data = [INPUT](\"res://sword.tres\")",
+            "correct_answer": "load"
+        }
+    ]
+},
+{
+    "id": 73,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Audio Bus & Reverb",
+    "description": "Tạo hiệu ứng vang trong hang động hoặc làm âm thanh bóp nghẹt khi dưới nước.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Bàn trộn âm thanh",
+            "content": "Audio Bus là các kênh âm thanh. Bạn có thể cho Nhạc vào kênh 'Music', SFX vào kênh 'Sound'. Sau đó thêm hiệu ứng 'Reverb' vào kênh 'Sound' để mọi tiếng động đều vang vọng như trong nhà thờ.",
+            "code_snippet": "AudioServer.get_bus_index(\"Master\")"
+        },
+        {
+            "type": "fill_code",
+            "title": "Lấy chỉ số kênh",
+            "content": "Tìm số thứ tự của kênh tên là 'SFX'.",
+            "code_template": "var idx = AudioServer.[INPUT](\"SFX\")",
+            "correct_answer": "get_bus_index"
+        },
+        {
+            "type": "quiz",
+            "title": "Lợi ích của Bus",
+            "content": "Tại sao phải chia ra nhiều Bus thay vì để hết vào Master?",
+            "options": [
+                "Để người chơi có thể chỉnh âm lượng Nhạc và Tiếng động riêng biệt",
+                "Để âm thanh to hơn",
+                "Godot bắt buộc phải làm vậy"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Chỉnh âm lượng",
+            "content": "Hàm chỉnh âm lượng cho một kênh (đơn vị Decibel).",
+            "code_template": "AudioServer.[INPUT](bus_idx, -10.0)",
+            "correct_answer": "set_bus_volume_db"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy hiệu ứng",
+            "content": "Muốn tạo tiếng vang (echo), bạn nên thêm Effect nào vào Bus?",
+            "options": [
+                "Distortion",
+                "Reverb",
+                "Chorus"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Nhầm đơn vị",
+            "content": "Âm lượng trong Code dùng Decibel, không phải phần trăm 0-100. Muốn tắt tiếng (mute) hoàn toàn thì dùng hàm này.",
+            "code_template": "AudioServer.[INPUT](bus_idx, true)",
+            "correct_answer": "set_bus_mute"
+        }
+    ]
+},
+{
+    "id": 74,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "AudioStreamInteractive (4.3+)",
+    "description": "Âm nhạc tương tác mượt mà theo diễn biến của game.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Nhạc không khoảng cách",
+            "content": "Tính năng mới của Godot 4.3 cho phép chuyển từ nhạc 'Khám phá' sang nhạc 'Chiến đấu' cực mượt dựa trên nhịp điệu (Beat/Measure) thay vì cắt ngang đột ngột.",
+            "code_snippet": "playback.switch_to_clip_by_name(\"Battle\")"
+        },
+        {
+            "type": "fill_code",
+            "title": "Lấy bộ điều khiển",
+            "content": "Lấy đối tượng điều khiển nhạc tương tác từ Player.",
+            "code_template": "var playback = $AudioStreamPlayer.[INPUT]()",
+            "correct_answer": "get_stream_playback"
+        },
+        {
+            "type": "quiz",
+            "title": "Chế độ chuyển nhạc",
+            "content": "Nếu muốn nhạc chuyển ngay lập tức khi vừa bấm nút, ta chọn Transition mode nào?",
+            "options": [
+                "Beat (Theo nhịp)",
+                "Immediate (Ngay lập tức)",
+                "Measure (Theo ô nhịp)"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Chuyển bài",
+            "content": "Chuyển sang đoạn nhạc có tên là 'Game Over'.",
+            "code_template": "playback.[INPUT](\"GameOver\")",
+            "correct_answer": "switch_to_clip_by_name"
+        },
+        {
+            "type": "quiz",
+            "title": "AudioStreamPlaylist",
+            "content": "Node/Resource nào dùng để phát một danh sách nhạc tuần tự hoặc ngẫu nhiên?",
+            "options": [
+                "AudioStreamPlaylist",
+                "AudioStreamQueue",
+                "AudioStreamLoop"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai kiểu phát",
+            "content": "Để dùng được Interactive, file nhạc nạp vào AudioStreamPlayer phải là loại Resource nào?",
+            "code_template": "Stream Type: [INPUT]",
+            "correct_answer": "AudioStreamInteractive"
+        }
+    ]
+},
+{
+    "id": 75,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Tool Scripts (@tool)",
+    "description": "Bắt code chạy ngay cả khi bạn đang thiết kế game, giúp tạo công cụ hỗ trợ thông minh.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Phép thuật Editor",
+            "content": "Thêm '@tool' vào đầu Script sẽ làm Script đó chạy ngay trong Editor. Ví dụ: Bạn chỉnh biến 'Số lượng lá', cây sẽ tự mọc thêm lá ngay lập tức mà không cần nhấn Play game.",
+            "code_snippet": "@tool\nextends Node2D"
+        },
+        {
+            "type": "fill_code",
+            "title": "Từ khóa kích hoạt",
+            "content": "Thêm từ khóa này vào dòng đầu tiên của file.",
+            "code_template": "[INPUT]\nextends Sprite2D",
+            "correct_answer": "@tool"
+        },
+        {
+            "type": "quiz",
+            "title": "Kiểm tra môi trường",
+            "content": "Làm sao để code chỉ chạy trong Editor mà không chạy khi chơi game (hoặc ngược lại)?",
+            "options": [
+                "Dùng hàm Engine.is_editor_hint()",
+                "Dùng lệnh if playing:",
+                "Godot tự biết"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Xác định chế độ",
+            "content": "Kiểm tra xem có phải đang ở trong trình chỉnh sửa không.",
+            "code_template": "if Engine.[INPUT]():",
+            "correct_answer": "is_editor_hint"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy nguy hiểm",
+            "content": "Tại sao phải cẩn thận khi dùng @tool với lệnh 'queue_free()'?",
+            "options": [
+                "Vì nó sẽ xóa luôn Node trong Scene của bạn ngay khi bạn đang thiết kế (mất file)",
+                "Vì nó làm Editor chạy chậm",
+                "Vì nó không hoạt động"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Thiếu @",
+            "content": "Sửa lỗi cú pháp tool script.",
+            "code_template": "[INPUT]tool",
+            "correct_answer": "@"
+        }
+    ]
+},
+{
+    "id": 76,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Input Mapping bằng Code",
+    "description": "Cho phép người chơi tự cài đặt lại phím bấm (Remap) theo ý thích.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Phím bấm linh hoạt",
+            "content": "Thay vì dùng bảng cài đặt cứng, ta dùng 'InputMap' trong code để thêm phím mới hoặc xóa phím cũ cho một hành động (Action).",
+            "code_snippet": "InputMap.action_add_event(\"ui_up\", event)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Xóa phím cũ",
+            "content": "Xóa sạch các phím hiện tại của hành động 'jump'.",
+            "code_template": "InputMap.[INPUT](\"jump\")",
+            "correct_answer": "action_erase_events"
+        },
+        {
+            "type": "quiz",
+            "title": "Quy trình Remap",
+            "content": "Để đổi phím 'Nhảy' từ Space sang Ctrl, quy trình đúng là gì?",
+            "options": [
+                "Xóa event cũ -> Tạo InputEventKey mới -> Add event mới vào action",
+                "Chỉ cần viết Input.jump = Ctrl",
+                "Không đổi được bằng code"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Tạo phím mới",
+            "content": "Khai báo một sự kiện phím bấm mới.",
+            "code_template": "var ev = [INPUT].new()",
+            "correct_answer": "InputEventKey"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy lưu trữ",
+            "content": "Việc dùng InputMap trong code có tự động lưu vào Project Settings vĩnh viễn không?",
+            "options": [
+                "Có",
+                "Không, bạn phải tự lưu vào file cấu hình (config) nếu muốn giữ lại sau khi tắt game",
+                "Chỉ lưu khi xuất bản game"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Sai tên hàm",
+            "content": "Sửa lỗi thêm phím cho hành động.",
+            "code_template": "InputMap.[INPUT](\"left\", event)",
+            "correct_answer": "action_add_event"
+        }
+    ]
+},
+{
+    "id": 77,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Profiling & Optimization",
+    "description": "Tìm ra 'kẻ tội đồ' đang làm game của bạn bị giật lag.",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Bác sĩ cho Game",
+            "content": "Sử dụng bảng 'Debugger' -> 'Monitors' để xem CPU, GPU và RAM đang hoạt động thế nào. Nếu 'Draw Calls' quá cao, bạn cần tối ưu hình ảnh. Nếu 'Process Time' cao, code của bạn đang bị nghẽn.",
+            "code_snippet": "Performance.get_monitor(Performance.TIME_FPS)"
+        },
+        {
+            "type": "fill_code",
+            "title": "Xem chỉ số FPS",
+            "content": "Lấy số khung hình trên giây hiện tại.",
+            "code_template": "var fps = [INPUT].get_frames_per_second()",
+            "correct_answer": "Engine"
+        },
+        {
+            "type": "quiz",
+            "title": "Kẻ thù của FPS",
+            "content": "Điều gì thường gây lag nhất trong game 2D có hàng nghìn đối tượng?",
+            "options": [
+                "Số lượng Node quá nhiều và gọi hàm _process liên tục",
+                "Dùng quá nhiều biến int",
+                "Đặt tên Node quá dài"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fill_code",
+            "title": "Lấy dữ liệu Monitor",
+            "content": "Lấy dữ liệu về số lượng Node hiện có từ lớp Performance.",
+            "code_template": "Performance.[INPUT](Performance.OBJECT_NODE_COUNT)",
+            "correct_answer": "get_monitor"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy Render",
+            "content": "Nếu Draw Calls quá cao (> 500-1000), bạn nên dùng kỹ thuật gì?",
+            "options": [
+                "Dùng CanvasGroup hoặc gộp nhiều Sprite vào 1 Texture duy nhất (Atlas)",
+                "Xóa bớt Script",
+                "Tăng tốc CPU"
+            ],
+            "correct_index": 0
+        },
+        {
+            "type": "fix_bug",
+            "title": "Lỗi logic tối ưu",
+            "content": "Sửa lỗi: Không nên tìm Node bằng tên trong mỗi khung hình.",
+            "code_template": "@onready var player = [INPUT](\"Player\")\nfunc _process(delta):\n    player.hp -= 1",
+            "correct_answer": "get_node"
+        }
+    ]
+},
+{
+    "id": 78,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản và chuẩn hóa 78 bài học.",
+    "title": "Nội suy vật lý (Interpolation)",
+    "description": "Làm game siêu mượt trên màn hình tần số quét cao (144Hz+).",
+    "stages": [
+        {
+            "type": "teach",
+            "title": "Chống giật khung hình",
+            "content": "Vật lý Godot chạy ở 60Hz, nhưng màn hình game thủ có thể là 144Hz. Interpolation tự động 'vẽ thêm' các vị trí trung gian để vật thể di chuyển mượt mà, không bị hiện tượng 'nháy nháy'.",
+            "code_snippet": "Project Settings -> Physics -> 2D -> Physics Interpolation"
+        },
+        {
+            "type": "fill_code",
+            "title": "Bật tính năng",
+            "content": "Đường dẫn cài đặt trong Project Settings.",
+            "code_template": "physics/2d/[INPUT]_interpolation = true",
+            "correct_answer": "run_physics"
+        },
+        {
+            "type": "quiz",
+            "title": "Vị trí áp dụng",
+            "content": "Tính năng này giải quyết vấn đề gì?",
+            "options": [
+                "Làm quái vật thông minh hơn",
+                "Khớp nối giữa tần số tính toán vật lý và tần số hiển thị của màn hình",
+                "Làm file game nhẹ hơn"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fill_code",
+            "title": "Dịch chuyển tức thời",
+            "content": "Khi dịch chuyển nhân vật quá xa bằng code, ta cần 'Reset' nội suy để tránh bị vệt mờ.",
+            "code_template": "player.[INPUT]()",
+            "correct_answer": "reset_physics_interpolation"
+        },
+        {
+            "type": "quiz",
+            "title": "Bẫy Script",
+            "content": "Nếu bạn tự viết di chuyển trong hàm _process (thay vì _physics_process), nội suy vật lý có hoạt động không?",
+            "options": [
+                "Có, vẫn mượt",
+                "Không, vì _process không đồng bộ với nhịp vật lý",
+                "Chỉ hoạt động với Camera"
+            ],
+            "correct_index": 1
+        },
+        {
+            "type": "fix_bug",
+            "title": "Bật theo Node",
+            "content": "Sửa lỗi: Bạn có thể bật/tắt nội suy cho từng Node riêng lẻ qua thuộc tính này.",
+            "code_template": "node.physics_interpolation_[INPUT] = Node.PHYSICS_INTERPOLATION_MODE_ON",
+            "correct_answer": "mode"
+        }
+    ]
+},
+{
+        "id": 79,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 1: Dựng Sân Khấu",
+        "description": "Băng chuyền vô tận.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Bí mật ảo giác",
+                "content": "Chim thực ra đứng yên, cả thế giới lùi lại phía sau tạo cảm giác bay lượn!",
+                "code_snippet": "Width: 256, Height: 256"
+            },
+            {
+                "type": "fill_code",
+                "title": "Đo chiều rộng",
+                "content": "Bắt máy tính tự đo chiều rộng tấm đất để nối đuôi nhau.",
+                "code_template": "real_width = region_rect.size.x * [INPUT].x",
+                "correct_answer": "scale"
+            },
+            {
+                "type": "fill_code",
+                "title": "Vòng lặp đất",
+                "content": "Nếu đất trôi hết màn hình, đưa nó ra sau lưng tấm kia (cộng 2 lần chiều rộng).",
+                "code_template": "position.x += real_width * [INPUT]",
+                "correct_answer": "2"
+            }
+        ]
+    },
+{
+        "id": 80,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 2: Chướng Ngại Vật",
+        "description": "Bản thiết kế ống nước.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Ghép Lego",
+                "content": "Dùng Area2D để làm ống nước. Xếp thân ống thật dài để không bị lộ khi thò thụt.",
+                "code_snippet": "Area2D (Pipe) -> Sprite2D -> Collision"
+            },
+            {
+                "type": "fill_code",
+                "title": "Trôi lùi",
+                "content": "Ống nước phải trôi về bên trái với tốc độ SPEED.",
+                "code_template": "position.x [INPUT] SPEED * delta",
+                "correct_answer": "-="
+            },
+            {
+                "type": "fill_code",
+                "title": "Dọn rác",
+                "content": "Ống bay mất thì phải xóa ngay!",
+                "code_template": "if position.x < -50: [INPUT]()",
+                "correct_answer": "queue_free"
+            }
+        ]
+    },
+{
+        "id": 81,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 3: Máy Tạo Ống",
+        "description": "Tự động hóa sản xuất.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Máy in 3D",
+                "content": "Dùng Timer để mỗi 1.5 giây lại 'in' ra một cặp ống nước mới.",
+                "code_snippet": "$Timer -> timeout()"
+            },
+            {
+                "type": "fill_code",
+                "title": "In ống",
+                "content": "Dùng phép phân thân để tạo ống từ bản thiết kế.",
+                "code_template": "var new_pipe = PIPE_SCENE.[INPUT]()",
+                "correct_answer": "instantiate"
+            },
+            {
+                "type": "fill_code",
+                "title": "Lên sân khấu",
+                "content": "Phải đưa ống vào màn hình mới thấy được.",
+                "code_template": "[INPUT](new_pipe)",
+                "correct_answer": "add_child"
+            }
+        ]
+    },
+{
+        "id": 82,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 4: Bậc Thầy Ngẫu Nhiên",
+        "description": "Ống cao ống thấp.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Đổ xúc xắc",
+                "content": "Ống nước cao bằng nhau thì quá chán. Ta dùng randf_range để độ cao thò thụt.",
+                "code_snippet": "var random_y = randf_range(50, 150)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Chọn số",
+                "content": "Hàm bốc số ngẫu nhiên của Godot.",
+                "code_template": "var y = [INPUT](50, 150)",
+                "correct_answer": "randf_range"
+            }
+        ]
+    },
+{
+        "id": 83,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 5: Vỗ Cánh Bay Xa",
+        "description": "Diễn viên chính xuất hiện.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Hoạt hình",
+                "content": "Dùng AnimatedSprite2D cắt ảnh bầy chim để làm động tác đập cánh.",
+                "code_snippet": "FPS: 12, Autoplay: On"
+            },
+            {
+                "type": "quiz",
+                "title": "Bệnh mờ mắt",
+                "content": "Phóng to chim bị mờ thì chỉnh cái gì?",
+                "options": [
+                    "Linear",
+                    "Nearest"
+                ],
+                "correct_index": 1
+            }
+        ]
+    },
+{
+        "id": 84,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 6: Đối Mặt Trọng Lực",
+        "description": "Chim rơi tự do.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Lực nhảy",
+                "content": "Nhảy lên là số âm (đi ngược trục Y).",
+                "code_template": "const JUMP_FORCE = [INPUT]",
+                "correct_answer": "-300.0"
+            },
+            {
+                "type": "fill_code",
+                "title": "Rơi xuống",
+                "content": "Cộng trọng lực vào vận tốc mỗi giây.",
+                "code_template": "velocity.y += GRAVITY * [INPUT]",
+                "correct_answer": "delta"
+            }
+        ]
+    },
+{
+        "id": 85,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 7: Va Chạm Đột Tử",
+        "description": "Hết đời chim.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Chơi lại",
+                "content": "Nếu đụng ống thì tải lại màn hình.",
+                "code_template": "get_tree().[INPUT]()",
+                "correct_answer": "reload_current_scene"
+            },
+            {
+                "type": "fill_code",
+                "title": "Kẻ bị hại",
+                "content": "Kiểm tra xem vật va chạm có tên là Player không.",
+                "code_template": "if body.name == \"[INPUT]\":",
+                "correct_answer": "Player"
+            }
+        ]
+    },
+{
+        "id": 86,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 8: Hệ Thống Điểm",
+        "description": "Vùng ăn điểm tàng hình.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Cảm biến",
+                "content": "Đặt một vùng Area2D giữa 2 ống. Chim bay qua là được cộng điểm.",
+                "code_snippet": "ScoreArea (Area2D)"
+            },
+            {
+                "type": "fill_code",
+                "title": "Báo cáo",
+                "content": "Gọi hàm add_score của Node Cha (Main).",
+                "code_template": "[INPUT]().add_score()",
+                "correct_answer": "get_parent"
+            }
+        ]
+    },
+{
+        "id": 87,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 9: Vòng Lặp Game",
+        "description": "Màn hình chờ và kết thúc.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Trạng thái",
+                "content": "Lúc mới vào game, trạng thái là gì?",
+                "code_template": "var current_state = GameState.[INPUT]",
+                "correct_answer": "READY"
+            },
+            {
+                "type": "fill_code",
+                "title": "Dạy chim",
+                "content": "Hàm vỗ cánh bên trong Player.",
+                "code_template": "func [INPUT](): velocity.y = JUMP",
+                "correct_answer": "flap"
+            }
+        ]
+    },
+{
+        "id": 88,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 10: Vá Lỗi Pro",
+        "description": "Cỗ máy Thụy Sĩ.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Ngắt cầu dao",
+                "content": "Game Over thì phải dừng đồng hồ tạo ống.",
+                "code_template": "pipe_timer.[INPUT]()",
+                "correct_answer": "stop"
+            },
+            {
+                "type": "fill_code",
+                "title": "Chỉ chơi",
+                "content": "Ống chỉ trôi khi đang PLAYING.",
+                "code_template": "if state == main.GameState.[INPUT]:",
+                "correct_answer": "PLAYING"
+            }
+        ]
+    },
+{
+        "id": 89,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Flappy Bird.",
+        "title": "[Flappy] GĐ 11: Âm Thanh",
+        "description": "Loa phóng thanh.",
+        "stages": [
+            {
+                "type": "fill_code",
+                "title": "Khai báo loa",
+                "content": "Gọi loa SfxWing.",
+                "code_template": "@onready var sfx = $[INPUT]",
+                "correct_answer": "SfxWing"
+            },
+            {
+                "type": "fill_code",
+                "title": "Bấm loa",
+                "content": "Lệnh phát nhạc.",
+                "code_template": "sfx.[INPUT]()",
+                "correct_answer": "play"
+            }
+        ]
+    },
+{
+        "id": 90,
+        "version": 1,
+        "update_note": "Khởi tạo hệ thống phiên bản cho dự án Treasure Hunter.",
+        "title": "[Treasure] GĐ 1: Xây Đảo Giấu Vàng",
+        "description": "Vẽ bản đồ siêu tốc.",
+        "stages": [
+            {
+                "type": "teach",
+                "title": "Sticker đất",
+                "content": "Dùng TileMapLayer và bộ gạch 32x32 để dán đất xây hòn đảo.",
+                "code_snippet": "TileMapLayer -> TileSet -> Physics"
+            },
+            {
+                "type": "fill_code",
+                "title": "Đổ bê tông",
+                "content": "Bấm nút gì để tạo lớp vật lý cho gạch?",
+                "code_template": "Physics Layers -> [INPUT] Element",
+                "correct_answer": "Add"
+            }
+        ]
+    }
+]
