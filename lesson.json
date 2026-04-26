@@ -388,6 +388,18 @@
                     "GridContainer"
                 ],
                 "correct_index": 1
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 2.1: Nhìn về phía chuột",
+                "content": "Sử dụng hàm 'look_at' và 'get_global_mouse_position()' để vật thể luôn xoay mặt về phía con trỏ chuột trong mỗi khung hình.",
+                "correct_answer": "func _process(delta):\n    look_at(get_global_mouse_position())"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 2.2: Phóng to nhân vật",
+                "content": "Trong hàm '_ready', hãy đặt thuộc tính 'scale' của vật thể thành Vector2(2, 2) để nó to gấp đôi.",
+                "correct_answer": "func _ready():\n    scale = Vector2(2, 2)"
             }
         ]
     },
@@ -666,6 +678,18 @@
                     "position += 1"
                 ],
                 "correct_index": 1
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 4.1: Di chuyển vật lý",
+                "content": "Trong hàm '_physics_process', hãy đặt 'velocity' sang phải (x=200) và gọi hàm 'move_and_slide()' để nhân vật di chuyển.",
+                "correct_answer": "func _physics_process(delta):\n    velocity = Vector2(200, 0)\n    move_and_slide()"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 4.2: Cú nhảy cơ bản",
+                "content": "Nếu 'is_on_floor()' trả về true, hãy đặt 'velocity.y = -400' để nhân vật nhảy lên.",
+                "correct_answer": "func _physics_process(delta):\n    if is_on_floor():\n        velocity.y = -400\n    move_and_slide()"
             }
         ]
     },
@@ -1051,6 +1075,12 @@
                 "title": "Biến đổi dần dần",
                 "content": "Tween giúp phóng to/thu nhỏ hoặc di chuyển cực mượt.",
                 "code_snippet": "create_tween().tween_property(self, \"modulate:a\", 0, 1.0)"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 7.1: Phát hoạt ảnh",
+                "content": "Sử dụng '$AnimationPlayer' để phát hoạt ảnh có tên là 'walk' ngay khi game bắt đầu.",
+                "correct_answer": "func _ready():\n    $AnimationPlayer.play(\"walk\")"
             }
         ]
     },
@@ -1169,6 +1199,12 @@
                     "Làm Camera to hơn"
                 ],
                 "correct_index": 0
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 8.1: Tia dò va chạm",
+                "content": "Kiểm tra nếu '$RayCast2D' đang va chạm ('is_colliding()') thì in ra chữ 'Phat hien vat can'.",
+                "correct_answer": "func _process(delta):\n    if $RayCast2D.is_colliding():\n        print(\"Phat hien vat can\")"
             }
         ]
     },
@@ -1568,6 +1604,12 @@
                 "content": "Khi lấy đạn ra từ Pool, ta phải hiện nó lại.",
                 "code_template": "bullet.[INPUT]()",
                 "correct_answer": "show"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 10.1: Kiểm tra hiệu năng",
+                "content": "Sử dụng lớp 'Performance' để in ra số lượng Node hiện có trong scene bằng hàm 'get_monitor(Performance.OBJECT_NODE_COUNT)'.",
+                "correct_answer": "func _ready():\n    var count = Performance.get_monitor(Performance.OBJECT_NODE_COUNT)\n    print(count)"
             }
         ]
     },
@@ -1912,6 +1954,12 @@
                 "content": "Sửa lỗi kết nối tín hiệu từ Event Bus (giả sử tên Autoload là Events).",
                 "code_template": "[INPUT].player_jumped.connect(_on_jump)",
                 "correct_answer": "Events"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách 11.1: Hệ thống Tạm dừng",
+                "content": "Viết hàm '_on_pause_pressed()' để khi nhấn nút, game sẽ bị tạm dừng bằng cách đặt 'get_tree().paused = true'.",
+                "correct_answer": "func _on_pause_pressed():\n    get_tree().paused = true"
             }
         ]
     },
@@ -2512,6 +2560,12 @@
                 "content": "Lệnh phát nhạc.",
                 "code_template": "sfx.[INPUT]()",
                 "correct_answer": "play"
+            },
+            {
+                "type": "code_challenge",
+                "title": "Thử thách Flappy: Tính điểm",
+                "content": "Khi chim đi qua vùng ghi điểm, hãy tăng biến 'score' thêm 1 và cập nhật chữ hiển thị trên '$ScoreLabel'.",
+                "correct_answer": "func _on_score_area_entered(body):\n    score += 1\n    $ScoreLabel.text = str(score)"
             }
         ]
     },
