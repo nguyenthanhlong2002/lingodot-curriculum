@@ -542,7 +542,7 @@
             "type": "fill_code",
             "title": "Ghi đè phong cách",
             "content": "Dùng code để thay đổi StyleBox của nút ở trạng thái bình thường.",
-            "code_template": "btn.add_theme_stylebox_[INPUT]("normal", my_style)",
+            "code_template": "btn.add_theme_stylebox_[INPUT](\"normal\", my_style)",
             "correct_answer": "override"
         },
         {
@@ -560,7 +560,7 @@
             "type": "fix_bug",
             "title": "Sai đường dẫn màu",
             "content": "Sửa lỗi cú pháp khi đổi màu chữ bằng code.",
-            "code_template": "label.add_theme_[INPUT]_override("font_color", Color.RED)",
+            "code_template": "label.add_theme_[INPUT]_override(\"font_color\", Color.RED)",
             "correct_answer": "color"
         }
     ]
