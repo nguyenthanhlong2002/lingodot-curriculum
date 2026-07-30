@@ -1,8 +1,8 @@
 [
   {
     "id": 101,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 1,
     "track": "Nền tảng",
     "difficulty": "Mới bắt đầu",
@@ -117,8 +117,8 @@
   },
   {
     "id": 102,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 2,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -233,8 +233,8 @@
   },
   {
     "id": 103,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 3,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -348,8 +348,8 @@
   },
   {
     "id": 104,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 4,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -465,8 +465,8 @@
   },
   {
     "id": 105,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 5,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -581,8 +581,8 @@
   },
   {
     "id": 106,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 6,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -697,8 +697,8 @@
   },
   {
     "id": 107,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 7,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -813,8 +813,8 @@
   },
   {
     "id": 108,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 8,
     "track": "2D",
     "difficulty": "Cơ bản",
@@ -930,8 +930,8 @@
   },
   {
     "id": 109,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 9,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1046,8 +1046,8 @@
   },
   {
     "id": 110,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 10,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1165,8 +1165,8 @@
   },
   {
     "id": 111,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 11,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1281,8 +1281,8 @@
   },
   {
     "id": 112,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 12,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1397,8 +1397,8 @@
   },
   {
     "id": 113,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 13,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1513,8 +1513,8 @@
   },
   {
     "id": 114,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 14,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1629,8 +1629,8 @@
   },
   {
     "id": 115,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 15,
     "track": "Chất lượng 2D",
     "difficulty": "Nâng cao",
@@ -1745,8 +1745,8 @@
   },
   {
     "id": 116,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 16,
     "track": "3D",
     "difficulty": "Cơ bản",
@@ -1862,8 +1862,8 @@
   },
   {
     "id": 117,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 17,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -1980,8 +1980,8 @@
   },
   {
     "id": 118,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 18,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2096,8 +2096,8 @@
   },
   {
     "id": 119,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 19,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2212,8 +2212,8 @@
   },
   {
     "id": 120,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 20,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2331,8 +2331,8 @@
   },
   {
     "id": 121,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 21,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2447,8 +2447,8 @@
   },
   {
     "id": 122,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 22,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2563,8 +2563,8 @@
   },
   {
     "id": 123,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 23,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2679,8 +2679,8 @@
   },
   {
     "id": 124,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 24,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2795,8 +2795,8 @@
   },
   {
     "id": 125,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 25,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2914,8 +2914,8 @@
   },
   {
     "id": 126,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 26,
     "track": "Multiplayer",
     "difficulty": "Nâng cao",
@@ -3030,8 +3030,8 @@
   },
   {
     "id": 127,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 27,
     "track": "Sản phẩm",
     "difficulty": "Trung cấp",
@@ -3146,8 +3146,8 @@
   },
   {
     "id": 128,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 28,
     "track": "Sản phẩm",
     "difficulty": "Nâng cao",
@@ -3263,8 +3263,8 @@
   },
   {
     "id": 129,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 29,
     "track": "Phát hành",
     "difficulty": "Trung cấp",
@@ -3380,8 +3380,8 @@
   },
   {
     "id": 130,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 30,
     "track": "Phát hành",
     "difficulty": "Nâng cao",
@@ -3496,8 +3496,8 @@
   },
   {
     "id": 131,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 31,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -3612,8 +3612,8 @@
   },
   {
     "id": 132,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 32,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -3728,8 +3728,8 @@
   },
   {
     "id": 133,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 33,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -3847,8 +3847,8 @@
   },
   {
     "id": 134,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 34,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -3963,8 +3963,8 @@
   },
   {
     "id": 135,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 35,
     "track": "Capstone",
     "difficulty": "Dự án",
@@ -4079,8 +4079,8 @@
   },
   {
     "id": 136,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 36,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -4195,8 +4195,8 @@
   },
   {
     "id": 137,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 37,
     "track": "UI & UX",
     "difficulty": "Nâng cao",
@@ -4311,8 +4311,8 @@
   },
   {
     "id": 138,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 38,
     "track": "Âm thanh",
     "difficulty": "Cơ bản",
@@ -4427,8 +4427,8 @@
   },
   {
     "id": 139,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 39,
     "track": "Âm thanh",
     "difficulty": "Nâng cao",
@@ -4544,8 +4544,8 @@
   },
   {
     "id": 140,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 40,
     "track": "Game nền tảng",
     "difficulty": "Thực hành",
@@ -4662,8 +4662,8 @@
   },
   {
     "id": 141,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 41,
     "track": "Toán game 2D",
     "difficulty": "Thực hành",
@@ -4779,8 +4779,8 @@
   },
   {
     "id": 142,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 42,
     "track": "Physics arcade 2D",
     "difficulty": "Thực hành",
@@ -4898,8 +4898,8 @@
   },
   {
     "id": 143,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 43,
     "track": "Gameplay arcade",
     "difficulty": "Thực hành",
@@ -5015,8 +5015,8 @@
   },
   {
     "id": 144,
-    "version": 4,
-    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
     "order": 44,
     "track": "Phát triển game",
     "difficulty": "Thực hành",
@@ -5127,6 +5127,718 @@
         "content": "Checklist:\n- Chọn MVP có core loop hoàn chỉnh\n- Ưu tiên bug/feel theo dữ liệu playtest\n- Mở rộng theo milestone thay vì thêm feature tùy hứng\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html | https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html | https://docs.godotengine.org/en/4.7/tutorials/export/index.html",
         "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
         "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 45,
+    "track": "Nghiên cứu gameplay",
+    "difficulty": "Nâng cao",
+    "title": "45. Research lab: giả thuyết, telemetry cục bộ và A/B có kiểm soát",
+    "description": "Học cách trả lời một câu hỏi thiết kế bằng dữ liệu: liệu giảm khoảng trống ống có làm game khó hơn nhưng vẫn công bằng? Bạn sẽ định nghĩa chỉ số, ghi nhận lượt chơi, so sánh biến thể và không kết luận quá mức.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Viết giả thuyết gameplay có thể kiểm chứng",
+      "Tóm tắt dữ liệu lượt chơi bằng chỉ số đơn giản",
+      "Đọc kết quả A/B mà không nhầm tương quan với nguyên nhân",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Nghiên cứu gameplay",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_json.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Học cách trả lời một câu hỏi thiết kế bằng dữ liệu: liệu giảm khoảng trống ống có làm game khó hơn nhưng vẫn công bằng? Bạn sẽ định nghĩa chỉ số, ghi nhận lượt chơi, so sánh biến thể và không kết luận quá mức.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Viết giả thuyết gameplay có thể kiểm chứng\n2. Tóm tắt dữ liệu lượt chơi bằng chỉ số đơn giản\n3. Đọc kết quả A/B mà không nhầm tương quan với nguyên nhân\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "func mean_score(scores: Array[int]) -> float:\n    var total := 0\n    for score in scores:\n        total += score\n    return float(total) / maxi(scores.size(), 1)",
+        "objective": "Viết giả thuyết gameplay có thể kiểm chứng"
+      },
+      {
+        "type": "fill_code",
+        "title": "Đếm số lượt chơi đã ghi",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Đếm số lượt chơi đã ghi.",
+        "code_template": "var run_count := scores.[INPUT]()",
+        "correct_answer": "size",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Viết giả thuyết gameplay có thể kiểm chứng"
+      },
+      {
+        "type": "quiz",
+        "title": "Để biết biến thể gap mới có tốt hơn, so sánh nào đáng tin nhất?",
+        "content": "Hai nhóm phải được test trong điều kiện giống nhau ngoài biến đang thay đổi.",
+        "options": [
+          "Giữ build, thiết bị và luật chơi như nhau; chỉ đổi gap",
+          "So sánh điểm của hai người chơi khác nhau",
+          "Đọc một lượt chơi bất kỳ"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa phép tính điểm trung bình bị chia nguyên",
+        "code_template": "return total [INPUT] scores.size()",
+        "correct_answer": "/ float(",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: chọn một giả thuyết, ví dụ “gap 220 px tăng điểm trung bình nhưng không tăng tỷ lệ thoát ở lượt đầu”. Giữ nguyên seed, tốc độ pipe, build, thiết bị và thời lượng test. Ghi score, thời điểm chết và loại va chạm của tối thiểu 10 lượt cho mỗi biến thể.",
+        "code_snippet": "func mean_score(scores: Array[int]) -> float:\n    var total := 0\n    for score in scores:\n        total += score\n    return float(total) / maxi(scores.size(), 1)",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết hàm trả về score trung bình của mảng scores; mảng rỗng phải cho 0.0.",
+        "correct_answer": "func average_score(scores: Array[int]) -> float:\n    if scores.is_empty():\n        return 0.0\n    var total := 0\n    for score in scores:\n        total += score\n    return float(total) / scores.size()",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Tóm tắt dữ liệu lượt chơi bằng chỉ số đơn giản"
+      },
+      {
+        "type": "quiz",
+        "title": "Kết quả: variant A có mean 8.2 từ 10 lượt, B có mean 8.4 từ đúng 1 lượt. Kết luận nào phù hợp?",
+        "content": "Kích thước mẫu khác nhau làm bằng chứng của B rất yếu.",
+        "options": [
+          "Chưa kết luận; thu thêm dữ liệu cho B",
+          "B chắc chắn tốt hơn",
+          "Xóa dữ liệu A"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "Không trộn thay đổi art, tốc độ, điều khiển và difficulty trong cùng một phép thử. Ghi rõ build, seed, độ phân giải, thiết bị và tiêu chí loại lượt test. Telemetry cục bộ chỉ phục vụ cải thiện game; đừng thu dữ liệu cá nhân không cần thiết.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết hàm so sánh hai điểm trung bình và trả về better, worse hoặc tie.",
+        "correct_answer": "func compare_means(control_mean: float, variant_mean: float) -> String:\n    if variant_mean > control_mean:\n        return \"better\"\n    if variant_mean < control_mean:\n        return \"worse\"\n    return \"tie\"",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html | https://docs.godotengine.org/en/4.7/classes/class_json.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 46,
+    "track": "Input & mobile",
+    "difficulty": "Nâng cao",
+    "title": "46. Research lab: input đa nền tảng, thao tác chạm và độ trễ cảm nhận",
+    "description": "Thiết kế input cho cùng một hành động flap trên cảm ứng, chuột, bàn phím và tay cầm. Lab tập trung vào event/action, GUI không cướp gameplay input và cách đo cảm giác phản hồi trên điện thoại thật.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Tách action gameplay khỏi phím hay nút cụ thể",
+      "Chọn callback input đúng khi có UI",
+      "Thiết kế phép thử tap và focus loss trên thiết bị thật",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Input & mobile",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/inputs/inputevent.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/inputs/input_examples.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_input.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Thiết kế input cho cùng một hành động flap trên cảm ứng, chuột, bàn phím và tay cầm. Lab tập trung vào event/action, GUI không cướp gameplay input và cách đo cảm giác phản hồi trên điện thoại thật.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Tách action gameplay khỏi phím hay nút cụ thể\n2. Chọn callback input đúng khi có UI\n3. Thiết kế phép thử tap và focus loss trên thiết bị thật\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "func wants_flap(event: InputEvent) -> bool:\n    return event.is_action_pressed(\"flap\")",
+        "objective": "Tách action gameplay khỏi phím hay nút cụ thể"
+      },
+      {
+        "type": "fill_code",
+        "title": "Kiểm tra event đã kích hoạt action flap",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Kiểm tra event đã kích hoạt action flap.",
+        "code_template": "if event.is_action_[INPUT](\"flap\"):\n    flap()",
+        "correct_answer": "pressed",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Tách action gameplay khỏi phím hay nút cụ thể"
+      },
+      {
+        "type": "quiz",
+        "title": "Với gameplay toàn màn hình, callback nào thường giúp UI được ưu tiên nhận input trước?",
+        "content": "UI cần cơ hội xử lý event trước gameplay.",
+        "options": [
+          "_unhandled_input",
+          "_draw",
+          "_exit_tree"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa polling action flap",
+        "code_template": "if Input.[INPUT]_action_just_pressed(\"flap\"):\n    flap()",
+        "correct_answer": "is",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: tạo action flap cho touch, click trái, Space và một nút tay cầm. Test 20 tap liên tiếp, tap khi popup đang mở, giữ nút, mất focus rồi quay lại. Ghi số lần flap, thời điểm phản hồi và event nào bị UI tiêu thụ.",
+        "code_snippet": "func wants_flap(event: InputEvent) -> bool:\n    return event.is_action_pressed(\"flap\")",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết hàm cho biết một tap ngắn có hợp lệ với ngưỡng milliseconds hay không.",
+        "correct_answer": "func is_valid_tap(press_time_ms: int, max_tap_ms: int = 180) -> bool:\n    return press_time_ms <= max_tap_ms",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Chọn callback input đúng khi có UI"
+      },
+      {
+        "type": "quiz",
+        "title": "Nếu một Button đang mở menu nhận tap nhưng Bird vẫn flap, cách sửa nào đúng nhất?",
+        "content": "Phải tôn trọng luồng event UI trước gameplay.",
+        "options": [
+          "Xử lý flap ở _unhandled_input hoặc để Control accept event",
+          "Bắt mọi input bằng _input rồi gọi flap",
+          "Tăng gravity"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "Không suy ra input mobile chỉ bằng test chuột: kiểm tra Android thật, hướng dọc/ngang, notch, đa chạm, pause/resume và độ trễ. Dùng action để remap được, không hard-code KEY_SPACE vào logic gameplay.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết hàm trả về số tap bị bỏ lỡ từ tổng tap và flap đã nhận; không được âm.",
+        "correct_answer": "func missed_taps(total_taps: int, received_flaps: int) -> int:\n    return maxi(total_taps - received_flaps, 0)",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/tutorials/inputs/inputevent.html | https://docs.godotengine.org/en/4.7/tutorials/inputs/input_examples.html | https://docs.godotengine.org/en/4.7/classes/class_input.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 47,
+    "track": "Kiến trúc gameplay",
+    "difficulty": "Nâng cao",
+    "title": "47. Research lab: state machine, transition và invariant",
+    "description": "Nâng game state từ vài if rời rạc thành mô hình có transition rõ ràng. Bạn sẽ kiểm chứng rằng timer, input, spawn và HUD chỉ hoạt động ở state hợp lệ, tránh lỗi restart hoặc score lặp.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Mô tả state và transition hợp lệ",
+      "Biến luật gameplay thành invariant có thể test",
+      "Tìm lỗi temporal bằng bảng trạng thái",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Kiến trúc gameplay",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/animation/animation_tree.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/best_practices/index.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Nâng game state từ vài if rời rạc thành mô hình có transition rõ ràng. Bạn sẽ kiểm chứng rằng timer, input, spawn và HUD chỉ hoạt động ở state hợp lệ, tránh lỗi restart hoặc score lặp.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Mô tả state và transition hợp lệ\n2. Biến luật gameplay thành invariant có thể test\n3. Tìm lỗi temporal bằng bảng trạng thái\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "enum RunState { READY, PLAYING, DEAD }\n\nfunc can_start(state: RunState) -> bool:\n    return state == RunState.READY",
+        "objective": "Mô tả state và transition hợp lệ"
+      },
+      {
+        "type": "fill_code",
+        "title": "Chỉ cho phép spawn khi game đang chơi",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Chỉ cho phép spawn khi game đang chơi.",
+        "code_template": "if state == RunState.[INPUT]:\n    spawn_pipe()",
+        "correct_answer": "PLAYING",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Mô tả state và transition hợp lệ"
+      },
+      {
+        "type": "quiz",
+        "title": "Invariant nào đúng cho game đã DEAD?",
+        "content": "Một invariant là điều luôn phải đúng trong một state.",
+        "options": [
+          "Không spawn pipe mới và không tăng score",
+          "Bird nhận mọi input",
+          "Timer luôn chạy"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa phép so sánh state",
+        "code_template": "if state [INPUT] RunState.DEAD:\n    return",
+        "correct_answer": "==",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: lập bảng READY/PLAYING/DEAD theo hàng và input, timer, hit, restart theo cột. Với mỗi ô, ghi transition hoặc no-op mong đợi. Chạy sequence: start → spawn → hit → timer timeout → restart; log state sau từng event để tìm transition sai.",
+        "code_snippet": "enum RunState { READY, PLAYING, DEAD }\n\nfunc can_start(state: RunState) -> bool:\n    return state == RunState.READY",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết hàm cho phép transition READY → PLAYING và PLAYING → DEAD, còn lại trả false.",
+        "correct_answer": "enum State { READY, PLAYING, DEAD }\n\nfunc is_valid_transition(from_state: State, to_state: State) -> bool:\n    return (from_state == State.READY and to_state == State.PLAYING) or (from_state == State.PLAYING and to_state == State.DEAD)",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Biến luật gameplay thành invariant có thể test"
+      },
+      {
+        "type": "quiz",
+        "title": "Sau DEAD, Timer timeout vẫn tạo pipe. Đây là loại lỗi nào?",
+        "content": "Event cũ đã vượt qua một state không còn hợp lệ.",
+        "options": [
+          "Lỗi transition/invariant",
+          "Lỗi màu sprite",
+          "Lỗi font"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "State machine không thay thế mọi logic; nó bảo vệ ranh giới thời gian. Tránh cho nhiều node tự đổi state không có điểm điều phối. Khi test, ghi event theo thứ tự thay vì chỉ chụp màn hình cuối cùng.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết guard trả về true khi state không phải PLAYING để caller dừng cập nhật gameplay.",
+        "correct_answer": "enum State { READY, PLAYING, DEAD }\n\nfunc should_pause_gameplay(state: State) -> bool:\n    return state != State.PLAYING",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/tutorials/animation/animation_tree.html | https://docs.godotengine.org/en/4.7/tutorials/best_practices/index.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 48,
+    "track": "Toán & cân bằng",
+    "difficulty": "Nâng cao",
+    "title": "48. Research lab: difficulty curve, RNG xác định và mô phỏng",
+    "description": "Tuning không phải đoán một con số. Bạn sẽ tạo difficulty curve có giới hạn, dùng seed để tái lập pipe layout và mô phỏng nhiều score nhằm kiểm tra game vẫn có đường bay hợp lệ.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Thiết kế curve độ khó có giới hạn an toàn",
+      "Dùng RandomNumberGenerator seed để tái lập kết quả",
+      "Phân biệt random công bằng với random không thể vượt qua",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Toán & cân bằng",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/classes/class_randomnumbergenerator.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/math/index.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_vector2.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Tuning không phải đoán một con số. Bạn sẽ tạo difficulty curve có giới hạn, dùng seed để tái lập pipe layout và mô phỏng nhiều score nhằm kiểm tra game vẫn có đường bay hợp lệ.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Thiết kế curve độ khó có giới hạn an toàn\n2. Dùng RandomNumberGenerator seed để tái lập kết quả\n3. Phân biệt random công bằng với random không thể vượt qua\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "func gap_for_score(score: int) -> float:\n    return clampf(260.0 - score * 4.0, 150.0, 260.0)",
+        "objective": "Thiết kế curve độ khó có giới hạn an toàn"
+      },
+      {
+        "type": "fill_code",
+        "title": "Đặt seed để tái lập một chuỗi random",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Đặt seed để tái lập một chuỗi random.",
+        "code_template": "rng.[INPUT] = 20260730",
+        "correct_answer": "seed",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Thiết kế curve độ khó có giới hạn an toàn"
+      },
+      {
+        "type": "quiz",
+        "title": "Lợi ích chính của seed cố định khi debug pipe spawn là gì?",
+        "content": "Cùng seed sẽ tạo lại cùng chuỗi giá trị.",
+        "options": [
+          "Tái hiện chính xác một tình huống lỗi",
+          "Làm game ngẫu nhiên hơn",
+          "Tăng FPS"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa curve để gap không nhỏ hơn 150",
+        "code_template": "return [INPUT](260.0 - score * 4.0, 150.0, 260.0)",
+        "correct_answer": "clampf",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: chọn gap tối thiểu, tốc độ tối đa và vùng y an toàn trước. Với seed cố định, sinh ít nhất 30 pipe rồi kiểm tra từng gap có nằm trong bounds và không đổi quá gắt so với pipe trước. Sau đó đổi đúng một tham số curve và so sánh.",
+        "code_snippet": "func gap_for_score(score: int) -> float:\n    return clampf(260.0 - score * 4.0, 150.0, 260.0)",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết hàm tạo gap y xác định từ seed; kết quả phải nằm trong 180..540.",
+        "correct_answer": "func deterministic_gap_y(seed_value: int) -> float:\n    var rng := RandomNumberGenerator.new()\n    rng.seed = seed_value\n    return rng.randf_range(180.0, 540.0)",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Dùng RandomNumberGenerator seed để tái lập kết quả"
+      },
+      {
+        "type": "quiz",
+        "title": "Một layout có gap hợp lệ từng pipe nhưng hai pipe liên tiếp tạo góc bay bất khả thi. Cần thêm kiểm tra nào?",
+        "content": "Tính được không đồng nghĩa người chơi thực sự đi qua được.",
+        "options": [
+          "Giới hạn chênh lệch vị trí giữa các pipe",
+          "Tăng saturation màu",
+          "Bỏ seed"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "Đừng kết luận độ khó chỉ từ điểm trung bình: xem tỷ lệ chết ở 10 giây đầu, loại va chạm và độ biến thiên giữa seed. Seed dùng để debug/test; khi phát hành có thể random nhưng vẫn phải trong các bounds đã kiểm chứng.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết hàm cho biết y mới có nằm đủ gần y trước theo max_step không.",
+        "correct_answer": "func is_gap_step_safe(previous_y: float, next_y: float, max_step: float) -> bool:\n    return absf(next_y - previous_y) <= max_step",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/classes/class_randomnumbergenerator.html | https://docs.godotengine.org/en/4.7/tutorials/math/index.html | https://docs.godotengine.org/en/4.7/classes/class_vector2.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 49,
+    "track": "Dữ liệu game",
+    "difficulty": "Nâng cao",
+    "title": "49. Research lab: save an toàn, schema version và migration",
+    "description": "Biến high score và settings thành dữ liệu có version. Lab này kiểm chứng save cũ, save thiếu trường và JSON lỗi để game không mất dữ liệu hoặc crash sau update.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Thiết kế schema save tối thiểu có version",
+      "Viết migration idempotent cho dữ liệu cũ",
+      "Phân biệt dữ liệu save với cấu hình người dùng",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Dữ liệu game",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_fileaccess.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_json.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Biến high score và settings thành dữ liệu có version. Lab này kiểm chứng save cũ, save thiếu trường và JSON lỗi để game không mất dữ liệu hoặc crash sau update.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Thiết kế schema save tối thiểu có version\n2. Viết migration idempotent cho dữ liệu cũ\n3. Phân biệt dữ liệu save với cấu hình người dùng\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "func normalize_profile(data: Dictionary) -> Dictionary:\n    var result := data.duplicate()\n    result[\"version\"] = maxi(int(result.get(\"version\", 1)), 1)\n    result[\"high_score\"] = maxi(int(result.get(\"high_score\", 0)), 0)\n    return result",
+        "objective": "Thiết kế schema save tối thiểu có version"
+      },
+      {
+        "type": "fill_code",
+        "title": "Kiểm tra file save tồn tại trong user path",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Kiểm tra file save tồn tại trong user path.",
+        "code_template": "if FileAccess.[INPUT](\"user://profile.save\"):\n    load_profile()",
+        "correct_answer": "file_exists",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Thiết kế schema save tối thiểu có version"
+      },
+      {
+        "type": "quiz",
+        "title": "Vì sao save game xuất ra cần dùng user:// thay vì res://?",
+        "content": "Bản export cần một vùng có thể ghi theo từng người dùng.",
+        "options": [
+          "user:// luôn dành cho dữ liệu ghi lúc chạy",
+          "res:// luôn ghi được trên Android",
+          "JSON tự mã hóa dữ liệu"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa bước chuyển dữ liệu cũ thành Dictionary",
+        "code_template": "var data = JSON.[INPUT](json_text)",
+        "correct_answer": "parse_string",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: chuẩn bị ít nhất bốn fixture: save version hiện tại, save version cũ, thiếu high_score, và text JSON hỏng. Với mỗi fixture, ghi expected output và xác nhận app không ghi đè file gốc trước khi dữ liệu mới hợp lệ.",
+        "code_snippet": "func normalize_profile(data: Dictionary) -> Dictionary:\n    var result := data.duplicate()\n    result[\"version\"] = maxi(int(result.get(\"version\", 1)), 1)\n    result[\"high_score\"] = maxi(int(result.get(\"high_score\", 0)), 0)\n    return result",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết migration thêm music_volume mặc định 1.0 nếu trường chưa có.",
+        "correct_answer": "func migrate_profile(data: Dictionary) -> Dictionary:\n    var result := data.duplicate()\n    if not result.has(\"music_volume\"):\n        result[\"music_volume\"] = 1.0\n    result[\"version\"] = 2\n    return result",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Viết migration idempotent cho dữ liệu cũ"
+      },
+      {
+        "type": "quiz",
+        "title": "Một migration chạy hai lần làm high_score tăng thêm 10 mỗi lần. Kết luận nào đúng?",
+        "content": "Migration phải cho cùng kết quả khi áp dụng lại lên dữ liệu đã migrate.",
+        "options": [
+          "Migration chưa idempotent",
+          "JSON quá nhỏ",
+          "Cần đổi font"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "Không lưu token, mật khẩu hay bí mật client trong save. JSON dễ debug nhưng không chứa trực tiếp Vector2/Color nếu chưa encode. Dùng ConfigFile cho settings và test trên thiết bị export vì res:// thường chỉ đọc.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết hàm kiểm tra profile hợp lệ: version >= 1 và high_score không âm.",
+        "correct_answer": "func is_profile_valid(data: Dictionary) -> bool:\n    return int(data.get(\"version\", 0)) >= 1 and int(data.get(\"high_score\", -1)) >= 0",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html | https://docs.godotengine.org/en/4.7/classes/class_fileaccess.html | https://docs.godotengine.org/en/4.7/classes/class_json.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "version": 5,
+    "curriculum_revision": "godot-4.7.1-research-labs-2026-07",
+    "order": 50,
+    "track": "Hiệu năng mobile",
+    "difficulty": "Nâng cao",
+    "title": "50. Research lab: frame budget, profiler và quyết định tối ưu",
+    "description": "Tối ưu prototype Android theo frame budget thay vì cảm giác mơ hồ. Bạn sẽ phân loại frame time, tạo benchmark tái lập, so sánh trước/sau và chỉ dùng pooling khi đo được allocation hoặc spike liên quan.",
+    "estimated_minutes": 70,
+    "prerequisites": [
+      "Hoàn thành các mô-đun nền tảng hoặc đã có prototype Godot nhỏ"
+    ],
+    "learning_objectives": [
+      "Đặt frame budget theo thiết bị mục tiêu",
+      "Đọc frame time thay vì chỉ nhìn FPS",
+      "Viết kế hoạch benchmark trước và sau một thay đổi",
+      "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+    ],
+    "tags": [
+      "Hiệu năng mobile",
+      "Nâng cao",
+      "Research lab",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/debugger_panel.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/performance/index.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Câu hỏi nghiên cứu",
+        "content": "Tối ưu prototype Android theo frame budget thay vì cảm giác mơ hồ. Bạn sẽ phân loại frame time, tạo benchmark tái lập, so sánh trước/sau và chỉ dùng pooling khi đo được allocation hoặc spike liên quan.\n\nKết quả chỉ đáng tin khi có giả thuyết, chỉ số, cách đo và điều kiện dừng rõ ràng.\n\nSau lab này bạn có thể:\n1. Đặt frame budget theo thiết bị mục tiêu\n2. Đọc frame time thay vì chỉ nhìn FPS\n3. Viết kế hoạch benchmark trước và sau một thay đổi\n4. Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại.",
+        "code_snippet": "func frame_status(frame_ms: float, budget_ms: float = 16.67) -> String:\n    return \"over_budget\" if frame_ms > budget_ms else \"within_budget\"",
+        "objective": "Đặt frame budget theo thiết bị mục tiêu"
+      },
+      {
+        "type": "fill_code",
+        "title": "Phát hiện frame vượt ngân sách",
+        "content": "Điền [INPUT] để hoàn thành phép đo: Phát hiện frame vượt ngân sách.",
+        "code_template": "if frame_ms [INPUT] frame_budget_ms:\n    report_spike()",
+        "correct_answer": ">",
+        "hint": "Đọc tên API và xác định dữ liệu cần thu trước khi nhìn vào kết quả.",
+        "objective": "Đặt frame budget theo thiết bị mục tiêu"
+      },
+      {
+        "type": "quiz",
+        "title": "Khi game chậm trên Android, hành động đầu tiên nào đúng?",
+        "content": "Tối ưu hữu ích phải bắt đầu từ bottleneck đo được.",
+        "options": [
+          "Profile trên thiết bị mục tiêu và tái hiện scene",
+          "Bật object pooling ở mọi nơi",
+          "Giảm mọi texture ngay"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa phép đo sai",
+        "content": "Sửa đổi delta sang milliseconds",
+        "code_template": "var frame_ms := delta [INPUT] 1000.0",
+        "correct_answer": "*",
+        "hint": "Một phép đo phải có đơn vị, điều kiện và giá trị đầu vào hợp lệ.",
+        "objective": "Phát hiện sai lệch trước khi kết luận."
+      },
+      {
+        "type": "teach",
+        "title": "Thiết kế thí nghiệm",
+        "content": "Protocol: chọn máy mục tiêu, scene, độ phân giải, quality preset và thao tác lặp lại. Capture baseline 30 giây, đánh dấu median và spike xấu nhất. Thay đúng một yếu tố (ví dụ số pipe active), capture lại cùng điều kiện rồi mới giữ hay hoàn tác thay đổi.",
+        "code_snippet": "func frame_status(frame_ms: float, budget_ms: float = 16.67) -> String:\n    return \"over_budget\" if frame_ms > budget_ms else \"within_budget\"",
+        "objective": "Đặt giả thuyết, đo một chỉ số và rút kết luận có thể lặp lại."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Bài tập thực nghiệm",
+        "content": "Viết hàm tính frame time trung bình; mảng rỗng trả 0.0.",
+        "correct_answer": "func average_frame_ms(samples: Array[float]) -> float:\n    if samples.is_empty():\n        return 0.0\n    var total := 0.0\n    for sample in samples:\n        total += sample\n    return total / samples.size()",
+        "starter_code": "# Viết phép đo nhỏ, có thể chạy lại\n",
+        "hint": "Bắt đầu bằng một hàm thuần: cùng input phải cho cùng output.",
+        "objective": "Đọc frame time thay vì chỉ nhìn FPS"
+      },
+      {
+        "type": "quiz",
+        "title": "Baseline 16.5 ms, thay đổi mới 17.2 ms nhưng giảm draw calls. Quyết định đúng?",
+        "content": "Một chỉ số đẹp không bù cho frame budget xấu hơn.",
+        "options": [
+          "Không giữ thay đổi trước khi tìm nguyên nhân và đo lại",
+          "Giữ ngay vì draw calls ít hơn",
+          "Tắt profiler"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kiểm soát biến và giới hạn",
+        "content": "FPS là số nghịch đảo nên che bớt spike; ghi frame time và percentile xấu. Không profile ở editor rồi khẳng định giống Android. Pooling có chi phí bộ nhớ và độ phức tạp; chỉ dùng sau khi trace cho thấy tạo/xóa object là bottleneck.",
+        "code_snippet": "# Ghi lại phiên bản build, thiết bị, seed và điều kiện test.",
+        "objective": "Phân biệt quan sát với kết luận."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini lab: công cụ đối chiếu",
+        "content": "Viết hàm trả về phần trăm frame vượt budget.",
+        "correct_answer": "func over_budget_percent(over_budget_frames: int, total_frames: int) -> float:\n    if total_frames <= 0:\n        return 0.0\n    return 100.0 * float(over_budget_frames) / total_frames",
+        "starter_code": "# Hoàn thiện công cụ ghi nhận hoặc đối chiếu\n",
+        "hint": "Kết quả cần đủ dữ liệu để một người khác tái lập phép thử.",
+        "objective": "Tạo artefact nhỏ phục vụ quyết định thiết kế."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao nghiên cứu",
+        "content": "Checklist lab:\n- Viết một giả thuyết có thể bị bác bỏ.\n- Chọn một chỉ số và đơn vị đo.\n- Giữ cố định các biến không nghiên cứu.\n- Chạy ít nhất 10 lần hoặc dùng dữ liệu mô phỏng lặp lại.\n- Ghi kết luận, giới hạn và thay đổi tiếp theo.\n\nTài liệu Godot 4.7: https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html | https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/debugger_panel.html | https://docs.godotengine.org/en/4.7/tutorials/performance/index.html",
+        "code_snippet": "# Commit dữ liệu đo, ghi chú và thay đổi tuning cùng nhau.",
+        "objective": "Biến quan sát thành quyết định phát triển game."
       }
     ]
   }
