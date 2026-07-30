@@ -422,6 +422,7 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Tạo class_name HealthData kế thừa Resource, có max_health int = 100.",
         "correct_answer": "class_name HealthData\nextends Resource\n\n@export var max_health: int = 100",
+        "sandbox_mode": "standalone_script",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
         "objective": "Dùng @export để designer chỉnh dữ liệu"
@@ -913,6 +914,7 @@
         "title": "Mini build",
         "content": "Viết hàm jump đặt velocity.y = -320.0 khi is_on_floor().",
         "correct_answer": "func jump() -> void:\n    if is_on_floor():\n        velocity.y = -320.0",
+        "sandbox_base_type": "CharacterBody2D",
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
@@ -1145,6 +1147,7 @@
         "title": "Mini build",
         "content": "Viết _ready lấy $Ground typed TileMapLayer.",
         "correct_answer": "@onready var ground: TileMapLayer = $Ground",
+        "sandbox_nodes": { "Ground": "TileMapLayer" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
@@ -1814,6 +1817,7 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết _ready đặt global_position = Vector3(2, 1, -4).",
         "correct_answer": "func _ready() -> void:\n    global_position = Vector3(2.0, 1.0, -4.0)",
+        "sandbox_base_type": "Node3D",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
         "objective": "Đặt camera và object có chủ đích"
@@ -1930,6 +1934,7 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết hàm jump đặt velocity.y = 6.0 khi is_on_floor().",
         "correct_answer": "func jump() -> void:\n    if is_on_floor():\n        velocity.y = 6.0",
+        "sandbox_base_type": "CharacterBody3D",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
         "objective": "Áp gravity và floor check"
@@ -1957,6 +1962,7 @@
         "title": "Mini build",
         "content": "Viết _physics_process cộng gravity vào velocity.y khi không ở sàn.",
         "correct_answer": "func _physics_process(delta: float) -> void:\n    if not is_on_floor():\n        velocity.y -= 18.0 * delta",
+        "sandbox_base_type": "CharacterBody3D",
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
@@ -2305,6 +2311,7 @@
         "title": "Mini build",
         "content": "Viết _ready đặt $AnimationTree.active = true.",
         "correct_answer": "func _ready() -> void:\n    $AnimationTree.active = true",
+        "sandbox_nodes": { "AnimationTree": "AnimationTree" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
@@ -2885,6 +2892,7 @@
         "title": "Mini build",
         "content": "Viết _ready bật billboard cho $Label3D.",
         "correct_answer": "func _ready() -> void:\n    $Label3D.billboard = BaseMaterial3D.BILLBOARD_ENABLED",
+        "sandbox_nodes": { "Label3D": "Label3D" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
@@ -3206,6 +3214,7 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết class_name ScoreRules extends RefCounted có hàm add trả current + amount.",
         "correct_answer": "class_name ScoreRules\nextends RefCounted\n\nfunc add(current: int, amount: int) -> int:\n    return current + amount",
+        "sandbox_mode": "standalone_script",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
         "objective": "Giảm coupling từ autoload"
@@ -3814,6 +3823,7 @@
         "title": "Mini build",
         "content": "Viết _ready bật $Camera3D.current.",
         "correct_answer": "func _ready() -> void:\n    $Camera3D.current = true",
+        "sandbox_nodes": { "Camera3D": "Camera3D" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
         "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
