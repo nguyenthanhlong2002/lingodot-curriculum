@@ -1,8 +1,8 @@
 [
   {
     "id": 101,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 1,
     "track": "Nền tảng",
     "difficulty": "Mới bắt đầu",
@@ -117,8 +117,8 @@
   },
   {
     "id": 102,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 2,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -233,8 +233,8 @@
   },
   {
     "id": 103,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 3,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -348,8 +348,8 @@
   },
   {
     "id": 104,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 4,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -422,10 +422,10 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Tạo class_name HealthData kế thừa Resource, có max_health int = 100.",
         "correct_answer": "class_name HealthData\nextends Resource\n\n@export var max_health: int = 100",
-        "sandbox_mode": "standalone_script",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
-        "objective": "Dùng @export để designer chỉnh dữ liệu"
+        "objective": "Dùng @export để designer chỉnh dữ liệu",
+        "sandbox_mode": "standalone_script"
       },
       {
         "type": "quiz",
@@ -465,8 +465,8 @@
   },
   {
     "id": 105,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 5,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -581,8 +581,8 @@
   },
   {
     "id": 106,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 6,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -697,8 +697,8 @@
   },
   {
     "id": 107,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 7,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -813,8 +813,8 @@
   },
   {
     "id": 108,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 8,
     "track": "2D",
     "difficulty": "Cơ bản",
@@ -914,10 +914,10 @@
         "title": "Mini build",
         "content": "Viết hàm jump đặt velocity.y = -320.0 khi is_on_floor().",
         "correct_answer": "func jump() -> void:\n    if is_on_floor():\n        velocity.y = -320.0",
-        "sandbox_base_type": "CharacterBody2D",
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_base_type": "CharacterBody2D"
       },
       {
         "type": "teach",
@@ -930,8 +930,8 @@
   },
   {
     "id": 109,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 9,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1046,8 +1046,8 @@
   },
   {
     "id": 110,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 10,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1147,10 +1147,12 @@
         "title": "Mini build",
         "content": "Viết _ready lấy $Ground typed TileMapLayer.",
         "correct_answer": "@onready var ground: TileMapLayer = $Ground",
-        "sandbox_nodes": { "Ground": "TileMapLayer" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_nodes": {
+          "Ground": "TileMapLayer"
+        }
       },
       {
         "type": "teach",
@@ -1163,8 +1165,8 @@
   },
   {
     "id": 111,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 11,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1279,8 +1281,8 @@
   },
   {
     "id": 112,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 12,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1395,8 +1397,8 @@
   },
   {
     "id": 113,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 13,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1511,8 +1513,8 @@
   },
   {
     "id": 114,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 14,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1627,8 +1629,8 @@
   },
   {
     "id": 115,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 15,
     "track": "Chất lượng 2D",
     "difficulty": "Nâng cao",
@@ -1743,8 +1745,8 @@
   },
   {
     "id": 116,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 16,
     "track": "3D",
     "difficulty": "Cơ bản",
@@ -1817,10 +1819,10 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết _ready đặt global_position = Vector3(2, 1, -4).",
         "correct_answer": "func _ready() -> void:\n    global_position = Vector3(2.0, 1.0, -4.0)",
-        "sandbox_base_type": "Node3D",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
-        "objective": "Đặt camera và object có chủ đích"
+        "objective": "Đặt camera và object có chủ đích",
+        "sandbox_base_type": "Node3D"
       },
       {
         "type": "quiz",
@@ -1860,8 +1862,8 @@
   },
   {
     "id": 117,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 17,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -1934,10 +1936,10 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết hàm jump đặt velocity.y = 6.0 khi is_on_floor().",
         "correct_answer": "func jump() -> void:\n    if is_on_floor():\n        velocity.y = 6.0",
-        "sandbox_base_type": "CharacterBody3D",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
-        "objective": "Áp gravity và floor check"
+        "objective": "Áp gravity và floor check",
+        "sandbox_base_type": "CharacterBody3D"
       },
       {
         "type": "quiz",
@@ -1962,10 +1964,10 @@
         "title": "Mini build",
         "content": "Viết _physics_process cộng gravity vào velocity.y khi không ở sàn.",
         "correct_answer": "func _physics_process(delta: float) -> void:\n    if not is_on_floor():\n        velocity.y -= 18.0 * delta",
-        "sandbox_base_type": "CharacterBody3D",
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_base_type": "CharacterBody3D"
       },
       {
         "type": "teach",
@@ -1978,8 +1980,8 @@
   },
   {
     "id": 118,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 18,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2094,8 +2096,8 @@
   },
   {
     "id": 119,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 19,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2210,8 +2212,8 @@
   },
   {
     "id": 120,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 20,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2311,10 +2313,12 @@
         "title": "Mini build",
         "content": "Viết _ready đặt $AnimationTree.active = true.",
         "correct_answer": "func _ready() -> void:\n    $AnimationTree.active = true",
-        "sandbox_nodes": { "AnimationTree": "AnimationTree" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_nodes": {
+          "AnimationTree": "AnimationTree"
+        }
       },
       {
         "type": "teach",
@@ -2327,8 +2331,8 @@
   },
   {
     "id": 121,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 21,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2443,8 +2447,8 @@
   },
   {
     "id": 122,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 22,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2559,8 +2563,8 @@
   },
   {
     "id": 123,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 23,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2675,8 +2679,8 @@
   },
   {
     "id": 124,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 24,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2791,8 +2795,8 @@
   },
   {
     "id": 125,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 25,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2892,10 +2896,12 @@
         "title": "Mini build",
         "content": "Viết _ready bật billboard cho $Label3D.",
         "correct_answer": "func _ready() -> void:\n    $Label3D.billboard = BaseMaterial3D.BILLBOARD_ENABLED",
-        "sandbox_nodes": { "Label3D": "Label3D" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_nodes": {
+          "Label3D": "Label3D"
+        }
       },
       {
         "type": "teach",
@@ -2908,8 +2914,8 @@
   },
   {
     "id": 126,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 26,
     "track": "Multiplayer",
     "difficulty": "Nâng cao",
@@ -3024,8 +3030,8 @@
   },
   {
     "id": 127,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 27,
     "track": "Sản phẩm",
     "difficulty": "Trung cấp",
@@ -3140,8 +3146,8 @@
   },
   {
     "id": 128,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 28,
     "track": "Sản phẩm",
     "difficulty": "Nâng cao",
@@ -3214,10 +3220,10 @@
         "title": "Thử thách có hướng dẫn",
         "content": "Viết class_name ScoreRules extends RefCounted có hàm add trả current + amount.",
         "correct_answer": "class_name ScoreRules\nextends RefCounted\n\nfunc add(current: int, amount: int) -> int:\n    return current + amount",
-        "sandbox_mode": "standalone_script",
         "starter_code": "# Viết lời giải ở đây\n",
         "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
-        "objective": "Giảm coupling từ autoload"
+        "objective": "Giảm coupling từ autoload",
+        "sandbox_mode": "standalone_script"
       },
       {
         "type": "quiz",
@@ -3257,8 +3263,8 @@
   },
   {
     "id": 129,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 29,
     "track": "Phát hành",
     "difficulty": "Trung cấp",
@@ -3374,8 +3380,8 @@
   },
   {
     "id": 130,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 30,
     "track": "Phát hành",
     "difficulty": "Nâng cao",
@@ -3490,8 +3496,8 @@
   },
   {
     "id": 131,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 31,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -3606,8 +3612,8 @@
   },
   {
     "id": 132,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 32,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -3722,8 +3728,8 @@
   },
   {
     "id": 133,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 33,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -3823,10 +3829,12 @@
         "title": "Mini build",
         "content": "Viết _ready bật $Camera3D.current.",
         "correct_answer": "func _ready() -> void:\n    $Camera3D.current = true",
-        "sandbox_nodes": { "Camera3D": "Camera3D" },
         "starter_code": "# Hoàn thiện mini build\n",
         "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
-        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_nodes": {
+          "Camera3D": "Camera3D"
+        }
       },
       {
         "type": "teach",
@@ -3839,8 +3847,8 @@
   },
   {
     "id": 134,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 34,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -3955,8 +3963,8 @@
   },
   {
     "id": 135,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 35,
     "track": "Capstone",
     "difficulty": "Dự án",
@@ -4071,8 +4079,8 @@
   },
   {
     "id": 136,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 36,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -4187,8 +4195,8 @@
   },
   {
     "id": 137,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 37,
     "track": "UI & UX",
     "difficulty": "Nâng cao",
@@ -4303,8 +4311,8 @@
   },
   {
     "id": 138,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 38,
     "track": "Âm thanh",
     "difficulty": "Cơ bản",
@@ -4419,8 +4427,8 @@
   },
   {
     "id": 139,
-    "version": 3,
-    "curriculum_revision": "godot-4.7.1-full-2026-07",
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
     "order": 39,
     "track": "Âm thanh",
     "difficulty": "Nâng cao",
@@ -4529,6 +4537,594 @@
         "type": "teach",
         "title": "Hoàn tất & chuyển tiếp",
         "content": "Checklist:\n- Cấu hình spatial audio 3D có chủ đích\n- Chuyển music theo state game mượt\n- Giới hạn và đo chi phí voice/effect\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/audio/playing_audio.html | https://docs.godotengine.org/en/4.7/classes/class_audiostreamplayer3d.html | https://docs.godotengine.org/en/4.7/tutorials/audio/audio_buses.html",
+        "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
+        "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "order": 40,
+    "track": "Game nền tảng",
+    "difficulty": "Thực hành",
+    "title": "40. OOP thực chiến cho game: dữ liệu, component và composition",
+    "description": "Tổ chức game bay/nhảy bằng dữ liệu tuning, Resource, scene và component nhỏ để Bird, Pipe, Score và UI có thể phát triển độc lập.",
+    "estimated_minutes": 55,
+    "prerequisites": [
+      "Hoàn thành mô-đun trước hoặc nắm ý tưởng tương đương"
+    ],
+    "learning_objectives": [
+      "Tách dữ liệu cân bằng khỏi hành vi",
+      "Dùng Resource và class cho cấu hình tái sử dụng",
+      "Ghép Bird từ các component trách nhiệm rõ"
+    ],
+    "tags": [
+      "Game nền tảng",
+      "Thực hành",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/best_practices/what_are_godot_classes.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/scripting/resources.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Bản đồ bài học",
+        "content": "Tổ chức game bay/nhảy bằng dữ liệu tuning, Resource, scene và component nhỏ để Bird, Pipe, Score và UI có thể phát triển độc lập.\n\nSau mô-đun này bạn có thể: 1. Tách dữ liệu cân bằng khỏi hành vi\n2. Dùng Resource và class cho cấu hình tái sử dụng\n3. Ghép Bird từ các component trách nhiệm rõ",
+        "code_snippet": "class_name BirdTuning\nextends Resource\n\n@export var flap_speed: float = 420.0\n@export var gravity: float = 1200.0",
+        "objective": "Tách dữ liệu cân bằng khỏi hành vi"
+      },
+      {
+        "type": "fill_code",
+        "title": "Xuất flap_speed kiểu số thực",
+        "content": "Điền phần [INPUT] để hoàn thành yêu cầu: Xuất flap_speed kiểu số thực.",
+        "code_template": "@export var flap_speed: [INPUT] = 420.0",
+        "correct_answer": "float",
+        "hint": "Đọc kỹ API Godot 4.7.1 và chỉ điền phần thay cho [INPUT].",
+        "objective": "Tách dữ liệu cân bằng khỏi hành vi"
+      },
+      {
+        "type": "quiz",
+        "title": "Dữ liệu gravity, flap speed và khoảng hở của ống nên nằm ở đâu?",
+        "content": "Mục tiêu là đổi balance mà không sửa script gameplay.",
+        "options": [
+          "Resource tuning",
+          "Tên node trong scene",
+          "Một Label HUD"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi thường gặp",
+        "content": "Sửa cách tạo instance Resource bằng class_name",
+        "code_template": "var tuning = BirdTuning.[INPUT]()",
+        "correct_answer": "new",
+        "hint": "So sánh tên API, kiểu dữ liệu và thời điểm gọi hàm với Godot 4.7.1.",
+        "objective": "Đọc lỗi và sửa thay đổi nhỏ, có chủ đích."
+      },
+      {
+        "type": "teach",
+        "title": "Quy trình thực hành",
+        "content": "Tạo Bird.tscn, Pipe.tscn và HUD.tscn riêng. Gắn BirdTuning/PipeTuning qua Inspector, sau đó thay đổi một giá trị mỗi lần và quay video ngắn để so sánh feel.",
+        "code_snippet": "class_name BirdTuning\nextends Resource\n\n@export var flap_speed: float = 420.0\n@export var gravity: float = 1200.0",
+        "objective": "Chia một kỹ năng lớn thành vòng lặp: tạo nhỏ → chạy → quan sát → sửa."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách có hướng dẫn",
+        "content": "Tạo Resource BirdTuning có flap_speed và gravity.",
+        "correct_answer": "class_name BirdTuning\nextends Resource\n\n@export var flap_speed: float = 420.0\n@export var gravity: float = 1200.0",
+        "starter_code": "# Viết lời giải ở đây\n",
+        "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
+        "objective": "Dùng Resource và class cho cấu hình tái sử dụng",
+        "sandbox_mode": "standalone_script"
+      },
+      {
+        "type": "quiz",
+        "title": "Kiểm tra quyết định kỹ thuật",
+        "content": "Khi tính năng chưa chạy đúng, bước nào nên làm trước?",
+        "options": [
+          "Thêm nhiều tính năng để thử may mắn",
+          "Tạo ví dụ nhỏ nhất, đọc lỗi và kiểm tra một giả định",
+          "Tắt mọi cảnh báo"
+        ],
+        "correct_index": 1
+      },
+      {
+        "type": "teach",
+        "title": "Bẫy cần tránh",
+        "content": "Đừng tạo God object điều khiển input, movement, spawn, score, UI, save và audio cùng lúc. Đừng hard-code mọi số cân bằng trong nhiều script.",
+        "code_snippet": "# Mẹo: thay đổi nhỏ, chạy lại ngay và giữ cảnh có thể tái sử dụng.",
+        "objective": "Nhận biết nguyên nhân trước khi tối ưu hoặc mở rộng."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build",
+        "content": "Tạo Resource PipeTuning có scroll_speed và gap_size.",
+        "correct_answer": "class_name PipeTuning\nextends Resource\n\n@export var scroll_speed: float = 180.0\n@export var gap_size: float = 220.0",
+        "starter_code": "# Hoàn thiện mini build\n",
+        "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_mode": "standalone_script"
+      },
+      {
+        "type": "teach",
+        "title": "Hoàn tất & chuyển tiếp",
+        "content": "Checklist:\n- Tách dữ liệu cân bằng khỏi hành vi\n- Dùng Resource và class cho cấu hình tái sử dụng\n- Ghép Bird từ các component trách nhiệm rõ\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/best_practices/what_are_godot_classes.html | https://docs.godotengine.org/en/4.7/tutorials/scripting/resources.html",
+        "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
+        "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "order": 41,
+    "track": "Toán game 2D",
+    "difficulty": "Thực hành",
+    "title": "41. Toán cho game bay/nhảy: Vector2, delta, clamp, lerp và random",
+    "description": "Dùng toán vừa đủ cho arcade 2D: vị trí và vận tốc bằng Vector2, tốc độ theo giây, giới hạn vùng chơi, nội suy góc bay và tạo pipe gap ngẫu nhiên có kiểm soát.",
+    "estimated_minutes": 55,
+    "prerequisites": [
+      "Hoàn thành mô-đun trước hoặc nắm ý tưởng tương đương"
+    ],
+    "learning_objectives": [
+      "Đọc Vector2 như vị trí hoặc vận tốc",
+      "Giữ chuyển động ổn định với delta và clamp",
+      "Tạo random có giới hạn để level công bằng"
+    ],
+    "tags": [
+      "Toán game 2D",
+      "Thực hành",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/math/vector_math.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_vector2.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/math/"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Bản đồ bài học",
+        "content": "Dùng toán vừa đủ cho arcade 2D: vị trí và vận tốc bằng Vector2, tốc độ theo giây, giới hạn vùng chơi, nội suy góc bay và tạo pipe gap ngẫu nhiên có kiểm soát.\n\nSau mô-đun này bạn có thể: 1. Đọc Vector2 như vị trí hoặc vận tốc\n2. Giữ chuyển động ổn định với delta và clamp\n3. Tạo random có giới hạn để level công bằng",
+        "code_snippet": "var velocity := Vector2(180.0, -320.0)\nvar next_y := clampf(420.0, 160.0, 560.0)",
+        "objective": "Đọc Vector2 như vị trí hoặc vận tốc"
+      },
+      {
+        "type": "fill_code",
+        "title": "Chuẩn hóa vector hướng về mục tiêu",
+        "content": "Điền phần [INPUT] để hoàn thành yêu cầu: Chuẩn hóa vector hướng về mục tiêu.",
+        "code_template": "var direction = (target - position).[INPUT]()",
+        "correct_answer": "normalized",
+        "hint": "Đọc kỹ API Godot 4.7.1 và chỉ điền phần thay cho [INPUT].",
+        "objective": "Đọc Vector2 như vị trí hoặc vận tốc"
+      },
+      {
+        "type": "quiz",
+        "title": "Vì sao tốc độ thường nhân với delta?",
+        "content": "delta là thời gian của frame hoặc physics tick hiện tại.",
+        "options": [
+          "Để chuyển động không phụ thuộc FPS",
+          "Để tăng FPS",
+          "Để thay thế collision"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi thường gặp",
+        "content": "Sửa giới hạn đáy vùng sinh pipe",
+        "code_template": "var next_y = clampf(raw_y, 80.0, [INPUT])",
+        "correct_answer": "620.0",
+        "hint": "So sánh tên API, kiểu dữ liệu và thời điểm gọi hàm với Godot 4.7.1.",
+        "objective": "Đọc lỗi và sửa thay đổi nhỏ, có chủ đích."
+      },
+      {
+        "type": "teach",
+        "title": "Quy trình thực hành",
+        "content": "Vẽ vùng pipe bằng hai đường min/max, rồi thử 20 giá trị random liên tiếp. Với bird, log velocity.y và rotation trước khi tune sprite; thay một hằng số mỗi lượt.",
+        "code_snippet": "var velocity := Vector2(180.0, -320.0)\nvar next_y := clampf(420.0, 160.0, 560.0)",
+        "objective": "Chia một kỹ năng lớn thành vòng lặp: tạo nhỏ → chạy → quan sát → sửa."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách có hướng dẫn",
+        "content": "Viết hàm di chuyển current tới target với max_delta.",
+        "correct_answer": "func move_towards(current: Vector2, target: Vector2, max_delta: float) -> Vector2:\n    return current.move_toward(target, max_delta)",
+        "starter_code": "# Viết lời giải ở đây\n",
+        "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
+        "objective": "Giữ chuyển động ổn định với delta và clamp"
+      },
+      {
+        "type": "quiz",
+        "title": "Kiểm tra quyết định kỹ thuật",
+        "content": "Khi tính năng chưa chạy đúng, bước nào nên làm trước?",
+        "options": [
+          "Thêm nhiều tính năng để thử may mắn",
+          "Tạo ví dụ nhỏ nhất, đọc lỗi và kiểm tra một giả định",
+          "Tắt mọi cảnh báo"
+        ],
+        "correct_index": 1
+      },
+      {
+        "type": "teach",
+        "title": "Bẫy cần tránh",
+        "content": "Đừng dùng random toàn màn hình khiến gap không thể vượt qua. Đừng cộng pixels cố định mỗi frame hoặc so sánh float bằng == khi cần is_equal_approx.",
+        "code_snippet": "# Mẹo: thay đổi nhỏ, chạy lại ngay và giữ cảnh có thể tái sử dụng.",
+        "objective": "Nhận biết nguyên nhân trước khi tối ưu hoặc mở rộng."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build",
+        "content": "Viết hàm chọn độ cao gap từ một RandomNumberGenerator trong vùng an toàn.",
+        "correct_answer": "func next_gap_y(rng: RandomNumberGenerator) -> float:\n    return rng.randf_range(180.0, 540.0)",
+        "starter_code": "# Hoàn thiện mini build\n",
+        "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+      },
+      {
+        "type": "teach",
+        "title": "Hoàn tất & chuyển tiếp",
+        "content": "Checklist:\n- Đọc Vector2 như vị trí hoặc vận tốc\n- Giữ chuyển động ổn định với delta và clamp\n- Tạo random có giới hạn để level công bằng\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/math/vector_math.html | https://docs.godotengine.org/en/4.7/classes/class_vector2.html | https://docs.godotengine.org/en/4.7/tutorials/math/",
+        "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
+        "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "order": 42,
+    "track": "Physics arcade 2D",
+    "difficulty": "Thực hành",
+    "title": "42. Vật lý bay/nhảy: gravity, flap, terminal velocity và collision",
+    "description": "Xây controller cho Bird bằng CharacterBody2D: gravity thủ công, lực flap tức thời, giới hạn tốc độ rơi, move_and_slide, rotation feedback và va chạm kết thúc lượt chơi.",
+    "estimated_minutes": 55,
+    "prerequisites": [
+      "Hoàn thành mô-đun trước hoặc nắm ý tưởng tương đương"
+    ],
+    "learning_objectives": [
+      "Cập nhật velocity trong _physics_process",
+      "Tạo flap có cảm giác rõ và tốc độ rơi bị giới hạn",
+      "Phân biệt collision gameplay với trigger tính điểm"
+    ],
+    "tags": [
+      "Physics arcade 2D",
+      "Thực hành",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/physics/character_body_2d.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_characterbody2d.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_area2d.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Bản đồ bài học",
+        "content": "Xây controller cho Bird bằng CharacterBody2D: gravity thủ công, lực flap tức thời, giới hạn tốc độ rơi, move_and_slide, rotation feedback và va chạm kết thúc lượt chơi.\n\nSau mô-đun này bạn có thể: 1. Cập nhật velocity trong _physics_process\n2. Tạo flap có cảm giác rõ và tốc độ rơi bị giới hạn\n3. Phân biệt collision gameplay với trigger tính điểm",
+        "code_snippet": "extends CharacterBody2D\n\nconst GRAVITY := 1200.0\nconst FLAP_SPEED := 420.0\n\nfunc _physics_process(delta: float) -> void:\n    velocity.y += GRAVITY * delta\n    move_and_slide()",
+        "objective": "Cập nhật velocity trong _physics_process"
+      },
+      {
+        "type": "fill_code",
+        "title": "Cộng gravity theo thời gian vào vận tốc dọc",
+        "content": "Điền phần [INPUT] để hoàn thành yêu cầu: Cộng gravity theo thời gian vào vận tốc dọc.",
+        "code_template": "velocity.y [INPUT] gravity * delta",
+        "correct_answer": "+=",
+        "hint": "Đọc kỹ API Godot 4.7.1 và chỉ điền phần thay cho [INPUT].",
+        "objective": "Cập nhật velocity trong _physics_process"
+      },
+      {
+        "type": "quiz",
+        "title": "Callback nào phù hợp để cập nhật gravity/collision?",
+        "content": "Physics cần tick ổn định.",
+        "options": [
+          "_physics_process",
+          "_draw",
+          "_notification"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi thường gặp",
+        "content": "Sửa chiều lực flap để Bird bay lên trong hệ trục 2D",
+        "code_template": "velocity.y = [INPUT]flap_speed",
+        "correct_answer": "-",
+        "hint": "So sánh tên API, kiểu dữ liệu và thời điểm gọi hàm với Godot 4.7.1.",
+        "objective": "Đọc lỗi và sửa thay đổi nhỏ, có chủ đích."
+      },
+      {
+        "type": "teach",
+        "title": "Quy trình thực hành",
+        "content": "Dựng Bird(CharacterBody2D), CollisionShape2D và AnimatedSprite2D; dựng Floor/Pipe bằng StaticBody2D. Sau đó thêm Area2D cho ScoreGate, bật Visible Collision Shapes và test tap liên tục, rơi tự do, đụng mép ống.",
+        "code_snippet": "extends CharacterBody2D\n\nconst GRAVITY := 1200.0\nconst FLAP_SPEED := 420.0\n\nfunc _physics_process(delta: float) -> void:\n    velocity.y += GRAVITY * delta\n    move_and_slide()",
+        "objective": "Chia một kỹ năng lớn thành vòng lặp: tạo nhỏ → chạy → quan sát → sửa."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách có hướng dẫn",
+        "content": "Viết hàm flap đặt tốc độ dọc của CharacterBody2D.",
+        "correct_answer": "func flap() -> void:\n    velocity.y = -420.0",
+        "starter_code": "# Viết lời giải ở đây\n",
+        "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
+        "objective": "Tạo flap có cảm giác rõ và tốc độ rơi bị giới hạn",
+        "sandbox_base_type": "CharacterBody2D"
+      },
+      {
+        "type": "quiz",
+        "title": "Kiểm tra quyết định kỹ thuật",
+        "content": "Khi tính năng chưa chạy đúng, bước nào nên làm trước?",
+        "options": [
+          "Thêm nhiều tính năng để thử may mắn",
+          "Tạo ví dụ nhỏ nhất, đọc lỗi và kiểm tra một giả định",
+          "Tắt mọi cảnh báo"
+        ],
+        "correct_index": 1
+      },
+      {
+        "type": "teach",
+        "title": "Bẫy cần tránh",
+        "content": "Đừng dùng RigidBody2D nếu bạn cần gameplay arcade được kiểm soát từng frame. Đừng đặt position trực tiếp cho CharacterBody2D hoặc để velocity rơi tăng vô hạn.",
+        "code_snippet": "# Mẹo: thay đổi nhỏ, chạy lại ngay và giữ cảnh có thể tái sử dụng.",
+        "objective": "Nhận biết nguyên nhân trước khi tối ưu hoặc mở rộng."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build",
+        "content": "Viết _physics_process cộng gravity, chặn tốc độ rơi và gọi move_and_slide.",
+        "correct_answer": "const GRAVITY := 1200.0\nconst MAX_FALL_SPEED := 900.0\n\nfunc _physics_process(delta: float) -> void:\n    velocity.y = minf(velocity.y + GRAVITY * delta, MAX_FALL_SPEED)\n    move_and_slide()",
+        "starter_code": "# Hoàn thiện mini build\n",
+        "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật.",
+        "sandbox_base_type": "CharacterBody2D"
+      },
+      {
+        "type": "teach",
+        "title": "Hoàn tất & chuyển tiếp",
+        "content": "Checklist:\n- Cập nhật velocity trong _physics_process\n- Tạo flap có cảm giác rõ và tốc độ rơi bị giới hạn\n- Phân biệt collision gameplay với trigger tính điểm\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/physics/character_body_2d.html | https://docs.godotengine.org/en/4.7/classes/class_characterbody2d.html | https://docs.godotengine.org/en/4.7/classes/class_area2d.html",
+        "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
+        "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "order": 43,
+    "track": "Gameplay arcade",
+    "difficulty": "Thực hành",
+    "title": "43. Core loop Flappy-style: spawn pipe, score gate, game state và HUD",
+    "description": "Ghép các chức năng tối thiểu của game bay/nhảy: input tap, Bird, PipeSpawner, score gate, game state, HUD, audio feedback, restart và pooling khi cần.",
+    "estimated_minutes": 55,
+    "prerequisites": [
+      "Hoàn thành mô-đun trước hoặc nắm ý tưởng tương đương"
+    ],
+    "learning_objectives": [
+      "Tách các scene Bird, Pipe, ScoreGate và HUD",
+      "Dùng signal cho hit, score và đổi game state",
+      "Xây loop chơi được rồi mới thêm skin, shop hoặc online"
+    ],
+    "tags": [
+      "Gameplay arcade",
+      "Thực hành",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/getting_started/first_2d_game/index.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_area2d.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_timer.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Bản đồ bài học",
+        "content": "Ghép các chức năng tối thiểu của game bay/nhảy: input tap, Bird, PipeSpawner, score gate, game state, HUD, audio feedback, restart và pooling khi cần.\n\nSau mô-đun này bạn có thể: 1. Tách các scene Bird, Pipe, ScoreGate và HUD\n2. Dùng signal cho hit, score và đổi game state\n3. Xây loop chơi được rồi mới thêm skin, shop hoặc online",
+        "code_snippet": "# Main\n# ├─ Bird(CharacterBody2D)\n# ├─ PipeSpawner(Node2D + Timer)\n# ├─ HUD(CanvasLayer)\n# └─ GameState(Node)",
+        "objective": "Tách các scene Bird, Pipe, ScoreGate và HUD"
+      },
+      {
+        "type": "fill_code",
+        "title": "Kết nối callback spawn với Timer",
+        "content": "Điền phần [INPUT] để hoàn thành yêu cầu: Kết nối callback spawn với Timer.",
+        "code_template": "$SpawnTimer.[INPUT].connect(_on_spawn_timer_timeout)",
+        "correct_answer": "timeout",
+        "hint": "Đọc kỹ API Godot 4.7.1 và chỉ điền phần thay cho [INPUT].",
+        "objective": "Tách các scene Bird, Pipe, ScoreGate và HUD"
+      },
+      {
+        "type": "quiz",
+        "title": "Cơ chế nào nên báo HUD khi Bird chạm pipe?",
+        "content": "Giữ Bird và HUD không phụ thuộc cứng vào nhau.",
+        "options": [
+          "signal",
+          "Bird tự tìm Label qua nhiều parent",
+          "Đổi tên scene"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi thường gặp",
+        "content": "Chỉ spawn khi game đang chơi",
+        "code_template": "if game_state != GameState.[INPUT]:\n    return",
+        "correct_answer": "PLAYING",
+        "hint": "So sánh tên API, kiểu dữ liệu và thời điểm gọi hàm với Godot 4.7.1.",
+        "objective": "Đọc lỗi và sửa thay đổi nhỏ, có chủ đích."
+      },
+      {
+        "type": "teach",
+        "title": "Quy trình thực hành",
+        "content": "Milestone 1: Bird flap/rơi/hit. Milestone 2: Pipe spawn và di chuyển. Milestone 3: ScoreGate một lần cho mỗi cặp ống. Milestone 4: HUD, game over, restart. Milestone 5: âm thanh, tuning và playtest 10 lượt.",
+        "code_snippet": "# Main\n# ├─ Bird(CharacterBody2D)\n# ├─ PipeSpawner(Node2D + Timer)\n# ├─ HUD(CanvasLayer)\n# └─ GameState(Node)",
+        "objective": "Chia một kỹ năng lớn thành vòng lặp: tạo nhỏ → chạy → quan sát → sửa."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách có hướng dẫn",
+        "content": "Khai báo signal game_over và emit nó khi kết thúc lượt.",
+        "correct_answer": "signal game_over\n\nfunc end_run() -> void:\n    game_over.emit()",
+        "starter_code": "# Viết lời giải ở đây\n",
+        "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
+        "objective": "Dùng signal cho hit, score và đổi game state"
+      },
+      {
+        "type": "quiz",
+        "title": "Kiểm tra quyết định kỹ thuật",
+        "content": "Khi tính năng chưa chạy đúng, bước nào nên làm trước?",
+        "options": [
+          "Thêm nhiều tính năng để thử may mắn",
+          "Tạo ví dụ nhỏ nhất, đọc lỗi và kiểm tra một giả định",
+          "Tắt mọi cảnh báo"
+        ],
+        "correct_index": 1
+      },
+      {
+        "type": "teach",
+        "title": "Bẫy cần tránh",
+        "content": "Đừng spawn khi state GAME_OVER hoặc để ScoreGate phát điểm nhiều lần. Đừng reset bằng cách giữ callback Timer/pipe cũ; dừng timer, clear hoặc pool node theo một luồng rõ.",
+        "code_snippet": "# Mẹo: thay đổi nhỏ, chạy lại ngay và giữ cảnh có thể tái sử dụng.",
+        "objective": "Nhận biết nguyên nhân trước khi tối ưu hoặc mở rộng."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build",
+        "content": "Viết add_score tăng score một điểm và in giá trị mới.",
+        "correct_answer": "var score := 0\n\nfunc add_score() -> void:\n    score += 1\n    print(score)",
+        "starter_code": "# Hoàn thiện mini build\n",
+        "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+      },
+      {
+        "type": "teach",
+        "title": "Hoàn tất & chuyển tiếp",
+        "content": "Checklist:\n- Tách các scene Bird, Pipe, ScoreGate và HUD\n- Dùng signal cho hit, score và đổi game state\n- Xây loop chơi được rồi mới thêm skin, shop hoặc online\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/getting_started/first_2d_game/index.html | https://docs.godotengine.org/en/4.7/classes/class_area2d.html | https://docs.godotengine.org/en/4.7/classes/class_timer.html",
+        "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
+        "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "version": 4,
+    "curriculum_revision": "godot-4.7.1-game-foundations-2026-07",
+    "order": 44,
+    "track": "Phát triển game",
+    "difficulty": "Thực hành",
+    "title": "44. Lộ trình sau prototype: MVP, polish, QA, phát hành và mở rộng",
+    "description": "Biến prototype bay/nhảy thành game có thể phát hành bằng milestone nhỏ, playtest, cân bằng, accessibility, save high score, analytics tối thiểu và scope rõ ràng.",
+    "estimated_minutes": 55,
+    "prerequisites": [
+      "Hoàn thành mô-đun trước hoặc nắm ý tưởng tương đương"
+    ],
+    "learning_objectives": [
+      "Chọn MVP có core loop hoàn chỉnh",
+      "Ưu tiên bug/feel theo dữ liệu playtest",
+      "Mở rộng theo milestone thay vì thêm feature tùy hứng"
+    ],
+    "tags": [
+      "Phát triển game",
+      "Thực hành",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/export/index.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Bản đồ bài học",
+        "content": "Biến prototype bay/nhảy thành game có thể phát hành bằng milestone nhỏ, playtest, cân bằng, accessibility, save high score, analytics tối thiểu và scope rõ ràng.\n\nSau mô-đun này bạn có thể: 1. Chọn MVP có core loop hoàn chỉnh\n2. Ưu tiên bug/feel theo dữ liệu playtest\n3. Mở rộng theo milestone thay vì thêm feature tùy hứng",
+        "code_snippet": "enum Milestone { CORE_LOOP, POLISH, RETENTION, RELEASE }\n\nvar active_bugs := 0",
+        "objective": "Chọn MVP có core loop hoàn chỉnh"
+      },
+      {
+        "type": "fill_code",
+        "title": "Kiểm tra không còn bug chặn trước khi mở scope",
+        "content": "Điền phần [INPUT] để hoàn thành yêu cầu: Kiểm tra không còn bug chặn trước khi mở scope.",
+        "code_template": "if active_bugs [INPUT] 0:\n    print(core_loop_ready)",
+        "correct_answer": "==",
+        "hint": "Đọc kỹ API Godot 4.7.1 và chỉ điền phần thay cho [INPUT].",
+        "objective": "Chọn MVP có core loop hoàn chỉnh"
+      },
+      {
+        "type": "quiz",
+        "title": "Sau core loop, ưu tiên nào đúng nhất?",
+        "content": "Chọn việc giảm rủi ro trước khi thêm nội dung lớn.",
+        "options": [
+          "Playtest, sửa bug và tune feel",
+          "Thêm online shop ngay",
+          "Làm 100 skin trước HUD"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi thường gặp",
+        "content": "Sửa guard khi test chưa pass",
+        "code_template": "if not tests_passed:\n    [INPUT]",
+        "correct_answer": "return",
+        "hint": "So sánh tên API, kiểu dữ liệu và thời điểm gọi hàm với Godot 4.7.1.",
+        "objective": "Đọc lỗi và sửa thay đổi nhỏ, có chủ đích."
+      },
+      {
+        "type": "teach",
+        "title": "Quy trình thực hành",
+        "content": "Lộ trình: 1) 1 ngày core loop, 2) 2–3 ngày tune + UX + audio, 3) 1 tuần playtest/bug/high score/settings, 4) build Android/desktop và README, 5) chỉ sau đó đo retention rồi thử skin, mission hoặc leaderboard. Giữ backlog có hypothesis, effort và cách đo.",
+        "code_snippet": "enum Milestone { CORE_LOOP, POLISH, RETENTION, RELEASE }\n\nvar active_bugs := 0",
+        "objective": "Chia một kỹ năng lớn thành vòng lặp: tạo nhỏ → chạy → quan sát → sửa."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách có hướng dẫn",
+        "content": "Viết hàm chỉ cho phép thêm feature khi core loop sẵn sàng và không có bug chặn.",
+        "correct_answer": "func can_add_feature(core_loop_ready: bool, active_bugs: int) -> bool:\n    return core_loop_ready and active_bugs == 0",
+        "starter_code": "# Viết lời giải ở đây\n",
+        "hint": "Bắt đầu bằng cấu trúc hàm, sau đó thêm đúng một hành vi và kiểm tra bằng print() hoặc Debugger.",
+        "objective": "Ưu tiên bug/feel theo dữ liệu playtest"
+      },
+      {
+        "type": "quiz",
+        "title": "Kiểm tra quyết định kỹ thuật",
+        "content": "Khi tính năng chưa chạy đúng, bước nào nên làm trước?",
+        "options": [
+          "Thêm nhiều tính năng để thử may mắn",
+          "Tạo ví dụ nhỏ nhất, đọc lỗi và kiểm tra một giả định",
+          "Tắt mọi cảnh báo"
+        ],
+        "correct_index": 1
+      },
+      {
+        "type": "teach",
+        "title": "Bẫy cần tránh",
+        "content": "Đừng gọi một prototype là xong khi chưa có restart, pause/focus loss, âm thanh, hướng dẫn ngắn và test trên điện thoại thật. Đừng thêm monetization/network trước khi loop cơ bản giữ người chơi trong vài lượt đầu.",
+        "code_snippet": "# Mẹo: thay đổi nhỏ, chạy lại ngay và giữ cảnh có thể tái sử dụng.",
+        "objective": "Nhận biết nguyên nhân trước khi tối ưu hoặc mở rộng."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build",
+        "content": "Viết hàm chọn focus tiếp theo: 2 khi core loop và tests đều pass, ngược lại 1.",
+        "correct_answer": "func next_focus(core_loop_ready: bool, tests_pass: bool) -> int:\n    return 2 if core_loop_ready and tests_pass else 1",
+        "starter_code": "# Hoàn thiện mini build\n",
+        "hint": "Dùng các node/API của mô-đun; không cần làm toàn bộ game trong một script.",
+        "objective": "Tạo một mảnh ghép có thể đưa vào dự án thật."
+      },
+      {
+        "type": "teach",
+        "title": "Hoàn tất & chuyển tiếp",
+        "content": "Checklist:\n- Chọn MVP có core loop hoàn chỉnh\n- Ưu tiên bug/feel theo dữ liệu playtest\n- Mở rộng theo milestone thay vì thêm feature tùy hứng\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html | https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html | https://docs.godotengine.org/en/4.7/tutorials/export/index.html",
         "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
         "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
       }
