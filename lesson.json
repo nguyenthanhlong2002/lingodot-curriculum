@@ -1,8 +1,8 @@
 [
   {
     "id": 101,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 1,
     "track": "Nền tảng",
     "difficulty": "Mới bắt đầu",
@@ -126,8 +126,8 @@
   },
   {
     "id": 102,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 2,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -251,8 +251,8 @@
   },
   {
     "id": 103,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 3,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -375,8 +375,8 @@
   },
   {
     "id": 104,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 4,
     "track": "GDScript",
     "difficulty": "Cơ bản",
@@ -501,8 +501,8 @@
   },
   {
     "id": 105,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 5,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -626,8 +626,8 @@
   },
   {
     "id": 106,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 6,
     "track": "Kiến trúc Godot",
     "difficulty": "Cơ bản",
@@ -751,8 +751,8 @@
   },
   {
     "id": 107,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 7,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -876,8 +876,8 @@
   },
   {
     "id": 108,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 8,
     "track": "2D",
     "difficulty": "Cơ bản",
@@ -1002,8 +1002,8 @@
   },
   {
     "id": 109,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 9,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1127,8 +1127,8 @@
   },
   {
     "id": 110,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 10,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1255,8 +1255,8 @@
   },
   {
     "id": 111,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 11,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1380,8 +1380,8 @@
   },
   {
     "id": 112,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 12,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1505,8 +1505,8 @@
   },
   {
     "id": 113,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 13,
     "track": "2D",
     "difficulty": "Trung cấp",
@@ -1630,8 +1630,8 @@
   },
   {
     "id": 114,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 14,
     "track": "2D",
     "difficulty": "Nâng cao",
@@ -1755,8 +1755,8 @@
   },
   {
     "id": 115,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 15,
     "track": "Chất lượng 2D",
     "difficulty": "Nâng cao",
@@ -1880,8 +1880,8 @@
   },
   {
     "id": 116,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 16,
     "track": "3D",
     "difficulty": "Cơ bản",
@@ -2006,8 +2006,8 @@
   },
   {
     "id": 117,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 17,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2133,8 +2133,8 @@
   },
   {
     "id": 118,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 18,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2258,8 +2258,8 @@
   },
   {
     "id": 119,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 19,
     "track": "3D",
     "difficulty": "Trung cấp",
@@ -2383,8 +2383,8 @@
   },
   {
     "id": 120,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 20,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2511,8 +2511,8 @@
   },
   {
     "id": 121,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 21,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2636,8 +2636,8 @@
   },
   {
     "id": 122,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 22,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2761,8 +2761,8 @@
   },
   {
     "id": 123,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 23,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -2886,8 +2886,8 @@
   },
   {
     "id": 124,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 24,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -3011,8 +3011,8 @@
   },
   {
     "id": 125,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 25,
     "track": "3D",
     "difficulty": "Nâng cao",
@@ -3139,8 +3139,8 @@
   },
   {
     "id": 126,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 26,
     "track": "Multiplayer",
     "difficulty": "Nâng cao",
@@ -3264,8 +3264,8 @@
   },
   {
     "id": 127,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 27,
     "track": "Sản phẩm",
     "difficulty": "Trung cấp",
@@ -3389,8 +3389,8 @@
   },
   {
     "id": 128,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 28,
     "track": "Sản phẩm",
     "difficulty": "Nâng cao",
@@ -3515,8 +3515,8 @@
   },
   {
     "id": 129,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 29,
     "track": "Phát hành",
     "difficulty": "Trung cấp",
@@ -3641,8 +3641,8 @@
   },
   {
     "id": 130,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 30,
     "track": "Phát hành",
     "difficulty": "Nâng cao",
@@ -3766,8 +3766,8 @@
   },
   {
     "id": 131,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 31,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -3891,8 +3891,8 @@
   },
   {
     "id": 132,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 32,
     "track": "Capstone 2D",
     "difficulty": "Dự án",
@@ -4016,8 +4016,8 @@
   },
   {
     "id": 133,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 33,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -4144,8 +4144,8 @@
   },
   {
     "id": 134,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 34,
     "track": "Capstone 3D",
     "difficulty": "Dự án",
@@ -4269,8 +4269,8 @@
   },
   {
     "id": 135,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 35,
     "track": "Capstone",
     "difficulty": "Dự án",
@@ -4394,8 +4394,8 @@
   },
   {
     "id": 136,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 36,
     "track": "UI & UX",
     "difficulty": "Cơ bản",
@@ -4519,8 +4519,8 @@
   },
   {
     "id": 137,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 37,
     "track": "UI & UX",
     "difficulty": "Nâng cao",
@@ -4644,8 +4644,8 @@
   },
   {
     "id": 138,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 38,
     "track": "Âm thanh",
     "difficulty": "Cơ bản",
@@ -4769,8 +4769,8 @@
   },
   {
     "id": 139,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 39,
     "track": "Âm thanh",
     "difficulty": "Nâng cao",
@@ -4895,8 +4895,8 @@
   },
   {
     "id": 140,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 40,
     "track": "Game nền tảng",
     "difficulty": "Thực hành",
@@ -5022,8 +5022,8 @@
   },
   {
     "id": 141,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 41,
     "track": "Toán game 2D",
     "difficulty": "Thực hành",
@@ -5148,8 +5148,8 @@
   },
   {
     "id": 142,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 42,
     "track": "Physics arcade 2D",
     "difficulty": "Thực hành",
@@ -5276,8 +5276,8 @@
   },
   {
     "id": 143,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 43,
     "track": "Gameplay arcade",
     "difficulty": "Thực hành",
@@ -5402,8 +5402,8 @@
   },
   {
     "id": 144,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 44,
     "track": "Phát triển game",
     "difficulty": "Thực hành",
@@ -5528,8 +5528,8 @@
   },
   {
     "id": 145,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 45,
     "track": "Nghiên cứu gameplay",
     "difficulty": "Nâng cao",
@@ -5655,8 +5655,8 @@
   },
   {
     "id": 146,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 46,
     "track": "Input & mobile",
     "difficulty": "Nâng cao",
@@ -5783,8 +5783,8 @@
   },
   {
     "id": 147,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 47,
     "track": "Kiến trúc gameplay",
     "difficulty": "Nâng cao",
@@ -5910,8 +5910,8 @@
   },
   {
     "id": 148,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 48,
     "track": "Toán & cân bằng",
     "difficulty": "Nâng cao",
@@ -6038,8 +6038,8 @@
   },
   {
     "id": 149,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 49,
     "track": "Dữ liệu game",
     "difficulty": "Nâng cao",
@@ -6166,8 +6166,8 @@
   },
   {
     "id": 150,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 50,
     "track": "Hiệu năng mobile",
     "difficulty": "Nâng cao",
@@ -6294,8 +6294,8 @@
   },
   {
     "id": 151,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 51,
     "track": "Quy trình sản xuất game",
     "difficulty": "Thực hành",
@@ -6419,8 +6419,8 @@
   },
   {
     "id": 152,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 52,
     "track": "Quy trình sản xuất game",
     "difficulty": "Thực hành",
@@ -6544,8 +6544,8 @@
   },
   {
     "id": 153,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 53,
     "track": "Quy trình sản xuất game",
     "difficulty": "Thực hành",
@@ -6669,8 +6669,8 @@
   },
   {
     "id": 154,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 54,
     "track": "Quy trình sản xuất game",
     "difficulty": "Nâng cao",
@@ -6795,8 +6795,8 @@
   },
   {
     "id": 155,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 55,
     "track": "Quy trình sản xuất game",
     "difficulty": "Nâng cao",
@@ -6921,8 +6921,8 @@
   },
   {
     "id": 156,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 56,
     "track": "Quy trình sản xuất game",
     "difficulty": "Nâng cao",
@@ -7047,8 +7047,8 @@
   },
   {
     "id": 157,
-    "version": 7,
-    "curriculum_revision": "godot-4.7.1-gdscript-gameplay-systems-2026-08",
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
     "order": 57,
     "track": "Quy trình sản xuất game",
     "difficulty": "Nâng cao",
@@ -7168,6 +7168,1021 @@
         "content": "Checklist:\n- Phân loại tín hiệu sau phát hành thành incident, feedback, bug và cơ hội\n- Đặt ngưỡng quyết định hotfix dựa trên tác động người chơi\n- Viết postmortem tập trung vào hệ thống, quyết định và hành động theo dõi\n- Tự làm lại mini build trong một scene trống.\n- Đọc tài liệu liên kết trước khi biến thể tính năng.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/scripting/debug/overview_of_debugging_tools.html | https://docs.godotengine.org/en/4.7/tutorials/performance/index.html | https://docs.godotengine.org/en/4.7/tutorials/io/saving_games.html",
         "code_snippet": "# Commit nhỏ, ghi chú điều đã học, rồi chuyển sang mô-đun tiếp theo.",
         "objective": "Biến kiến thức thành sản phẩm nhỏ có thể chạy."
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 58,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "58. Kiến trúc online: authority, trust boundary và game state",
+    "description": "Đặt nền móng game online bằng server-authoritative model: client gửi intent, server sở hữu luật chơi và state có giá trị. Bạn sẽ lập authority map cho player, combat, loot, match và UI.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Vẽ authority map cho entity và quyết định game",
+      "Phân biệt intent client với state server xác nhận",
+      "Viết guard từ peer gửi RPC đến entity được phép điều khiển"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Đặt nền móng game online bằng server-authoritative model: client gửi intent, server sở hữu luật chơi và state có giá trị. Bạn sẽ lập authority map cho player, combat, loot, match và UI.\n\nNguyên lý: Server mặc định là authority trong Godot. Peer ID không phải danh tính tin cậy; mọi action quan trọng phải đối chiếu session, ownership và state server.\n\nSau mô-đun này bạn có thể:\n1. Vẽ authority map cho entity và quyết định game\n2. Phân biệt intent client với state server xác nhận\n3. Viết guard từ peer gửi RPC đến entity được phép điều khiển",
+        "code_snippet": "enum MatchState { LOBBY, PLAYING, FINISHED }\nvar match_state := MatchState.LOBBY\nvar owner_by_entity: Dictionary = {}",
+        "objective": "Vẽ authority map cho entity và quyết định game"
+      },
+      {
+        "type": "fill_code",
+        "title": "Kiểm tra code đang chạy ở server",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Kiểm tra code đang chạy ở server.",
+        "code_template": "if multiplayer.[INPUT]():\n    validate_authoritative_state()",
+        "correct_answer": "is_server",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Vẽ authority map cho entity và quyết định game"
+      },
+      {
+        "type": "quiz",
+        "title": "Client nên gửi gì cho server khi nhấn bắn?",
+        "content": "Payload nhỏ mô tả intent; server dùng state của nó để quyết định hit, ammo, cooldown và damage.",
+        "options": [
+          "Intent bắn + hướng đã giới hạn",
+          "Damage cuối cùng và score mới",
+          "Toàn bộ inventory client"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa guard peer không hợp lệ",
+        "code_template": "if sender_id [INPUT] 0:\n    return",
+        "correct_answer": "<=",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Lập bảng authority: input client gửi intent; position snapshot server; cosmetics local; economy, damage, loot và match transition do server. Không có ô nào 'ai cũng được quyền sửa'.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# Server mặc định là authority trong Godot. Peer ID không phải danh tính tin cậy; mọi action quan trọng phải đối chiếu session, ownership và state server.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm cho phép action khi sender là owner và match đang PLAYING.",
+        "correct_answer": "func can_accept_player_action(sender_id: int, owner_id: int, match_playing: bool) -> bool:\n    return sender_id > 0 and sender_id == owner_id and match_playing",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Phân biệt intent client với state server xác nhận"
+      },
+      {
+        "type": "quiz",
+        "title": "Một RPC @rpc(\"any_peer\") đã an toàn chưa?",
+        "content": "any_peer chỉ mở cửa nhận cuộc gọi; server vẫn phải validate sender và luật chơi.",
+        "options": [
+          "Chưa, server vẫn phải validate sender và payload",
+          "Rồi, annotation tự chống cheat",
+          "Chỉ cần mã hóa packet"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Test hai client cố gửi action cho cùng entity, gửi action sau GAME_OVER và gửi peer ID giả. Server phải từ chối, không đổi snapshot và ghi lý do debug.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm xác nhận peer có quyền điều khiển entity.",
+        "correct_answer": "func owns_entity(peer_id: int, owner_id: int) -> bool:\n    return peer_id > 0 and peer_id == owner_id",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: server chỉ nhận intent hợp lệ",
+        "content": "Client gửi intent nhỏ; server kiểm tra sender, quyền sở hữu và trạng thái trận trước khi áp dụng gameplay.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func can_accept_action(sender_id: int, owner_id: int, match_running: bool) -> bool:\n    return sender_id > 0 and sender_id == owner_id and match_running",
+        "starter_code": "# sender_id là peer gửi RPC; owner_id là peer sở hữu entity\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Vẽ authority map cho entity và quyết định game\n- Phân biệt intent client với state server xác nhận\n- Viết guard từ peer gửi RPC đến entity được phép điều khiển\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 59,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "59. Kết nối, transport và session: ENet, WebSocket, WebRTC",
+    "description": "Chọn transport theo nền tảng và loại game; triển khai host/join có lifecycle rõ, connection signals, timeout, lỗi mạng và session state. ENet UDP phù hợp realtime; web/browser có ràng buộc riêng.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Khởi tạo host/client ENet và xử lý kết quả trả về",
+      "Phân biệt transport realtime, WebSocket và signaling WebRTC",
+      "Thiết kế state kết nối không làm gameplay chạy khi chưa connected"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/classes/class_enetmultiplayerpeer.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/webrtc.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_websocketmultiplayerpeer.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Chọn transport theo nền tảng và loại game; triển khai host/join có lifecycle rõ, connection signals, timeout, lỗi mạng và session state. ENet UDP phù hợp realtime; web/browser có ràng buộc riêng.\n\nNguyên lý: ENetMultiplayerPeer dùng UDP; server tạo peer rồi gán multiplayer_peer. WebRTC cần signaling và tài liệu 4.7 còn ghi chú phần chưa cập nhật, nên phải test đúng nền tảng trước khi chọn.\n\nSau mô-đun này bạn có thể:\n1. Khởi tạo host/client ENet và xử lý kết quả trả về\n2. Phân biệt transport realtime, WebSocket và signaling WebRTC\n3. Thiết kế state kết nối không làm gameplay chạy khi chưa connected",
+        "code_snippet": "const GAME_PORT := 7000\nvar peer := ENetMultiplayerPeer.new()\n\nfunc open_host() -> Error:\n    var result := peer.create_server(GAME_PORT, 8)\n    if result == OK:\n        multiplayer.multiplayer_peer = peer\n    return result",
+        "objective": "Khởi tạo host/client ENet và xử lý kết quả trả về"
+      },
+      {
+        "type": "fill_code",
+        "title": "Tạo peer ENet mới",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Tạo peer ENet mới.",
+        "code_template": "var peer := [INPUT].new()",
+        "correct_answer": "ENetMultiplayerPeer",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Khởi tạo host/client ENet và xử lý kết quả trả về"
+      },
+      {
+        "type": "quiz",
+        "title": "Vì sao ENet không tự phù hợp cho browser export?",
+        "content": "Transport và quyền nền tảng khác nhau; chọn theo target và test build thật.",
+        "options": [
+          "ENet dùng UDP, browser cần phương án web phù hợp",
+          "ENet tự chuyển thành WebRTC",
+          "TCP luôn thay thế UDP không đổi thiết kế"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa nhánh báo kết nối lỗi",
+        "code_template": "if result [INPUT] OK:\n    show_connection_error()",
+        "correct_answer": "!=",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Tạo state CONNECTING/CONNECTED/FAILED/DISCONNECTED. Chỉ vào lobby sau connected_to_server; chỉ tạo host UI sau create_server trả OK. Đóng peer cũ trước host/join lại và hiển thị lỗi có địa chỉ, port, build version.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# ENetMultiplayerPeer dùng UDP; server tạo peer rồi gán multiplayer_peer. WebRTC cần signaling và tài liệu 4.7 còn ghi chú phần chưa cập nhật, nên phải test đúng nền tảng trước khi chọn.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm cho phép bắt đầu lobby khi connection state là CONNECTED.",
+        "correct_answer": "enum ConnectionState { OFFLINE, CONNECTING, CONNECTED, FAILED }\n\nfunc can_enter_lobby(state: ConnectionState) -> bool:\n    return state == ConnectionState.CONNECTED",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Phân biệt transport realtime, WebSocket và signaling WebRTC"
+      },
+      {
+        "type": "quiz",
+        "title": "Khi create_server trả ERR_ALREADY_IN_USE, hành động đúng là gì?",
+        "content": "Lỗi cho thấy peer đã mở hoặc port không thể dùng; state cũ phải được đóng/reset và báo rõ.",
+        "options": [
+          "Không giả vờ host thành công; đóng/reset peer và báo lỗi",
+          "Vẫn gán multiplayer_peer rồi spawn player",
+          "Đổi authority sang client"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Test LAN host + hai client: DNS/IP sai, port sai, host tắt giữa trận, client join lại, build version khác. Ghi event và state trên mọi process để biết lỗi ở transport, session hay gameplay.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm tạo label trạng thái connection an toàn.",
+        "correct_answer": "func connection_label(connected: bool, failed: bool) -> String:\n    if failed:\n        return \"failed\"\n    return \"connected\" if connected else \"connecting\"",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: ready check ở lobby",
+        "content": "Chỉ host được chuyển lobby sang trận đấu sau khi tất cả peer đang kết nối đã ready.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func can_start_match(connected_peers: Array[int], ready_by_peer: Dictionary) -> bool:\n    if connected_peers.is_empty():\n        return false\n    for peer_id in connected_peers:\n        if not bool(ready_by_peer.get(peer_id, false)):\n            return false\n    return true",
+        "starter_code": "# ready_by_peer chứa bool của các peer đang trong room\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Khởi tạo host/client ENet và xử lý kết quả trả về\n- Phân biệt transport realtime, WebSocket và signaling WebRTC\n- Thiết kế state kết nối không làm gameplay chạy khi chưa connected\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/classes/class_enetmultiplayerpeer.html | https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/tutorials/networking/webrtc.html | https://docs.godotengine.org/en/4.7/classes/class_websocketmultiplayerpeer.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 160,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 60,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "60. RPC contract, validation và chống lạm dụng client",
+    "description": "Thiết kế RPC như API công khai có contract: caller, payload tối đa, validate, response, transfer mode và rate limit. Mục tiêu là giảm cheat, spam và desync trước khi thêm feature.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Viết RPC server-side lấy sender bằng get_remote_sender_id",
+      "Validate payload và gameplay precondition trước khi đổi state",
+      "Thiết kế rate limit theo action/peer mà không tin timestamp client"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Thiết kế RPC như API công khai có contract: caller, payload tối đa, validate, response, transfer mode và rate limit. Mục tiêu là giảm cheat, spam và desync trước khi thêm feature.\n\nNguyên lý: @rpc(\"any_peer\") chỉ cho phép client gọi. Server phải đọc get_remote_sender_id(), kiểm tra session/ownership/range/cooldown rồi mới đổi state và broadcast kết quả authority.\n\nSau mô-đun này bạn có thể:\n1. Viết RPC server-side lấy sender bằng get_remote_sender_id\n2. Validate payload và gameplay precondition trước khi đổi state\n3. Thiết kế rate limit theo action/peer mà không tin timestamp client",
+        "code_snippet": "@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0:\n        return",
+        "objective": "Viết RPC server-side lấy sender bằng get_remote_sender_id"
+      },
+      {
+        "type": "fill_code",
+        "title": "Lấy peer gửi RPC hiện tại",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Lấy peer gửi RPC hiện tại.",
+        "code_template": "var sender_id := multiplayer.[INPUT]()",
+        "correct_answer": "get_remote_sender_id",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Viết RPC server-side lấy sender bằng get_remote_sender_id"
+      },
+      {
+        "type": "quiz",
+        "title": "Client gửi damage=9999 trong RPC attack. Server nên làm gì?",
+        "content": "Damage là luật game server sở hữu; client chỉ gửi intent đã giới hạn.",
+        "options": [
+          "Tính damage từ weapon/state server và validate target",
+          "Dùng damage client gửi nếu peer đã connected",
+          "Broadcast damage client cho mọi peer"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa chặn payload quá lớn",
+        "code_template": "if payload_size [INPUT] MAX_PAYLOAD:\n    return",
+        "correct_answer": ">",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Viết RPC contract cạnh code: request_move(sender, input_tick, axis), server validate tick/owner/range; snapshot_position(tick, position) chỉ authority phát. Dùng reliable cho event quan trọng, không gửi transform snapshot liên tục bằng reliable mặc định.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# @rpc(\"any_peer\") chỉ cho phép client gọi. Server phải đọc get_remote_sender_id(), kiểm tra session/ownership/range/cooldown rồi mới đổi state và broadcast kết quả authority.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết RPC request emote chỉ được server relay khi sender hợp lệ.",
+        "correct_answer": "@rpc(\"any_peer\", \"reliable\")\nfunc request_emote(emote_id: int) -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or emote_id < 0 or emote_id > 7:\n        return\n    show_emote.rpc(sender_id, emote_id)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc show_emote(peer_id: int, emote_id: int) -> void:\n    print(str(peer_id) + \":\" + str(emote_id))",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Validate payload và gameplay precondition trước khi đổi state"
+      },
+      {
+        "type": "quiz",
+        "title": "Rate limit đúng nên dựa trên gì?",
+        "content": "Thời gian do client gửi có thể bị giả; server giữ last accepted request theo peer/action.",
+        "options": [
+          "Clock và state do server giữ",
+          "Timestamp trong packet client",
+          "FPS trên UI client"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Fuzz test RPC: empty payload, id âm, id không tồn tại, 100 request nhanh, request khi PAUSED/GAME_OVER, request từ peer đã disconnect. Server không crash, không đổi state sai và không relay payload không hợp lệ.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm kiểm tra cooldown bằng thời gian server.",
+        "correct_answer": "func is_off_cooldown(server_now_ms: int, last_accepted_ms: int, cooldown_ms: int) -> bool:\n    return server_now_ms - last_accepted_ms >= maxi(cooldown_ms, 0)",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: snapshot chỉ tiến về phía trước",
+        "content": "Bỏ snapshot cũ để packet đến muộn không kéo entity quay ngược thời gian.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func should_apply_snapshot(snapshot_tick: int, last_tick: int) -> bool:\n    return snapshot_tick >= last_tick",
+        "starter_code": "# Tick lớn hơn hoặc bằng là snapshot mới hơn\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Viết RPC server-side lấy sender bằng get_remote_sender_id\n- Validate payload và gameplay precondition trước khi đổi state\n- Thiết kế rate limit theo action/peer mà không tin timestamp client\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 161,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 61,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "61. Spawn, ownership và replication: MultiplayerSpawner/Synchronizer",
+    "description": "Tổ chức player và entity online bằng spawn có authority, ownership rõ, payload tối thiểu và replication đúng thuộc tính. Phân biệt node spawn, node sync và dữ liệu không nên sync trực tiếp như Resource/Object reference.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Gán authority cho player theo peer ID đúng thời điểm",
+      "Thiết kế payload spawn có allow-list",
+      "Chọn property cần replication và visibility thay vì sync cả scene tree"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayerspawner.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Tổ chức player và entity online bằng spawn có authority, ownership rõ, payload tối thiểu và replication đúng thuộc tính. Phân biệt node spawn, node sync và dữ liệu không nên sync trực tiếp như Resource/Object reference.\n\nNguyên lý: MultiplayerSpawner sao chép node spawnable từ authority; MultiplayerSynchronizer đồng bộ property cấu hình từ authority. Object/Resource runtime reference không phải dữ liệu sync phù hợp; authority và visibility phải theo entity.\n\nSau mô-đun này bạn có thể:\n1. Gán authority cho player theo peer ID đúng thời điểm\n2. Thiết kế payload spawn có allow-list\n3. Chọn property cần replication và visibility thay vì sync cả scene tree",
+        "code_snippet": "func configure_player(player: Node, peer_id: int) -> void:\n    player.set_multiplayer_authority(peer_id)\n\nfunc can_spawn_for(peer_id: int) -> bool:\n    return multiplayer.is_server() and peer_id > 0",
+        "objective": "Gán authority cho player theo peer ID đúng thời điểm"
+      },
+      {
+        "type": "fill_code",
+        "title": "Gán authority của player",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Gán authority của player.",
+        "code_template": "player.[INPUT](peer_id)",
+        "correct_answer": "set_multiplayer_authority",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Gán authority cho player theo peer ID đúng thời điểm"
+      },
+      {
+        "type": "quiz",
+        "title": "Dữ liệu nào không nên đưa thẳng vào MultiplayerSynchronizer?",
+        "content": "Sync property cần dữ liệu serializable, ổn định giữa peers.",
+        "options": [
+          "Object/Resource reference runtime riêng mỗi peer",
+          "Vector2 position",
+          "int health"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa guard spawn chạy ở authority",
+        "code_template": "if not multiplayer.[INPUT]():\n    return",
+        "correct_answer": "is_server",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Server nhận peer_connected, tạo player payload đã validate, spawn qua MultiplayerSpawner/factory, đặt authority owner cho input nếu cần; server vẫn giữ quyền luật game. Synchronizer chỉ sync property cần thiết theo interval/visibility.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# MultiplayerSpawner sao chép node spawnable từ authority; MultiplayerSynchronizer đồng bộ property cấu hình từ authority. Object/Resource runtime reference không phải dữ liệu sync phù hợp; authority và visibility phải theo entity.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm xác thực payload spawn gồm spawn point và skin id.",
+        "correct_answer": "func is_valid_spawn_request(spawn_point: int, skin_id: int, max_spawn_points: int) -> bool:\n    return spawn_point >= 0 and spawn_point < max_spawn_points and skin_id >= 0 and skin_id <= 7",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Thiết kế payload spawn có allow-list"
+      },
+      {
+        "type": "quiz",
+        "title": "Nếu item chỉ hiện với peer gần nó, điều gì cần thiết?",
+        "content": "Replication không nhất thiết public cho mọi peer; visibility cần cập nhật theo policy.",
+        "options": [
+          "Cấu hình visibility/filter phù hợp rồi cập nhật khi cần",
+          "Gửi toàn bộ item tới mọi peer mãi mãi",
+          "Để client tự spawn bản authoritative"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Test spawn/despawn với host và hai client: peer join giữa trận, peer rời khi đang cầm item, duplicate spawn RPC, payload skin ngoài allow-list, visibility thay đổi. Kiểm tra entity không orphan và authority không trỏ peer đã rời.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm chọn spawn point hợp lệ từ mảng index.",
+        "correct_answer": "func is_valid_spawn_point(index: int, spawn_points: Array[Vector2]) -> bool:\n    return index >= 0 and index < spawn_points.size()",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: nội suy render không sửa state server",
+        "content": "Render client có thể lerp giữa snapshot; authority vẫn thuộc server và không bị UI/renderer ghi đè.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func interpolate_remote_position(previous: Vector2, target: Vector2, alpha: float) -> Vector2:\n    return previous.lerp(target, clampf(alpha, 0.0, 1.0))",
+        "starter_code": "# alpha đã được clamp vào 0..1\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Gán authority cho player theo peer ID đúng thời điểm\n- Thiết kế payload spawn có allow-list\n- Chọn property cần replication và visibility thay vì sync cả scene tree\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/classes/class_multiplayerspawner.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html | https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 62,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "62. Snapshot, interpolation và prediction/reconciliation",
+    "description": "Tách simulation server với render client để game phản hồi mà không tạo authority giả. Học snapshot tick, interpolation entity remote, prediction avatar local, server acknowledgement và reconciliation có ngưỡng.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Phân biệt state authoritative, snapshot và state render",
+      "Nội suy entity remote bằng tick/alpha có giới hạn",
+      "Thiết kế prediction/reconciliation cho input local mà không tin kết quả client"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Tách simulation server với render client để game phản hồi mà không tạo authority giả. Học snapshot tick, interpolation entity remote, prediction avatar local, server acknowledgement và reconciliation có ngưỡng.\n\nNguyên lý: Server tạo snapshot theo tick; client bỏ snapshot cũ, nội suy remote entity và chỉ prediction avatar local. Khi snapshot server khác prediction, client reconcile từ tick acknowledged thay vì ghi đè mù quáng.\n\nSau mô-đun này bạn có thể:\n1. Phân biệt state authoritative, snapshot và state render\n2. Nội suy entity remote bằng tick/alpha có giới hạn\n3. Thiết kế prediction/reconciliation cho input local mà không tin kết quả client",
+        "code_snippet": "var last_snapshot_tick := -1\nvar render_position := Vector2.ZERO\n\nfunc apply_snapshot(snapshot_tick: int, server_position: Vector2, alpha: float) -> void:\n    if snapshot_tick < last_snapshot_tick:\n        return\n    last_snapshot_tick = snapshot_tick\n    render_position = render_position.lerp(server_position, clampf(alpha, 0.0, 1.0))",
+        "objective": "Phân biệt state authoritative, snapshot và state render"
+      },
+      {
+        "type": "fill_code",
+        "title": "Nội suy vị trí render",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Nội suy vị trí render.",
+        "code_template": "render_position = render_position.[INPUT](server_position, alpha)",
+        "correct_answer": "lerp",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Phân biệt state authoritative, snapshot và state render"
+      },
+      {
+        "type": "quiz",
+        "title": "Vì sao không gửi transform authoritative từ client cho mọi peer?",
+        "content": "Client có thể lag, bị sửa hoặc simulation khác; server phải là nguồn state cuối cùng.",
+        "options": [
+          "Server tạo snapshot, client render/interpolate",
+          "Client có FPS cao nhất quyết định vị trí",
+          "Mọi peer tính lại score của nhau"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa alpha nội suy vượt khoảng",
+        "code_template": "var safe_alpha := [INPUT](alpha, 0.0, 1.0)",
+        "correct_answer": "clampf",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Định nghĩa input tick, server tick, snapshot tick và last acknowledged input. Client giữ buffer input chưa ack; server xử lý input theo thứ tự; client replay input chưa ack sau authoritative snapshot. Chỉ prediction khi UX cần, không prediction economy/loot.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# Server tạo snapshot theo tick; client bỏ snapshot cũ, nội suy remote entity và chỉ prediction avatar local. Khi snapshot server khác prediction, client reconcile từ tick acknowledged thay vì ghi đè mù quáng.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm cho biết snapshot có mới hơn snapshot đã áp dụng không.",
+        "correct_answer": "func is_new_snapshot(snapshot_tick: int, last_applied_tick: int) -> bool:\n    return snapshot_tick >= last_applied_tick",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Nội suy entity remote bằng tick/alpha có giới hạn"
+      },
+      {
+        "type": "quiz",
+        "title": "Khi prediction lệch xa snapshot server, hành động đúng?",
+        "content": "Reconciliation có ngưỡng và buffer input giữ server là sự thật.",
+        "options": [
+          "Đặt lại state theo server rồi replay input chưa ack",
+          "Giữ prediction client vì phản hồi nhanh",
+          "Broadcast prediction cho mọi peer"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Test latency giả 50/150/300 ms, packet đảo thứ tự, loss burst, FPS 30/60/120 và reconnect. Log tick input/ack/snapshot; so sánh server, predicted, rendered để biết jitter từ transport hay code.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm quyết định cần reconcile dựa trên sai lệch.",
+        "correct_answer": "func needs_reconcile(predicted: Vector2, authoritative: Vector2, tolerance: float) -> bool:\n    return predicted.distance_to(authoritative) > maxf(tolerance, 0.0)",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: rate limit yêu cầu client",
+        "content": "Rate limit đặt ở server giảm spam RPC; đây là hàng rào đầu tiên, không thay thế validate luật game.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func can_accept_request(now_ms: int, last_request_ms: int, cooldown_ms: int) -> bool:\n    return now_ms - last_request_ms >= maxi(cooldown_ms, 0)",
+        "starter_code": "# now_ms và last_request_ms tính bằng milliseconds\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Phân biệt state authoritative, snapshot và state render\n- Nội suy entity remote bằng tick/alpha có giới hạn\n- Thiết kế prediction/reconciliation cho input local mà không tin kết quả client\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 163,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 63,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "63. Lobby, room flow, matchmaking và reconnect",
+    "description": "Xây lifecycle room rõ ràng: connect → session/auth ngoài game nếu có → lobby → ready → loading → playing → results → leave/reconnect. Tập trung server-owned room state, UI phản ánh snapshot và cleanup khi peer rời.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Mô hình hóa room state và transition hợp lệ",
+      "Đồng bộ ready list do server sở hữu",
+      "Thiết kế reconnect có TTL, cleanup và thông báo người chơi"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Xây lifecycle room rõ ràng: connect → session/auth ngoài game nếu có → lobby → ready → loading → playing → results → leave/reconnect. Tập trung server-owned room state, UI phản ánh snapshot và cleanup khi peer rời.\n\nNguyên lý: Matchmaking/backend xác thực thường nằm ngoài MultiplayerAPI; Godot client chỉ dùng session được server/backend chấp nhận. Trong room, server sở hữu membership, ready flags, map seed và transition PLAYING.\n\nSau mô-đun này bạn có thể:\n1. Mô hình hóa room state và transition hợp lệ\n2. Đồng bộ ready list do server sở hữu\n3. Thiết kế reconnect có TTL, cleanup và thông báo người chơi",
+        "code_snippet": "enum RoomState { LOBBY, LOADING, PLAYING, RESULTS }\nvar ready_by_peer: Dictionary = {}\n\nfunc all_ready(peers: Array[int]) -> bool:\n    for peer_id in peers:\n        if not bool(ready_by_peer.get(peer_id, false)):\n            return false\n    return not peers.is_empty()",
+        "objective": "Mô hình hóa room state và transition hợp lệ"
+      },
+      {
+        "type": "fill_code",
+        "title": "Đặt cờ ready cho peer",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Đặt cờ ready cho peer.",
+        "code_template": "ready_by_peer.[INPUT](peer_id, true)",
+        "correct_answer": "set",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Mô hình hóa room state và transition hợp lệ"
+      },
+      {
+        "type": "quiz",
+        "title": "Ai được phép start match từ lobby?",
+        "content": "Server xác nhận ready list và room state; host UI chỉ có thể gửi request.",
+        "options": [
+          "Server sau khi validate room state và tất cả peer",
+          "Bất kỳ client nào bấm Start",
+          "Client ping thấp nhất"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa kiểm tra room không có peer",
+        "code_template": "if peers.[INPUT]():\n    return",
+        "correct_answer": "is_empty",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Giữ room state trong server: peer, readiness, map/mode đã validate, slot, reconnect deadline. Client nhận snapshot lobby và gửi request nhỏ. Peer rời thì server hủy authority/spawn, cập nhật room rồi quyết định chờ, backfill hoặc kết thúc.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# Matchmaking/backend xác thực thường nằm ngoài MultiplayerAPI; Godot client chỉ dùng session được server/backend chấp nhận. Trong room, server sở hữu membership, ready flags, map seed và transition PLAYING.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm chỉ start match khi room ở LOBBY và tất cả peer ready.",
+        "correct_answer": "enum RoomState { LOBBY, PLAYING }\n\nfunc can_start_room(state: RoomState, peers: Array[int], ready_by_peer: Dictionary) -> bool:\n    if state != RoomState.LOBBY or peers.is_empty():\n        return false\n    for peer_id in peers:\n        if not bool(ready_by_peer.get(peer_id, false)):\n            return false\n    return true",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Đồng bộ ready list do server sở hữu"
+      },
+      {
+        "type": "quiz",
+        "title": "Reconnect an toàn cần gì?",
+        "content": "Không gắn lại entity chỉ theo peer ID cũ; session và TTL phải được server xác thực.",
+        "options": [
+          "Session hợp lệ, TTL chưa hết và server còn giữ slot",
+          "Client tự báo tôi là peer cũ",
+          "Tên hiển thị giống nhau"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Test ready/unready nhanh, host rời lobby, client rời ở LOADING, reconnect sau TTL, join room full, double-click Start, build client cũ. UI phải đi theo room snapshot, không giữ cờ local lỗi thời.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm kiểm tra slot room còn chỗ.",
+        "correct_answer": "func has_room_capacity(current_players: int, max_players: int) -> bool:\n    return current_players >= 0 and current_players < max_players",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: payload spawn tối thiểu",
+        "content": "Chỉ gửi dữ liệu spawn được allow-list và kiểm tra trước khi MultiplayerSpawner hoặc factory tạo node.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func is_spawn_payload_valid(spawn_point: int, skin_id: int) -> bool:\n    return spawn_point >= 0 and skin_id >= 0 and skin_id <= 7",
+        "starter_code": "# Chỉ cho phép skin_id trong khoảng game hỗ trợ\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Mô hình hóa room state và transition hợp lệ\n- Đồng bộ ready list do server sở hữu\n- Thiết kế reconnect có TTL, cleanup và thông báo người chơi\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayerapi.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 64,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "64. Online QA: chaos test, telemetry và tối ưu bandwidth",
+    "description": "Đưa multiplayer vào production bằng test matrix, network simulation, metrics và budget. Đo connection success, RTT/jitter, packet rate, snapshot size, RPC rejection, desync/reconnect và đặt ngưỡng incident trước launch.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Lập test matrix cho network condition và platform",
+      "Thiết kế metric có đơn vị, cửa sổ đo và ngưỡng hành động",
+      "Giảm bandwidth bằng state tối thiểu, frequency hợp lý và interest/visibility"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_enetmultiplayerpeer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/performance/index.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Đưa multiplayer vào production bằng test matrix, network simulation, metrics và budget. Đo connection success, RTT/jitter, packet rate, snapshot size, RPC rejection, desync/reconnect và đặt ngưỡng incident trước launch.\n\nNguyên lý: Không tối ưu chỉ bằng cảm giác lag. Mỗi packet/RPC có owner, frequency, transfer mode, size budget và lý do. Telemetry chỉ thu dữ liệu cần thiết; không log token, IP đầy đủ hay nội dung nhạy cảm.\n\nSau mô-đun này bạn có thể:\n1. Lập test matrix cho network condition và platform\n2. Thiết kế metric có đơn vị, cửa sổ đo và ngưỡng hành động\n3. Giảm bandwidth bằng state tối thiểu, frequency hợp lý và interest/visibility",
+        "code_snippet": "func packet_rate_hz(packet_count: int, duration_seconds: float) -> float:\n    if duration_seconds <= 0.0:\n        return 0.0\n    return float(packet_count) / duration_seconds\n\nfunc over_budget(bytes_per_second: int, budget: int) -> bool:\n    return bytes_per_second > budget",
+        "objective": "Lập test matrix cho network condition và platform"
+      },
+      {
+        "type": "fill_code",
+        "title": "Phát hiện packet rate vượt budget",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Phát hiện packet rate vượt budget.",
+        "code_template": "if packets_per_second [INPUT] packet_budget:\n    reduce_snapshot_frequency()",
+        "correct_answer": ">",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Lập test matrix cho network condition và platform"
+      },
+      {
+        "type": "quiz",
+        "title": "Thay đổi nào thường giảm bandwidth đúng hướng?",
+        "content": "Chỉ gửi state cần thiết với tần suất/visibility phù hợp, rồi đo lại cùng điều kiện.",
+        "options": [
+          "Giảm property và frequency sau khi đo",
+          "Nén mọi thứ rồi bỏ validate",
+          "Gửi toàn bộ scene mỗi frame reliable"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa tính bytes mỗi giây",
+        "code_template": "var bytes_per_second := [INPUT](bytes_sent) / seconds",
+        "correct_answer": "float",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Mỗi build test ghi version, role host/client, platform, region giả lập, latency/loss/reorder, số peer, scene và script. Theo dõi connect success, disconnect reason, RTT percentile, packet bytes, RPC reject, server tick và desync correction.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# Không tối ưu chỉ bằng cảm giác lag. Mỗi packet/RPC có owner, frequency, transfer mode, size budget và lý do. Telemetry chỉ thu dữ liệu cần thiết; không log token, IP đầy đủ hay nội dung nhạy cảm.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm mở incident khi error rate vượt ngưỡng và có người bị ảnh hưởng.",
+        "correct_answer": "func should_open_network_incident(error_rate: float, threshold: float, affected_players: int) -> bool:\n    return error_rate > threshold and affected_players > 0",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Thiết kế metric có đơn vị, cửa sổ đo và ngưỡng hành động"
+      },
+      {
+        "type": "quiz",
+        "title": "Khi snapshot lớn, bước đầu tiên đúng?",
+        "content": "Đo field, peer và frequency tạo chi phí trước khi đổi protocol.",
+        "options": [
+          "Profile packet/state rồi cắt dữ liệu không cần thiết",
+          "Bật reliable cho mọi packet",
+          "Tăng tốc độ gửi để che lag"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Chaos test: 2–8 client, latency 0/80/200 ms, loss 0/2/10%, reorder, host kill, client suspend/resume mobile, rapid join/leave và RPC spam có kiểm soát. Mỗi failure cần build, timeline, metric, authority state và steps tái hiện.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm tính packet loss percent an toàn.",
+        "correct_answer": "func packet_loss_percent(lost_packets: int, sent_packets: int) -> float:\n    if sent_packets <= 0:\n        return 0.0\n    return 100.0 * float(maxi(lost_packets, 0)) / float(sent_packets)",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: reconnect không khôi phục quyền mù quáng",
+        "content": "Reconnection cần session hợp lệ và thời hạn rõ; server quyết định peer có được gắn lại entity hay không.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func can_restore_session(now_ms: int, expires_at_ms: int, has_valid_session: bool) -> bool:\n    return has_valid_session and now_ms <= expires_at_ms",
+        "starter_code": "# expires_at_ms là thời điểm session hết hạn\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Lập test matrix cho network condition và platform\n- Thiết kế metric có đơn vị, cửa sổ đo và ngưỡng hành động\n- Giảm bandwidth bằng state tối thiểu, frequency hợp lý và interest/visibility\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_enetmultiplayerpeer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayersynchronizer.html | https://docs.godotengine.org/en/4.7/tutorials/performance/index.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
+      }
+    ]
+  },
+  {
+    "id": 165,
+    "version": 8,
+    "curriculum_revision": "godot-4.7.1-multiplayer-production-2026-08",
+    "order": 65,
+    "track": "Multiplayer",
+    "difficulty": "Nâng cao",
+    "title": "65. Vận hành game online: dedicated server, release, incident và anti-cheat",
+    "description": "Kết nối Godot với vận hành thực tế: build headless/dedicated server, cấu hình môi trường, version compatibility, feature flag, rollback/hotfix, incident response và anti-cheat server-side. Đây là checklist trước public test.",
+    "estimated_minutes": 75,
+    "prerequisites": [
+      "Hoàn thành mô-đun 26 hoặc đã làm một prototype Godot có host/join cục bộ"
+    ],
+    "learning_objectives": [
+      "Phân biệt game client, dedicated server và backend service",
+      "Thiết kế release/rollback theo version protocol và compatibility",
+      "Lập incident playbook cho crash, desync, exploit và capacity"
+    ],
+    "tags": [
+      "Multiplayer",
+      "Nâng cao",
+      "Server authoritative",
+      "Godot 4.7.1"
+    ],
+    "source_urls": [
+      "https://docs.godotengine.org/en/4.7/about/list_of_features.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html",
+      "https://docs.godotengine.org/en/4.7/classes/class_multiplayerpeer.html",
+      "https://docs.godotengine.org/en/4.7/tutorials/export/index.html"
+    ],
+    "stages": [
+      {
+        "type": "teach",
+        "title": "Kiến trúc mạng & threat model",
+        "content": "Kết nối Godot với vận hành thực tế: build headless/dedicated server, cấu hình môi trường, version compatibility, feature flag, rollback/hotfix, incident response và anti-cheat server-side. Đây là checklist trước public test.\n\nNguyên lý: Godot build có thể chạy headless, nhưng MultiplayerAPI protocol là chi tiết nội bộ không nên giả định tương thích với server không phải Godot. Backend auth/matchmaking/commerce tách simulation server; secret chỉ ở hạ tầng server.\n\nSau mô-đun này bạn có thể:\n1. Phân biệt game client, dedicated server và backend service\n2. Thiết kế release/rollback theo version protocol và compatibility\n3. Lập incident playbook cho crash, desync, exploit và capacity",
+        "code_snippet": "func can_accept_client_version(client_protocol: int, server_protocol: int) -> bool:\n    return client_protocol == server_protocol\n\nfunc should_reject_for_capacity(current_players: int, capacity: int) -> bool:\n    return current_players >= capacity",
+        "objective": "Phân biệt game client, dedicated server và backend service"
+      },
+      {
+        "type": "fill_code",
+        "title": "Từ chối client protocol không tương thích",
+        "content": "Điền [INPUT] để hoàn thành thao tác mạng: Từ chối client protocol không tương thích.",
+        "code_template": "return client_protocol [INPUT] server_protocol",
+        "correct_answer": "==",
+        "hint": "Xác định rõ thao tác chạy ở client hay server, rồi chỉ điền API/toán tử phù hợp.",
+        "objective": "Phân biệt game client, dedicated server và backend service"
+      },
+      {
+        "type": "quiz",
+        "title": "Secret đăng nhập hoặc khóa dịch vụ thuộc về đâu?",
+        "content": "Client có thể bị trích xuất; secret và quyết định kinh tế phải nằm ở server/hạ tầng tin cậy.",
+        "options": [
+          "Server hoặc backend secret manager",
+          "Resource trong client export",
+          "GDScript comment bị ẩn"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "fix_bug",
+        "title": "Sửa lỗi protocol",
+        "content": "Sửa điều kiện capacity đã đầy",
+        "code_template": "if current_players [INPUT] capacity:\n    reject_join()",
+        "correct_answer": ">=",
+        "hint": "Đọc peer gửi RPC, authority của node và điều kiện server-side trước khi sửa.",
+        "objective": "Phát hiện trust boundary hoặc điều kiện mạng sai trước khi lỗi lan sang client khác."
+      },
+      {
+        "type": "teach",
+        "title": "Chuỗi server-authoritative",
+        "content": "Trước public test: version protocol, migration/reconnect policy, capacity limit, health endpoint/log, alert threshold, backup config, rollback build, status message, on-call owner và runbook. Anti-cheat bắt đầu từ authority/validation/rate limit; detection chỉ bổ sung sau đó.\n\nKhông để UI, animation hoặc client tự xác nhận kết quả gameplay. Client gửi intent; server kiểm tra; snapshot/RPC authority đưa state đã xác nhận về client.",
+        "code_snippet": "# Chuỗi online server-authoritative\n# Godot build có thể chạy headless, nhưng MultiplayerAPI protocol là chi tiết nội bộ không nên giả định tương thích với server không phải Godot. Backend auth/matchmaking/commerce tách simulation server; secret chỉ ở hạ tầng server.\n# connect -> lobby -> spawn -> client intent -> server validate -> snapshot -> client render\nextends Node\n\nconst DEFAULT_PORT := 7000\nconst MAX_CLIENTS := 8\n\nsignal connection_state_changed(message: String)\nsignal lobby_changed(ready_by_peer: Dictionary)\n\nvar peer := ENetMultiplayerPeer.new()\nvar ready_by_peer: Dictionary = {}\n\nfunc host(port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_server(port, MAX_CLIENTS)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.peer_connected.connect(_on_peer_connected)\n    multiplayer.peer_disconnected.connect(_on_peer_disconnected)\n    connection_state_changed.emit(\"hosting\")\n    return OK\n\nfunc join(address: String, port: int = DEFAULT_PORT) -> Error:\n    var result := peer.create_client(address, port)\n    if result != OK:\n        return result\n    multiplayer.multiplayer_peer = peer\n    multiplayer.connected_to_server.connect(func(): connection_state_changed.emit(\"connected\"))\n    multiplayer.connection_failed.connect(func(): connection_state_changed.emit(\"failed\"))\n    multiplayer.server_disconnected.connect(func(): connection_state_changed.emit(\"disconnected\"))\n    return OK\n\n@rpc(\"any_peer\", \"reliable\")\nfunc request_ready() -> void:\n    if not multiplayer.is_server():\n        return\n    var sender_id := multiplayer.get_remote_sender_id()\n    if sender_id <= 0 or not multiplayer.get_peers().has(sender_id):\n        return\n    ready_by_peer[sender_id] = true\n    _sync_lobby.rpc(ready_by_peer)\n\n@rpc(\"authority\", \"call_local\", \"reliable\")\nfunc _sync_lobby(next_ready_by_peer: Dictionary) -> void:\n    ready_by_peer = next_ready_by_peer.duplicate()\n    lobby_changed.emit(ready_by_peer)\n\nfunc _on_peer_connected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer[peer_id] = false\n        _sync_lobby.rpc(ready_by_peer)\n\nfunc _on_peer_disconnected(peer_id: int) -> void:\n    if multiplayer.is_server():\n        ready_by_peer.erase(peer_id)\n        _sync_lobby.rpc(ready_by_peer)\n    # Despawn/authority cleanup phải do server thực hiện trước khi UI cập nhật.",
+        "objective": "Nối transport, lobby, authority và state replication thành một luồng kiểm soát được."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Thử thách kiến trúc online",
+        "content": "Viết hàm chỉ cho phép release khi protocol, smoke test, rollback và incident owner sẵn sàng.",
+        "correct_answer": "func can_release_online(protocol_verified: bool, smoke_tested: bool, rollback_ready: bool, incident_owner_assigned: bool) -> bool:\n    return protocol_verified and smoke_tested and rollback_ready and incident_owner_assigned",
+        "starter_code": "# Viết quy tắc server-side hoặc hàm thuần có thể test\n",
+        "hint": "Giữ API nhỏ: đầu vào đã biết, điều kiện validate rõ, kết quả không phụ thuộc vào UI local.",
+        "objective": "Thiết kế release/rollback theo version protocol và compatibility"
+      },
+      {
+        "type": "quiz",
+        "title": "Khi phát hiện exploit economy, ưu tiên đúng?",
+        "content": "Giảm tác động trước, xác minh server logs/state, rồi hotfix/rollback có kiểm soát.",
+        "options": [
+          "Chặn server-side action bị lạm dụng và kích hoạt incident",
+          "Chỉ ẩn nút UI client",
+          "Đợi bản cập nhật store vài tuần"
+        ],
+        "correct_index": 0
+      },
+      {
+        "type": "teach",
+        "title": "Kịch bản test hai client và lỗi mạng",
+        "content": "Game day: chạy dedicated server headless, test client version cũ/mới, fill capacity giả lập, kill process, mất network, reconnect, rollback server, abuse RPC và alert. Postmortem ghi timeline, player impact, nguyên nhân hệ thống, action owner, ngày kiểm tra lại.",
+        "code_snippet": "# Test matrix: host/client, latency, packet loss, disconnect, reconnect, duplicate RPC, build/version khác nhau.",
+        "objective": "Tái hiện lỗi online bằng build, peer, tick và steps rõ ràng thay vì chỉ nói 'lag'."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Mini build multiplayer",
+        "content": "Viết hàm xác định cần rollback khi lỗi nghiêm trọng và có bản an toàn.",
+        "correct_answer": "func should_rollback(severe_incident: bool, safe_previous_build: bool) -> bool:\n    return severe_incident and safe_previous_build",
+        "starter_code": "# Hoàn thiện một API multiplayer nhỏ\n",
+        "hint": "Không cần mở socket trong bài tập; viết phần rule/validation để sau đó gọi từ RPC ở server.",
+        "objective": "Tạo một mảnh ghép online có contract rõ ràng và dễ test."
+      },
+      {
+        "type": "code_challenge",
+        "title": "Ghép mạng: ngưỡng incident cho hotfix",
+        "content": "Tách quyết định hotfix khỏi cảm tính: xem tỷ lệ lỗi, số người bị ảnh hưởng và khả năng tái hiện.\n\nViết logic quyết định thuần trước. Khi gắn vào RPC, server phải gọi hàm này; client chỉ hiển thị kết quả đã được server xác nhận.",
+        "correct_answer": "func should_open_incident(error_rate: float, threshold: float, affected_players: int) -> bool:\n    return error_rate > threshold and affected_players > 0",
+        "starter_code": "# affected_players là số người chơi bị ảnh hưởng trong cửa sổ quan sát\n",
+        "hint": "Không tin peer ID, tick, payload hoặc trạng thái do client tự khai báo nếu chưa đối chiếu với state phía server.",
+        "objective": "Xây một quy tắc multiplayer có thể test độc lập trước khi nối vào RPC."
+      },
+      {
+        "type": "teach",
+        "title": "Bàn giao & vận hành",
+        "content": "Checklist:\n- Phân biệt game client, dedicated server và backend service\n- Thiết kế release/rollback theo version protocol và compatibility\n- Lập incident playbook cho crash, desync, exploit và capacity\n- Ghi authority của từng entity và RPC contract (caller, payload, validate, response).\n- Chạy test local host + hai client, rồi test disconnect/reconnect và packet đến muộn.\n- Không để secret hoặc quyền quyết định kinh tế/score ở client.\n\nTài liệu Godot 4.7.1: https://docs.godotengine.org/en/4.7/about/list_of_features.html | https://docs.godotengine.org/en/4.7/tutorials/networking/high_level_multiplayer.html | https://docs.godotengine.org/en/4.7/classes/class_multiplayerpeer.html | https://docs.godotengine.org/en/4.7/tutorials/export/index.html",
+        "code_snippet": "# Commit protocol, test cases và network metrics cùng với thay đổi gameplay.",
+        "objective": "Đưa multiplayer từ demo LAN thành nền tảng có thể mở rộng và vận hành."
       }
     ]
   }
